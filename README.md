@@ -32,8 +32,9 @@ Awesome software projects sub-categorized by focus.
 ### Well Log
 - [lasio](https://github.com/kinverarity1/lasio/) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
 - [Welly](https://github.com/agile-geoscience/welly) - Python library for dealing with well log data
-### Potential Methods
+### Simulation and Modelling
 - [Fatiando](http://www.fatiando.org/) - Python library for modeling and inversion in geophysics
+- [SimPEG](http://simpeg.xyz) - Simulation and parameter esimation in Python for geophysics
 ### Reservoir Engineering
 ### Uncertainty Calculations in Subsurface
 ### Geostatistics
