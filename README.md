@@ -39,6 +39,7 @@ Awesome software projects sub-categorized by focus.
 ### Uncertainty Calculations in Subsurface
 ### Geostatistics
 ### Visualization
+- [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) - About 80 command-line tools for manipulating geographic and Cartesian data sets
 
 ## Data Repositories
 - [Poseidon NW Australia](https://drive.google.com/drive/folders/0B7brcf-eGK8Cbk9ueHA0QUU4Zjg) - Interpreted 3D seismic (32bit) incl. reports and well logs
