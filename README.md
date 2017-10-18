@@ -13,6 +13,7 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
     - [Reservoir Engineering](#reservoir-engineering)
     - [Uncertainty Calculations in Subsurface](#uncertainty-calculations-in-subsurface)
     - [Geostatistics](#geostatistics)
+    - [Visualization](#visualization)
     - [Geospatial](#geospatial)
 - [Data Repositories](#data-repositories)
 - [Tutorials and Cheat Sheets](#tutorials-and-cheat-sheets)
@@ -24,9 +25,9 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 Awesome software projects sub-categorized by focus.
 
 ### Seismic
-
 - [Madagascar](http://www.ahay.org) Seismic Data Processing Suite
 - [ObsPy](https://github.com/obspy/obspy/wiki) - Python framework for seismic data I/O and processing
+- [Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges) - A bag of really useful geophysical equations and stuff
 ### Well Log
 - [lasio](https://github.com/kinverarity1/lasio) - Python package to read and write Log ASCII Standard (LAS) files, used for borehole data such as geophysical, geological, or petrophysical logs.
 - [Welly](https://github.com/agile-geoscience/welly) - Python library for dealing with well log data
