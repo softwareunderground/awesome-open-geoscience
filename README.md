@@ -9,12 +9,12 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 - [Software](#software)
     - [Seismic](#seismic)
     - [Well Log](#well-log)
-    - [Potential Methods](#potential-methods)
+    - [Simulation and Modelling](#simulation-and-modelling)
     - [Reservoir Engineering](#reservoir-engineering)
     - [Uncertainty Calculations in Subsurface](#uncertainty-calculations-in-subsurface)
     - [Geostatistics](#geostatistics)
-    - [Visualization](#visualization)
     - [Geospatial](#geospatial)
+    - [Visualization](#visualization)
 - [Data Repositories](#data-repositories)
 - [Tutorials and Cheat Sheets](#tutorials-and-cheat-sheets)
 - [Miscellaneous](#miscellaneous)
@@ -38,7 +38,7 @@ Awesome software projects sub-categorized by focus.
 ### Reservoir Engineering
 ### Uncertainty Calculations in Subsurface
 ### Geostatistics
-
+### Visualization
 
 ## Data Repositories
 - [Poseidon NW Australia](https://drive.google.com/drive/folders/0B7brcf-eGK8Cbk9ueHA0QUU4Zjg) - Interpreted 3D seismic (32bit) incl. reports and well logs
