@@ -24,7 +24,7 @@ Awesome software projects sub-categorized by focus.
 
 ### Seismic
 
-- [Madagascar](https://github.com/ahay) Seismic Data Processing Suite
+- [Madagascar](http://www.ahay.org) Seismic Data Processing Suite
 
 ### Well Log
 ### Potential Methods
