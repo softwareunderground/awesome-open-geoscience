@@ -25,14 +25,15 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 Awesome software projects sub-categorized by focus.
 
 ### Seismic
-- [Madagascar](http://www.ahay.org) Seismic Data Processing Suite
+- [Madagascar](http://www.ahay.org) - Seismic Data Processing Suite
 - [ObsPy](https://github.com/obspy/obspy/wiki) - Python framework for seismic data I/O and processing
 - [Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges) - A bag of really useful geophysical equations and stuff
+- [Segyio](https://github.com/Statoil/segyio) - Fast Python library for SEGY files.
 ### Well Log
-- [lasio](https://github.com/kinverarity1/lasio/) Python library for reading and writing well data using Log ASCII Standard (LAS) files
+- [lasio](https://github.com/kinverarity1/lasio/) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
 - [Welly](https://github.com/agile-geoscience/welly) - Python library for dealing with well log data
 ### Potential Methods
-- [Fatiando](http://www.fatiando.org/) Python library for modeling and inversion in geophysics
+- [Fatiando](http://www.fatiando.org/) - Python library for modeling and inversion in geophysics
 ### Reservoir Engineering
 ### Uncertainty Calculations in Subsurface
 ### Geostatistics
@@ -41,6 +42,12 @@ Awesome software projects sub-categorized by focus.
 ## Data Repositories
 
 ## Tutorials and Cheat Sheets
+
+- [Basic Geoscience Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed95fff0/1295033898443/Cheatsheet_basic.pdf) - Cheat Sheet for Basic Geoscience
+- [Geophysics Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d70e4b0d158ed9603f5/1350658645407/Cheatsheet_geophysics.pdf) - Cheat Sheet for Geophysics
+- [Rock Physics Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed960042/1374593568367/Cheatsheet_Rock_Physics.pdf) -  Cheat Sheet for Rock Physics
+- [Petroleum Science Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed96019e/1323808738753/Cheatsheet_petroleum.pdf) - Cheat Sheet for Petroleum Science
+
 
 ## Miscellaneous
 
