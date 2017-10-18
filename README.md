@@ -40,6 +40,7 @@ Awesome software projects sub-categorized by focus.
 
 
 ## Data Repositories
+- [Poseidon NW Australia](https://drive.google.com/drive/folders/0B7brcf-eGK8Cbk9ueHA0QUU4Zjg) - Interpreted 3D seismic (32bit) incl. reports and well logs
 
 ## Tutorials and Cheat Sheets
 
