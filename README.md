@@ -25,7 +25,9 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 Awesome software projects sub-categorized by focus.
 
 ### Seismic
-- [Madagascar](http://www.ahay.org) - Seismic Data Processing Suite
+- [Seismic Un\*x](https://github.com/JohnWStockwellJr/SeisUnix) - Seismic data processing suite
+- [Madagascar](http://www.ahay.org) - Multi-Dimensional data processing suite
+- [OpenSeaSeis](https://github.com/JohnWStockwellJr/OpenSeaSeis) - Seismic workflow generator and seismic viewer
 - [ObsPy](https://github.com/obspy/obspy/wiki) - Python framework for seismic data I/O and processing
 - [Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges) - A bag of really useful geophysical equations and stuff
 - [Segyio](https://github.com/Statoil/segyio) - Fast Python library for SEGY files.
@@ -40,6 +42,7 @@ Awesome software projects sub-categorized by focus.
 ### Geostatistics
 ### Visualization
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) - About 80 command-line tools for manipulating geographic and Cartesian data sets
+- [Open dTect](https://dgbes.com/index.php/software#free) - Visualization and interpretation package
 
 ## Data Repositories
 - [Poseidon NW Australia](https://drive.google.com/drive/folders/0B7brcf-eGK8Cbk9ueHA0QUU4Zjg) - Interpreted 3D seismic (32bit) incl. reports and well logs
