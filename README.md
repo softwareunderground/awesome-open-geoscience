@@ -23,6 +23,9 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 Awesome software projects sub-categorized by focus.
 
 ### Seismic
+
+- [Madagascar](https://github.com/ahay) Seismic Data Processing Suite
+
 ### Well Log
 ### Potential Methods
 ### Reservoir Engineering
