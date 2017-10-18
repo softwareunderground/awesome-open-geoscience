@@ -13,6 +13,7 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
     - [Reservoir Engineering](#reservoir-engineering)
     - [Uncertainty Calculations in Subsurface](#uncertainty-calculations-in-subsurface)
     - [Geostatistics](#geostatistics)
+    - [Geospatial](#geospatial)
 - [Data Repositories](#data-repositories)
 - [Tutorials and Cheat Sheets](#tutorials-and-cheat-sheets)
 - [Miscellaneous](#miscellaneous)
