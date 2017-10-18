@@ -28,6 +28,7 @@ Awesome software projects sub-categorized by focus.
 
 ### Well Log
 ### Potential Methods
+- [Fatiando](http://www.fatiando.org/) Python library for modeling and inversion in geophysics
 ### Reservoir Engineering
 ### Uncertainty Calculations in Subsurface
 ### Geostatistics
