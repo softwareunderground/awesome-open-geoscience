@@ -25,8 +25,10 @@ Awesome software projects sub-categorized by focus.
 ### Seismic
 
 - [Madagascar](http://www.ahay.org) Seismic Data Processing Suite
-
+- [ObsPy](https://github.com/obspy/obspy/wiki) - Python framework for seismic data I/O and processing
 ### Well Log
+- [lasio](https://github.com/kinverarity1/lasio) - Python package to read and write Log ASCII Standard (LAS) files, used for borehole data such as geophysical, geological, or petrophysical logs.
+- [Welly](https://github.com/agile-geoscience/welly) - Python library for dealing with well log data
 ### Potential Methods
 - [Fatiando](http://www.fatiando.org/) Python library for modeling and inversion in geophysics
 ### Reservoir Engineering
