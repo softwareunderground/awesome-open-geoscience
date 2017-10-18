@@ -2,30 +2,39 @@
 
 > Geoscience is [awesome](awesome.md). 
 
-Open geoscience is even more awesoem, so we made a list. This list is curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. In accordance with the awesome manifesto, we add awesome repositories. We are open to [contributions](contributing.md) of course, this is a community effort after all.
+Open geoscience is even more awesome, so we made a list. This list is curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. In accordance with the awesome manifesto, we add awesome repositories. We are open to [contributions](contributing.md) of course, this is a community effort after all.
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Software](#software)
+    - [Seismic](#seismic)
+    - [Well Log](#well-log)
+    - [Potential Methods](#potential-methods)
+    - [Reservoir Engineering](#reservoir-engineering)
+    - [Uncertainty Calculations in Subsurface](#uncertainty-calculations-in-subsurface)
+    - [Geostatistics](#geostatistics)
+- [Data Repositories](#data-repositories)
+- [Tutorials and Cheat Sheets](#tutorials-and-cheat-sheets)
+- [Miscellaneous](#miscellaneous)
 - [How to Contribute](#how-to-contribute)
 
 
-## Section
+## Software
+Awesome software projects sub-categorized by focus.
 
-About this section. Optional. Keep this short and focus on the list.
+### Seismic
+### Well Log
+### Potential Methods
+### Reservoir Engineering
+### Uncertainty Calculations in Subsurface
+### Geostatistics
 
-- [List item](http://example.com)
-- [List item](http://example.com)
 
+## Data Repositories
 
-## Another Section
+## Tutorials and Cheat Sheets
 
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+## Miscellaneous
 
 ## How to Contribute
 
