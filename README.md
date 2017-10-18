@@ -27,6 +27,7 @@ Awesome software projects sub-categorized by focus.
 - [Madagascar](http://www.ahay.org) Seismic Data Processing Suite
 
 ### Well Log
+- [lasio](https://github.com/kinverarity1/lasio/) Python library for reading and writing well data using Log ASCII Standard (LAS) files
 ### Potential Methods
 - [Fatiando](http://www.fatiando.org/) Python library for modeling and inversion in geophysics
 ### Reservoir Engineering
