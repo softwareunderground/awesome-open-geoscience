@@ -15,6 +15,7 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
     - [Geostatistics](#geostatistics)
     - [Geospatial](#geospatial)
     - [Visualization](#visualization)
+    - [Platforms](#platforms)
 - [Data Repositories](#data-repositories)
 - [Tutorials and Cheat Sheets](#tutorials-and-cheat-sheets)
 - [Miscellaneous](#miscellaneous)
@@ -41,10 +42,11 @@ Awesome software projects sub-categorized by focus.
 ### Uncertainty Calculations in Subsurface
 ### Geostatistics
 ### Geospatial
-### Visualization
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) - About 80 command-line tools for manipulating geographic and Cartesian data sets
+- [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) - An awesome list for geospatial, not specific to geoscience necessarily but significant overlap.
+### Visualization
+### Platforms
 - [Open dTect](https://dgbes.com/index.php/software#free) - Visualization and interpretation package
-
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
 
