@@ -37,8 +37,9 @@ Awesome software projects sub-categorized by focus.
 - [Welly](https://github.com/agile-geoscience/welly) - Python library for dealing with well log data
 - [Striplog](https://github.com/agile-geoscience/striplog) - Python library for displaying lithology and stratigraphic logs for wells and outcrop.
 ### Simulation and Modelling
-- [Fatiando](http://www.fatiando.org/) - Python library for modeling and inversion in geophysics
-- [SimPEG](http://simpeg.xyz) - Simulation and parameter esimation in Python for geophysics
+- [Fatiando](http://www.fatiando.org/) – Python library for modeling and inversion in geophysics
+- [SimPEG](http://simpeg.xyz) – Simulation and parameter esimation in Python for geophysics
+- [Devito](http://www.opesci.org/devito-public) – Python library for Finite-Difference computation from high-level symbolic problem definitions.
 ### Reservoir Engineering
 - [libres](https://github.com/Statoil/libres) - A tool for managing an ensemble of reservoir models
 - [libecl](https://github.com/Statoil/libecl) - A package for reading and writing the result files from the Eclipse reservoir simulator
