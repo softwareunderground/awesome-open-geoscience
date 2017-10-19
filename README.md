@@ -41,14 +41,14 @@ Awesome software projects sub-categorized by focus.
 - [SimPEG](http://simpeg.xyz) – Simulation and parameter esimation in Python for geophysics
 - [Devito](http://www.opesci.org/devito-public) – Python library for Finite-Difference computation from high-level symbolic problem definitions.
 ### Reservoir Engineering
-- [libres](https://github.com/Statoil/libres) - A tool for managing an ensemble of reservoir models
-- [libecl](https://github.com/Statoil/libecl) - A package for reading and writing the result files from the Eclipse reservoir simulator
+- [libres](https://github.com/Statoil/libres) - Tool for managing an ensemble of reservoir models
+- [libecl](https://github.com/Statoil/libecl) - Package for reading and writing the result Eclipse reservoir simulator files 
 ### Uncertainty Calculations in Subsurface
 ### Geostatistics
-- [pyKriging](https://github.com/capaulson/pyKriging) - A package for n-dimensional kriging
+- [pyKriging](https://github.com/capaulson/pyKriging) - Package for n-dimensional kriging
 ### Geospatial
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) - About 80 command-line tools for manipulating geographic and Cartesian data sets
-- [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) - An awesome list for geospatial, not specific to geoscience necessarily but significant overlap.
+- [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) - Awesome list for geospatial, not specific to geoscience but significant overlap.
 ### Visualization
 ### Platforms
 - [Open dTect](https://dgbes.com/index.php/software#free) - Visualization and interpretation package
@@ -58,7 +58,7 @@ Awesome software projects sub-categorized by focus.
 
 ## Data Repositories
 - [Poseidon NW Australia](https://drive.google.com/drive/folders/0B7brcf-eGK8Cbk9ueHA0QUU4Zjg) - Interpreted 3D seismic (32bit) incl. reports and well logs
-- [Digital Rocks Portal](https://www.digitalrocksportal.org/) - A data portal for fast storage and retrieval, sharing, organization and analysis of images of varied porous micro-structures
+- [Digital Rocks Portal](https://www.digitalrocksportal.org/) - Powerful data portal for images of varied porous micro-structures
 
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
