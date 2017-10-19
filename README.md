@@ -15,6 +15,7 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
     - [Geostatistics](#geostatistics)
     - [Geospatial](#geospatial)
     - [Visualization](#visualization)
+    - [Platforms](#platforms)
 - [Data Repositories](#data-repositories)
 - [Tutorials and Cheat Sheets](#tutorials-and-cheat-sheets)
 - [Miscellaneous](#miscellaneous)
@@ -34,6 +35,7 @@ Awesome software projects sub-categorized by focus.
 ### Well Log
 - [lasio](https://github.com/kinverarity1/lasio/) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
 - [Welly](https://github.com/agile-geoscience/welly) - Python library for dealing with well log data
+- [Striplog](https://github.com/agile-geoscience/striplog) - Python library for displaying lithology and stratigraphic logs for wells and outcrop.
 ### Simulation and Modelling
 - [Fatiando](http://www.fatiando.org/) - Python library for modeling and inversion in geophysics
 - [SimPEG](http://simpeg.xyz) - Simulation and parameter esimation in Python for geophysics
@@ -41,8 +43,10 @@ Awesome software projects sub-categorized by focus.
 ### Uncertainty Calculations in Subsurface
 ### Geostatistics
 ### Geospatial
-### Visualization
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) - About 80 command-line tools for manipulating geographic and Cartesian data sets
+- [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) - An awesome list for geospatial, not specific to geoscience necessarily but significant overlap.
+### Visualization
+### Platforms
 - [Open dTect](https://dgbes.com/index.php/software#free) - Visualization and interpretation package
 
 | ▲ [Top](#awesome-open-geoscience-) |
