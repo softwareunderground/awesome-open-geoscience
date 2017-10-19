@@ -40,6 +40,7 @@ Awesome software projects sub-categorized by focus.
 - [Fatiando](http://www.fatiando.org/) – Python library for modeling and inversion in geophysics
 - [SimPEG](http://simpeg.xyz) – Simulation and parameter esimation in Python for geophysics
 - [Devito](http://www.opesci.org/devito-public) – Python library for Finite-Difference computation from high-level symbolic problem definitions.
+- [bh_tomo](https://github.com/groupeLIAMG/bh_tomo) - A Matlab Borehole Radar/Seismic Tomography Package
 ### Reservoir Engineering
 - [libres](https://github.com/Statoil/libres) - Tool for managing an ensemble of reservoir models
 - [libecl](https://github.com/Statoil/libecl) - Package for reading and writing the result Eclipse reservoir simulator files 
