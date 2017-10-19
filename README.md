@@ -47,6 +47,7 @@ Awesome software projects sub-categorized by focus.
 ### Visualization
 ### Platforms
 - [Open dTect](https://dgbes.com/index.php/software#free) - Visualization and interpretation package
+
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
 
