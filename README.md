@@ -35,6 +35,7 @@ Awesome software projects sub-categorized by focus.
 ### Well Log
 - [lasio](https://github.com/kinverarity1/lasio/) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
 - [Welly](https://github.com/agile-geoscience/welly) - Python library for dealing with well log data
+- [Striplog](https://github.com/agile-geoscience/striplog) - Python library for displaying lithology and stratigraphic logs for wells and outcrop.
 ### Simulation and Modelling
 - [Fatiando](http://www.fatiando.org/) - Python library for modeling and inversion in geophysics
 - [SimPEG](http://simpeg.xyz) - Simulation and parameter esimation in Python for geophysics
