@@ -45,6 +45,7 @@ Awesome software projects sub-categorized by focus.
 - [libecl](https://github.com/Statoil/libecl) - A package for reading and writing the result files from the Eclipse reservoir simulator
 ### Uncertainty Calculations in Subsurface
 ### Geostatistics
+[pyKriging](https://github.com/capaulson/pyKriging) - A package for n-dimensional kriging
 ### Geospatial
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) - About 80 command-line tools for manipulating geographic and Cartesian data sets
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) - An awesome list for geospatial, not specific to geoscience necessarily but significant overlap.
