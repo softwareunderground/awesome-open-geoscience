@@ -47,6 +47,7 @@ Awesome software projects sub-categorized by focus.
 ### Geostatistics
 - [pyKriging](https://github.com/capaulson/pyKriging) - Package for n-dimensional kriging
 - [SGeMS](http://sgems.sourceforge.net/) - Stanford  Geostatistical Modeling Software
+- [HPGL](https://github.com/hpgl/hpgl) - High Perfomance Geostatistics Library 
 ### Geospatial
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) - About 80 command-line tools for manipulating geographic and Cartesian data sets
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) - Awesome list for geospatial, not specific to geoscience but significant overlap.
