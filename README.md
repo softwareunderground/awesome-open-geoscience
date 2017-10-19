@@ -40,6 +40,8 @@ Awesome software projects sub-categorized by focus.
 - [Fatiando](http://www.fatiando.org/) - Python library for modeling and inversion in geophysics
 - [SimPEG](http://simpeg.xyz) - Simulation and parameter esimation in Python for geophysics
 ### Reservoir Engineering
+- [libres](https://github.com/Statoil/libres) - A tool for managing an ensemble of reservoir models
+- [libecl](https://github.com/Statoil/libecl) - A package for reading and writing the result files from the Eclipse reservoir simulator
 ### Uncertainty Calculations in Subsurface
 ### Geostatistics
 ### Geospatial
