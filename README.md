@@ -40,6 +40,7 @@ Awesome software projects sub-categorized by focus.
 ### Reservoir Engineering
 ### Uncertainty Calculations in Subsurface
 ### Geostatistics
+### Geospatial
 ### Visualization
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) - About 80 command-line tools for manipulating geographic and Cartesian data sets
 - [Open dTect](https://dgbes.com/index.php/software#free) - Visualization and interpretation package
