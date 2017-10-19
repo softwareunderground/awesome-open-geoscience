@@ -65,6 +65,8 @@ Awesome software projects sub-categorized by focus.
 
 ## Miscellaneous
 
+- [Software Underground Slack](https://softwareunderground.org/) - Slack team connecting geo\computing researchers
+
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
 
