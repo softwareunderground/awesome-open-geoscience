@@ -30,7 +30,7 @@ Awesome software projects sub-categorized by focus.
 - [Madagascar](http://www.ahay.org) - Multi-Dimensional data processing suite
 - [OpenSeaSeis](https://github.com/JohnWStockwellJr/OpenSeaSeis) - Seismic workflow generator and seismic viewer
 - [ObsPy](https://github.com/obspy/obspy/wiki) - Python framework for seismic data I/O and processing
-- [Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges) - A bag of really useful geophysical equations and stuff
+- [Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges) - Useful geophysical equations and tools in Python
 - [Segyio](https://github.com/Statoil/segyio) - Fast Python library for SEGY files.
 ### Well Log
 - [lasio](https://github.com/kinverarity1/lasio/) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
