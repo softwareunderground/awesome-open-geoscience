@@ -44,13 +44,13 @@ Awesome software projects sub-categorized by focus.
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) - About 80 command-line tools for manipulating geographic and Cartesian data sets
 - [Open dTect](https://dgbes.com/index.php/software#free) - Visualization and interpretation package
 
-| ▲ [Top](awesome-open-geoscience-) |
+| ▲ [Top](#awesome-open-geoscience-) |
 | --- |
 
 ## Data Repositories
 - [Poseidon NW Australia](https://drive.google.com/drive/folders/0B7brcf-eGK8Cbk9ueHA0QUU4Zjg) - Interpreted 3D seismic (32bit) incl. reports and well logs
 
-| ▲ [Top](awesome-open-geoscience-) |
+| ▲ [Top](#awesome-open-geoscience-) |
 | --- |
 
 ## Tutorials and Cheat Sheets
@@ -60,19 +60,19 @@ Awesome software projects sub-categorized by focus.
 - [Rock Physics Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed960042/1374593568367/Cheatsheet_Rock_Physics.pdf) -  Cheat Sheet for Rock Physics
 - [Petroleum Science Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed96019e/1323808738753/Cheatsheet_petroleum.pdf) - Cheat Sheet for Petroleum Science
 
-| ▲ [Top](awesome-open-geoscience-) |
+| ▲ [Top](#awesome-open-geoscience-) |
 | --- |
 
 ## Miscellaneous
 
-| ▲ [Top](awesome-open-geoscience-) |
+| ▲ [Top](#awesome-open-geoscience-) |
 | --- |
 
 ## How to Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-| ▲ [Top](awesome-open-geoscience-) |
+| ▲ [Top](#awesome-open-geoscience-) |
 | --- |
 
 ## License
