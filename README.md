@@ -53,6 +53,7 @@ Awesome software projects sub-categorized by focus.
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) - About 80 command-line tools for manipulating geographic and Cartesian data sets
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) - Awesome list for geospatial, not specific to geoscience but significant overlap.
 ### Visualization
+[Colorcet](https://bokeh.github.io/colorcet/) - A Python library containing Peter Kovesi's Perceptual colormaps 
 ### Platforms
 - [Open dTect](https://dgbes.com/index.php/software#free) - Visualization and interpretation package
 
