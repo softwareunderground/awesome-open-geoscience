@@ -47,14 +47,15 @@ Awesome software projects sub-categorized by focus.
 ### Uncertainty Calculations in Subsurface
 ### Geostatistics
 - [pyKriging](https://github.com/capaulson/pyKriging) - Package for n-dimensional kriging
-- [SGeMS](http://sgems.sourceforge.net/) - Stanford  Geostatistical Modeling Software
+- [SGeMS](http://sgems.sourceforge.net/) - Stanford Geostatistical Modeling Software
 - [HPGL](https://github.com/hpgl/hpgl) - High Perfomance Geostatistics Library 
+- [gstat](https://github.com/edzer/gstat/) - R package for geostatistical modelling, prediction and simulation 
 ### Geospatial
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) - About 80 command-line tools for manipulating geographic and Cartesian data sets
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) - Awesome list for geospatial, not specific to geoscience but significant overlap.
 ### Visualization
 - [Colorcet](https://bokeh.github.io/colorcet/)  - - A Python library of perceptual colormaps 
-- [cmocean](http://matplotlib.org/cmocean/) - MAtPlotLib collection of perceptual colormaps for oceanography 
+- [cmocean](http://matplotlib.org/cmocean/) - MatPlotLib collection of perceptual colormaps for oceanography 
 ### Platforms
 - [Open dTect](https://dgbes.com/index.php/software#free) - Visualization and interpretation package
 
