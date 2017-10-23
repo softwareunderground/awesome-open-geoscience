@@ -41,6 +41,7 @@ Awesome software projects sub-categorized by focus.
 - [SimPEG](http://simpeg.xyz) – ![Python](media/icon/python.svg) Simulation and parameter esimation in geophysics
 - [Devito](http://www.opesci.org/devito-public) – ![Python](media/icon/python.svg) Finite-Difference computation from high-level symbolic problem definitions.
 - [bh_tomo](https://github.com/groupeLIAMG/bh_tomo) – ![matlab](media/icon/matlab.svg) Borehole Radar and Seismic Tomography Package
+- [Open Mining Format](http://omf.readthedocs.io/en/latest/index.html) – ![Python](media/icon/python.svg) A new standard for handling various mining data backed by the Global Mining Standards & Guidelines Group.
 ### Reservoir Engineering
 - [libres](https://github.com/Statoil/libres) – ![Python](media/icon/python.svg) Tool for managing an ensemble of reservoir models
 - [libecl](https://github.com/Statoil/libecl) – ![Python](media/icon/python.svg) I/O for Eclipse reservoir simulator files 
@@ -50,9 +51,11 @@ Awesome software projects sub-categorized by focus.
 - [SGeMS](http://sgems.sourceforge.net/) - Stanford  Geostatistical Modeling Software
 - [HPGL](https://github.com/hpgl/hpgl) – ![Python](media/icon/python.svg) High Perfomance Geostatistics Library 
 - [gstat](https://github.com/edzer/gstat/) – ![Python](media/icon/r.svg) Geostatistical modelling, prediction and simulation 
+- [PyGSLIB](https://opengeostat.github.io/pygslib/index.html) - ![Python](media/icon/r.svg) Mineral resource estimations with python scripts.
 ### Geospatial
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) – About 80 command-line tools for manipulating geographic and Cartesian data sets
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – Awesome list for geospatial, not specific to geoscience but significant overlap.
+- [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.svg) A Jupyter notebook extension for geospatial visualization and analysis. Developped by NASA!!!!
 ### Visualization
 - [Colorcet](https://bokeh.github.io/colorcet/)  – ![Python](media/icon/python.svg) Perceptual colormaps 
 - [cmocean](http://matplotlib.org/cmocean/) – ![Python](media/icon/python.svg) MatPlotLib collection of perceptual colormaps for oceanography 
