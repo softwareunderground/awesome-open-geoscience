@@ -50,7 +50,7 @@ Awesome software projects sub-categorized by focus.
 - [DuMu<sup>x</sup>](http://www.dumux.org) – ![C++](media/icon/cplusplus.svg) Simulator for flow and transport processes in porous media
 ### Geostatistics
 - [pyKriging](https://github.com/capaulson/pyKriging) – ![Python](media/icon/python.svg) N-dimensional kriging
-- [SGeMS](http://sgems.sourceforge.net/) - Stanford  Geostatistical Modeling Software
+- [SGeMS](http://sgems.sourceforge.net/) - ![CUDA](media/icon/cuda.svg) Stanford  Geostatistical Modeling Software
 - [HPGL](https://github.com/hpgl/hpgl) – ![Python](media/icon/python.svg) High Perfomance Geostatistics Library 
 - [gstat](https://github.com/edzer/gstat/) – ![Python](media/icon/r.svg) Geostatistical modelling, prediction and simulation 
 - [PyGSLIB](https://opengeostat.github.io/pygslib/index.html) - ![Python](media/icon/r.svg) Mineral resource estimations
