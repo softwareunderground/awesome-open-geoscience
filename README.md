@@ -25,9 +25,9 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 Awesome software projects sub-categorized by focus.
 
 ### Seismic
-- [Seismic Un\*x](https://github.com/JohnWStockwellJr/SeisUnix) – Seismic data processing suite
-- [Madagascar](http://www.ahay.org) – Multi-Dimensional data processing suite
-- [OpenSeaSeis](https://github.com/JohnWStockwellJr/OpenSeaSeis) - Seismic workflow generator and seismic viewer
+- [Seismic Un\*x](https://github.com/JohnWStockwellJr/SeisUnix) – ![C](media/icon/c.svg) Seismic data processing suite
+- [Madagascar](http://www.ahay.org) – ![C](media/icon/c.svg) ![Python](media/icon/python.svg) Multi-Dimensional data processing suite
+- [OpenSeaSeis](https://github.com/JohnWStockwellJr/OpenSeaSeis) - ![C++](media/icon/cplusplus.svg) Seismic workflow generator and seismic viewer
 - [ObsPy](https://github.com/obspy/obspy/wiki) – ![Python](media/icon/python.svg) Framework for seismic data I/O and processing
 - [Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges) – ![Python](media/icon/python.svg) Useful geophysical equations and tools
 - [Segyio](https://github.com/Statoil/segyio) – ![Python](media/icon/python.svg) / ![matlab](media/icon/matlab.svg) Fast library for SEGY files.
