@@ -45,6 +45,8 @@ Awesome software projects sub-categorized by focus.
 ### Reservoir Engineering
 - [libres](https://github.com/Statoil/libres) – ![Python](media/icon/python.svg) Tool for managing an ensemble of reservoir models
 - [libecl](https://github.com/Statoil/libecl) – ![Python](media/icon/python.svg) I/O for Eclipse reservoir simulator files 
+- [MRST - MATLAB Reservoir Simulation Toolbox](http://www.sintef.no/projectweb/mrst) – ![matlab](media/icon/matlab.svg) An open-source toolbox for rapid prototyping and demonstration of new simulation methods in reservoir modelling and simulation
+- [DuMu<sup>x</sup>](http://www.dumux.org) – ![C++](media/icon/cplusplus.svg) An open-source simulator for flow and transport processes in porous media
 ### Uncertainty Calculations in Subsurface
 ### Geostatistics
 - [pyKriging](https://github.com/capaulson/pyKriging) – ![Python](media/icon/python.svg) N-dimensional kriging
