@@ -60,7 +60,7 @@ Awesome software projects sub-categorized by focus.
 - [Colorcet](https://bokeh.github.io/colorcet/)  – ![Python](media/icon/python.svg) Perceptual colormaps 
 - [cmocean](http://matplotlib.org/cmocean/) – ![Python](media/icon/python.svg) MatPlotLib collection of perceptual colormaps for oceanography 
 ### Platforms
-- [OpendTect](https://dgbes.com/index.php/software#free) – Visualization and interpretation package
+- [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package
 
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
