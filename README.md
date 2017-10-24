@@ -41,6 +41,7 @@ Awesome software projects sub-categorized by focus.
 - [Devito](http://www.opesci.org/devito-public) – ![Python](media/icon/python.svg) Finite-Difference computation from high-level symbolic problem definitions.
 - [bh_tomo](https://github.com/groupeLIAMG/bh_tomo) – ![matlab](media/icon/matlab.svg) Borehole Radar and Seismic Tomography Package
 - [Open Mining Format](http://omf.readthedocs.io/en/latest/index.html) – ![Python](media/icon/python.svg) Versatile mining data standard
+- [gprMax](http://www.gprmax.com/) – ![Python](media/icon/python.svg) Finite-difference time-domain electromagnetic wave propagation simulator. 
 - [modelr.io](https://www.modelr.io/) – ![Python](media/icon/python.svg) ![Javascript](media/icon/javascript.svg) Web app for simple synthetic seismic forward modeling.
 ### Reservoir Engineering
 - [libres](https://github.com/Statoil/libres) – ![Python](media/icon/python.svg) Tool for managing an ensemble of reservoir models
