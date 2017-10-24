@@ -55,7 +55,7 @@ Awesome software projects sub-categorized by focus.
 ### Geospatial
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) – About 80 command-line tools for manipulating geographic and Cartesian data sets
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – Awesome list for geospatial, not specific to geoscience but significant overlap.
-- [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.svg) Jupyter notebook extension for geospatial visualization and analysis. Developed by NASA!
+- [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.svg) Jupyter notebook extension for geospatial visualization and analysis. Developed by NASA.
 ### Visualization
 - [Colorcet](https://bokeh.github.io/colorcet/)  – ![Python](media/icon/python.svg) Perceptual colormaps 
 - [cmocean](http://matplotlib.org/cmocean/) – ![Python](media/icon/python.svg) MatPlotLib collection of perceptual colormaps for oceanography 
