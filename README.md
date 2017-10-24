@@ -11,7 +11,6 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
     - [Well Log](#well-log)
     - [Simulation and Modelling](#simulation-and-modelling)
     - [Reservoir Engineering](#reservoir-engineering)
-    - [Uncertainty Calculations in Subsurface](#uncertainty-calculations-in-subsurface)
     - [Geostatistics](#geostatistics)
     - [Geospatial](#geospatial)
     - [Visualization](#visualization)
