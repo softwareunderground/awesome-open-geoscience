@@ -35,6 +35,7 @@ Awesome software projects sub-categorized by focus.
 - [lasio](https://github.com/kinverarity1/lasio/) – ![Python](media/icon/python.svg) Reading and writing well data using Log ASCII Standard (LAS) files
 - [Welly](https://github.com/agile-geoscience/welly) – ![Python](media/icon/python.svg) Analyzing and processing well log data
 - [Striplog](https://github.com/agile-geoscience/striplog) – ![Python](media/icon/python.svg) Display lithological and stratigraphic logs for wells and outcrop.
+- [FuzzyLAS](http://fuzzylas.appspot.com/) – Web app for looking up curve mnemonics
 ### Simulation and Modelling
 - [Fatiando](http://www.fatiando.org/) – ![Python](media/icon/python.svg) Modeling and inversion in geophysics
 - [SimPEG](http://simpeg.xyz) – ![Python](media/icon/python.svg) Simulation and parameter esimation in geophysics
