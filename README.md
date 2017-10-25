@@ -25,9 +25,9 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 Awesome software projects sub-categorized by focus.
 
 ### Seismic
-- [Seismic Un\*x](https://github.com/JohnWStockwellJr/SeisUnix) – Seismic data processing suite
-- [Madagascar](http://www.ahay.org) – Multi-Dimensional data processing suite
-- [OpenSeaSeis](https://github.com/JohnWStockwellJr/OpenSeaSeis) - Seismic workflow generator and seismic viewer
+- [Seismic Un\*x](https://github.com/JohnWStockwellJr/SeisUnix) – ![C](media/icon/c.svg) Seismic data processing suite
+- [Madagascar](http://www.ahay.org) – ![C](media/icon/c.svg) ![Python](media/icon/python.svg) Multi-Dimensional data processing suite
+- [OpenSeaSeis](https://github.com/JohnWStockwellJr/OpenSeaSeis) - ![C++](media/icon/cplusplus.svg) Seismic workflow generator and seismic viewer
 - [ObsPy](https://github.com/obspy/obspy/wiki) – ![Python](media/icon/python.svg) Framework for seismic data I/O and processing
 - [Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges) – ![Python](media/icon/python.svg) Useful geophysical equations and tools
 - [Segyio](https://github.com/Statoil/segyio) – ![Python](media/icon/python.svg) / ![matlab](media/icon/matlab.svg) Fast library for SEGY files.
@@ -41,7 +41,6 @@ Awesome software projects sub-categorized by focus.
 - [SimPEG](http://simpeg.xyz) – ![Python](media/icon/python.svg) Simulation and parameter esimation in geophysics
 - [Devito](http://www.opesci.org/devito-public) – ![Python](media/icon/python.svg) Finite-Difference computation from high-level symbolic problem definitions.
 - [bh_tomo](https://github.com/groupeLIAMG/bh_tomo) – ![matlab](media/icon/matlab.svg) Borehole Radar and Seismic Tomography Package
-- [Open Mining Format](http://omf.readthedocs.io/en/latest/index.html) – ![Python](media/icon/python.svg) Versatile mining data standard
 - [gprMax](http://www.gprmax.com/) – ![Python](media/icon/python.svg) ![CUDA](media/icon/cuda.svg) Finite-difference time-domain electromagnetic wave propagation simulator. gprMax can be run on either CPU or GPU. 
 - [modelr.io](https://www.modelr.io/) – ![Python](media/icon/python.svg) ![Javascript](media/icon/javascript.svg) Web app for simple synthetic seismic forward modeling.
 ### Reservoir Engineering
@@ -51,7 +50,7 @@ Awesome software projects sub-categorized by focus.
 - [DuMu<sup>x</sup>](http://www.dumux.org) – ![C++](media/icon/cplusplus.svg) Simulator for flow and transport processes in porous media
 ### Geostatistics
 - [pyKriging](https://github.com/capaulson/pyKriging) – ![Python](media/icon/python.svg) N-dimensional kriging
-- [SGeMS](http://sgems.sourceforge.net/) - Stanford  Geostatistical Modeling Software
+- [SGeMS](http://sgems.sourceforge.net/) - ![CUDA](media/icon/cuda.svg) Stanford  Geostatistical Modeling Software
 - [HPGL](https://github.com/hpgl/hpgl) – ![Python](media/icon/python.svg) High Perfomance Geostatistics Library 
 - [gstat](https://github.com/edzer/gstat/) – ![Python](media/icon/r.svg) Geostatistical modelling, prediction and simulation 
 - [PyGSLIB](https://opengeostat.github.io/pygslib/index.html) - ![Python](media/icon/r.svg) Mineral resource estimations
@@ -88,6 +87,7 @@ Awesome software projects sub-categorized by focus.
 ## Miscellaneous
 
 - [Software Underground Slack](https://softwareunderground.org/) – ![slack](media/icon/slack.svg) Community connecting geo\computing researchers
+- [Open Mining Format](http://omf.readthedocs.io/en/latest/index.html) – ![Python](media/icon/python.svg) Versatile mining data standard
 
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
