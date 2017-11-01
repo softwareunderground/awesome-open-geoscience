@@ -53,7 +53,7 @@ Awesome software projects sub-categorized by focus.
 - [SGeMS](http://sgems.sourceforge.net/) - ![CUDA](media/icon/cuda.svg) Stanford  Geostatistical Modeling Software
 - [HPGL](https://github.com/hpgl/hpgl) – ![Python](media/icon/python.svg) High Perfomance Geostatistics Library 
 - [gstat](https://github.com/edzer/gstat/) – ![Python](media/icon/r.svg) Geostatistical modelling, prediction and simulation 
-- [PyGSLIB](https://opengeostat.github.io/pygslib/index.html) - ![Python](media/icon/r.svg) Mineral resource estimations
+- [PyGSLIB](https://opengeostat.github.io/pygslib/index.html) - ![Python](media/icon/python.svg) Mineral resource estimations
 ### Geospatial
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) – About 80 command-line tools for manipulating geographic and Cartesian data sets
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – Awesome list for geospatial, not specific to geoscience but significant overlap.
