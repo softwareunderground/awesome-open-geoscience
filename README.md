@@ -38,7 +38,7 @@ Awesome software projects sub-categorized by focus.
 - [FuzzyLAS](http://fuzzylas.appspot.com/) – Web app for looking up curve mnemonics
 ### Simulation and Modelling
 - [Fatiando a Terra](http://www.fatiando.org/) – ![Python](media/icon/python.svg) Modeling and inversion in geophysics
-- [SimPEG](http://simpeg.xyz) – ![Python](media/icon/python.svg) Simulation and parameter esimation in geophysics
+- [SimPEG](http://simpeg.xyz) – ![Python](media/icon/python.svg) Simulation and parameter estimation in geophysics
 - [Devito](http://www.opesci.org/devito-public) – ![Python](media/icon/python.svg) Finite-Difference computation from high-level symbolic problem definitions.
 - [bh_tomo](https://github.com/groupeLIAMG/bh_tomo) – ![matlab](media/icon/matlab.svg) Borehole Radar and Seismic Tomography Package
 - [gprMax](http://www.gprmax.com/) – ![Python](media/icon/python.svg) ![CUDA](media/icon/cuda.svg) Finite-difference time-domain electromagnetic wave propagation simulator. gprMax can be run on either CPU or GPU. 
