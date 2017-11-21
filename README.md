@@ -43,6 +43,7 @@ Awesome software projects sub-categorized by focus.
 - [bh_tomo](https://github.com/groupeLIAMG/bh_tomo) – ![matlab](media/icon/matlab.svg) Borehole Radar and Seismic Tomography Package
 - [gprMax](http://www.gprmax.com/) – ![Python](media/icon/python.svg) ![CUDA](media/icon/cuda.svg) Finite-difference time-domain electromagnetic wave propagation simulator. gprMax can be run on either CPU or GPU. 
 - [modelr.io](https://www.modelr.io/) – ![Python](media/icon/python.svg) ![Javascript](media/icon/javascript.svg) Web app for simple synthetic seismic forward modeling.
+- [ModFlow](https://water.usgs.gov/ogw/modflow/MODFLOW.html) - Flow modelling software distributed by the USGS to simulate and predict groundwater conditions and groundwater/surface-water interactions, also comes with additional [variants and add-ons](https://water.usgs.gov/ogw/modflow/).  
 ### Reservoir Engineering
 - [libres](https://github.com/Statoil/libres) – ![Python](media/icon/python.svg) Tool for managing an ensemble of reservoir models
 - [libecl](https://github.com/Statoil/libecl) – ![Python](media/icon/python.svg) I/O for Eclipse reservoir simulator files 
@@ -59,10 +60,10 @@ Awesome software projects sub-categorized by focus.
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – Awesome list for geospatial, not specific to geoscience but significant overlap.
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.svg) Jupyter notebook extension for geospatial visualization and analysis. Developed by NASA.
 - [Stress2Grid](http://pmd.gfz-potsdam.de/wsm/showshort.php?id=escidoc:2112906) – MATLAB script provides two different concepts to calculate the mean SHmax orientation.
+- [QGIS](http://www.qgis.com/) - GIS platform that allows you to visualize, manage, edit, analyse data, and compose printable maps.  
 ### Geochemistry
 - [PhreeQC](https://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/) - ![C++](media/icon/cplusplus.svg) Reactions in water and between water and rocks and sediments. Speciation, Batch-Reaction, One-Dimensional Transport, and Inverse Geochemical Calculations
 - [Reaktoro](http://reaktoro.org/) - ![C++](media/icon/cplusplus.svg) ![Python](media/icon/python.svg) Unified framework for modeling chemically reactive systems
-
 ### Visualization
 - [Colorcet](https://bokeh.github.io/colorcet/)  – ![Python](media/icon/python.svg) Perceptual colormaps 
 - [cmocean](http://matplotlib.org/cmocean/) – ![Python](media/icon/python.svg) MatPlotLib collection of perceptual colormaps for oceanography 
