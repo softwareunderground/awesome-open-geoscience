@@ -77,6 +77,8 @@ Awesome software projects sub-categorized by focus.
 - [Poseidon NW Australia](https://drive.google.com/drive/folders/0B7brcf-eGK8Cbk9ueHA0QUU4Zjg) – Interpreted 3D seismic (32bit) incl. reports and well logs
 - [Digital Rocks Portal](https://www.digitalrocksportal.org/) – Powerful data portal for images of varied porous micro-structures
 - [World Stress Map](http://www.world-stress-map.org/) – A global compilation of information on the crustal present-day stress field 
+- [NOPIMS](https://nopims.dmp.wa.gov.au/nopims/) - Open petroleum geoscience data from Western Australia made available by the Australian Government
+- [UKOilandGasData](https://www.ukoilandgasdata.com/) - Open petroleum geoscience data from the UK Government (free registration required)
 
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
