@@ -79,6 +79,7 @@ Awesome software projects sub-categorized by focus.
 - [World Stress Map](http://www.world-stress-map.org/) – A global compilation of information on the crustal present-day stress field 
 - [NOPIMS](https://nopims.dmp.wa.gov.au/nopims/) - Open petroleum geoscience data from Western Australia made available by the Australian Government
 - [UKOilandGasData](https://www.ukoilandgasdata.com/) - Open petroleum geoscience data from the UK Government (free registration required)
+- [Athabasca Oil Sands Data McMurray/Wabiskaw Oil Sands Deposit](http://ags.aer.ca/publications/SPE_006.html) - Database of well logs and stratigraphic picks for 2193 wells, including about 750 wells that have core analyses with facies. 
 
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
