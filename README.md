@@ -43,7 +43,8 @@ Awesome software projects sub-categorized by focus.
 - [bh_tomo](https://github.com/groupeLIAMG/bh_tomo) – ![matlab](media/icon/matlab.svg) Borehole Radar and Seismic Tomography Package
 - [gprMax](http://www.gprmax.com/) – ![Python](media/icon/python.svg) ![CUDA](media/icon/cuda.svg) Finite-difference time-domain electromagnetic wave propagation simulator. gprMax can be run on either CPU or GPU. 
 - [modelr.io](https://www.modelr.io/) – ![Python](media/icon/python.svg) ![Javascript](media/icon/javascript.svg) Web app for simple synthetic seismic forward modeling.
-- [ModFlow](https://water.usgs.gov/ogw/modflow/MODFLOW.html) - Flow modelling software distributed by the USGS to simulate and predict groundwater conditions and groundwater/surface-water interactions, also comes with additional [variants and add-ons](https://water.usgs.gov/ogw/modflow/).  
+- [ModFlow](https://water.usgs.gov/ogw/modflow/MODFLOW.html) - Flow modelling software distributed by the USGS to simulate and predict groundwater conditions and groundwater/surface-water interactions, also comes with additional [variants and add-ons](https://water.usgs.gov/ogw/modflow/).
+- [pyGIMLi](https://www.pygimli.org/) - ![Python] ![C++] Fan open-source multi-method library for solving inverse and forward tasks related to geophysical problems. Written in C++ and Python.
 ### Reservoir Engineering
 - [libres](https://github.com/Statoil/libres) – ![Python](media/icon/python.svg) Tool for managing an ensemble of reservoir models
 - [libecl](https://github.com/Statoil/libecl) – ![Python](media/icon/python.svg) I/O for Eclipse reservoir simulator files 
