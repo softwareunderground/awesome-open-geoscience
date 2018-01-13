@@ -58,9 +58,9 @@ Awesome software projects sub-categorized by focus.
 - [PyGSLIB](https://opengeostat.github.io/pygslib/index.html) - ![Python](media/icon/python.svg) Mineral resource estimations
 ### Geospatial
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) – About 80 command-line tools for manipulating geographic and Cartesian data sets
-- [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – Awesome list for geospatial, not specific to geoscience but significant overlap.
+- [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) Awesome list for geospatial, not specific to geoscience but significant overlap.
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.svg) Jupyter notebook extension for geospatial visualization and analysis. Developed by NASA.
-- [Stress2Grid](http://pmd.gfz-potsdam.de/wsm/showshort.php?id=escidoc:2112906) – MATLAB script provides two different concepts to calculate the mean SHmax orientation.
+- [Stress2Grid](http://pmd.gfz-potsdam.de/wsm/showshort.php?id=escidoc:2112906) – ![matlab](media/icon/matlab.svg) Two concepts to calculate the mean SHmax orientation.
 - [QGIS](http://www.qgis.com/) - GIS platform that allows you to visualize, manage, edit, analyse data, and compose printable maps.  
 ### Geochemistry
 - [PhreeQC](https://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/) - ![C++](media/icon/cplusplus.svg) Reactions in water and between water and rocks and sediments. Speciation, Batch-Reaction, One-Dimensional Transport, and Inverse Geochemical Calculations
