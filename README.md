@@ -70,6 +70,7 @@ Awesome software projects sub-categorized by focus.
 - [cmocean](http://matplotlib.org/cmocean/) – ![Python](media/icon/python.svg) MatPlotLib collection of perceptual colormaps for oceanography 
 ### Platforms
 - [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package
+- [RINGMesh](https://github.com/ringmesh/RINGMesh) - ![C++](media/icon/cplusplus.svg) RINGMesh is a C++ open-source platform for manipulating meshes of geological models
 
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
