@@ -71,6 +71,8 @@ Awesome software projects sub-categorized by focus.
 ### Platforms
 - [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package
 - [RINGMesh](https://github.com/ringmesh/RINGMesh) - ![C++](media/icon/cplusplus.svg) RINGMesh is a C++ open-source platform for manipulating meshes of geological models
+### Data Management
+- [Fesapi](https://github.com/F2I-Consulting/fesapi) – I/O for [RESQML2](https://www.energistics.org/resqml-data-standards/) files (C++ with Java and C# wrappers)
 
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
