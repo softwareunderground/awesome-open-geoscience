@@ -50,6 +50,7 @@ Awesome software projects sub-categorized by focus.
 - [libecl](https://github.com/Statoil/libecl) – ![Python](media/icon/python.svg) I/O for Eclipse reservoir simulator files 
 - [MRST](http://www.sintef.no/projectweb/mrst) – ![matlab](media/icon/matlab.svg) Rapid prototyping and demonstration of new simulation methods in reservoir modelling and simulation
 - [DuMu<sup>x</sup>](http://www.dumux.org) – ![C++](media/icon/cplusplus.svg) Simulator for flow and transport processes in porous media
+- [Fesapi](https://github.com/F2I-Consulting/fesapi) – I/O for [RESQML2](https://www.energistics.org/resqml-data-standards/) files (C++ with Java and C# wrappers)
 ### Geostatistics
 - [pyKriging](https://github.com/capaulson/pyKriging) – ![Python](media/icon/python.svg) N-dimensional kriging
 - [SGeMS](http://sgems.sourceforge.net/) - ![CUDA](media/icon/cuda.svg) Stanford  Geostatistical Modeling Software
@@ -71,8 +72,6 @@ Awesome software projects sub-categorized by focus.
 ### Platforms
 - [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package
 - [RINGMesh](https://github.com/ringmesh/RINGMesh) - ![C++](media/icon/cplusplus.svg) RINGMesh is a C++ open-source platform for manipulating meshes of geological models
-### Data Management
-- [Fesapi](https://github.com/F2I-Consulting/fesapi) – I/O for [RESQML2](https://www.energistics.org/resqml-data-standards/) files (C++ with Java and C# wrappers)
 
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
