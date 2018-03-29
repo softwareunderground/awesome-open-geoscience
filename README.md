@@ -66,6 +66,8 @@ Awesome software projects sub-categorized by focus.
 ### Geochemistry
 - [PhreeQC](https://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/) - ![C++](media/icon/cplusplus.svg) Reactions in water and between water and rocks and sediments. Speciation, Batch-Reaction, One-Dimensional Transport, and Inverse Geochemical Calculations
 - [Reaktoro](http://reaktoro.org/) - ![C++](media/icon/cplusplus.svg) ![Python](media/icon/python.svg) Unified framework for modeling chemically reactive systems
+### Structural geology
+- [mplStereonet](https://github.com/joferkington/mplstereonet) - ![Python](media/icon/python.svg) Stereonets on python based on Matplotlib
 ### Visualization
 - [Colorcet](https://bokeh.github.io/colorcet/)  – ![Python](media/icon/python.svg) Perceptual colormaps 
 - [cmocean](http://matplotlib.org/cmocean/) – ![Python](media/icon/python.svg) MatPlotLib collection of perceptual colormaps for oceanography 
