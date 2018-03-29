@@ -45,6 +45,7 @@ Awesome software projects sub-categorized by focus.
 - [modelr.io](https://www.modelr.io/) – ![Python](media/icon/python.svg) ![Javascript](media/icon/javascript.svg) Web app for simple synthetic seismic forward modeling.
 - [ModFlow](https://water.usgs.gov/ogw/modflow/MODFLOW.html) - Flow modelling software distributed by the USGS to simulate and predict groundwater conditions and groundwater/surface-water interactions, also comes with additional [variants and add-ons](https://water.usgs.gov/ogw/modflow/).
 - [pyGIMLi](https://www.pygimli.org/) - ![Python](media/icon/python.svg) ![C++](media/icon/cplusplus.svg) An open-source multi-method library for solving inverse and forward tasks related to geophysical problems. Written in C++ and Python.
+- [GemPy](https://github.com/cgre-aachen/gempy) - ![Python](media/icon/python.svg) Python-based 3-D structural geological modeling software with implicit modelling and support for stochastic modelling.
 ### Reservoir Engineering
 - [libres](https://github.com/Statoil/libres) – ![Python](media/icon/python.svg) Tool for managing an ensemble of reservoir models
 - [libecl](https://github.com/Statoil/libecl) – ![Python](media/icon/python.svg) I/O for Eclipse reservoir simulator files 
