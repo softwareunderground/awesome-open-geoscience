@@ -87,6 +87,7 @@ Awesome software projects sub-categorized by focus.
 - [NOPIMS](https://nopims.dmp.wa.gov.au/nopims/) - Open petroleum geoscience data from Western Australia made available by the Australian Government
 - [UKOilandGasData](https://www.ukoilandgasdata.com/) - Open petroleum geoscience data from the UK Government (free registration required)
 - [Athabasca Oil Sands Well Dataset McMurray/Wabiskaw](http://ags.aer.ca/publications/SPE_006.html) - Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada. 
+- [ICGEM](http://icgem.gfz-potsdam.de) - Hosts gravity field spherical harmonic models and provides a webservice for generating grids of gravity functionals (geoid, gravity anomaly, vertical derivatives, etc). 
 
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
