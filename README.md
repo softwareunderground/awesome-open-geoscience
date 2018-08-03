@@ -90,6 +90,7 @@ Awesome software projects sub-categorized by focus.
 - [UKOilandGasData](https://www.ukoilandgasdata.com/) - Open petroleum geoscience data from the UK Government (free registration required)
 - [Athabasca Oil Sands Well Dataset McMurray/Wabiskaw](http://ags.aer.ca/publications/SPE_006.html) - Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada. 
 - [ICGEM](http://icgem.gfz-potsdam.de) - Hosts gravity field spherical harmonic models and provides a webservice for generating grids of gravity functionals (geoid, gravity anomaly, vertical derivatives, etc). 
+[Equinor Volve Dataset](https://data-equinor-com.azurewebsites.net/authenticate) and (https://www.equinor.com/en/news/14jun2018-disclosing-volve-data.html) - Seismic, VSP, well, reservoir model, and production data [Screenshot of available data](https://twitter.com/ZaneJobe/status/1007713192523358208)
 
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
