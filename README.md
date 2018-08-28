@@ -1,6 +1,6 @@
 # awesome-open-geoscience [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Geoscience is [awesome](awesome.md). 
+> Geoscience is [awesome](awesome.md).
 
 Open geoscience is even more awesome, so we made a list. This list is curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. In accordance with the awesome manifesto, we add awesome repositories. We are open to [contributions](contributing.md) of course, this is a community effort after all.
 
@@ -41,7 +41,7 @@ Awesome software projects sub-categorized by focus.
 - [SimPEG](http://simpeg.xyz) – ![Python](media/icon/python.svg) Simulation and parameter estimation in geophysics
 - [Devito](http://www.opesci.org/devito-public) – ![Python](media/icon/python.svg) Finite-Difference computation from high-level symbolic problem definitions.
 - [bh_tomo](https://github.com/groupeLIAMG/bh_tomo) – ![matlab](media/icon/matlab.svg) Borehole Radar and Seismic Tomography Package
-- [gprMax](http://www.gprmax.com/) – ![Python](media/icon/python.svg) ![CUDA](media/icon/cuda.svg) Finite-difference time-domain electromagnetic wave propagation simulator. gprMax can be run on either CPU or GPU. 
+- [gprMax](http://www.gprmax.com/) – ![Python](media/icon/python.svg) ![CUDA](media/icon/cuda.svg) Finite-difference time-domain electromagnetic wave propagation simulator. gprMax can be run on either CPU or GPU.
 - [modelr.io](https://www.modelr.io/) – ![Python](media/icon/python.svg) ![Javascript](media/icon/javascript.svg) Web app for simple synthetic seismic forward modeling.
 - [ModFlow](https://water.usgs.gov/ogw/modflow/MODFLOW.html) - Flow modelling software distributed by the USGS to simulate and predict groundwater conditions and groundwater/surface-water interactions, also comes with additional [variants and add-ons](https://water.usgs.gov/ogw/modflow/).
 - [pyGIMLi](https://www.pygimli.org/) - ![Python](media/icon/python.svg) ![C++](media/icon/cplusplus.svg) An open-source multi-method library for solving inverse and forward tasks related to geophysical problems. Written in C++ and Python.
@@ -50,15 +50,15 @@ Awesome software projects sub-categorized by focus.
 - [Landlab](https://github.com/landlab/landlab) - ![Python](media/icon/python.svg) Simulate surface processes using a large suite of existing interoperable process components, and/or develop your own. Possibilities include landscape evolution, sediment dynamics, surface hydrology, ecohydrology, etc.
 ### Reservoir Engineering
 - [libres](https://github.com/Statoil/libres) – ![Python](media/icon/python.svg) Tool for managing an ensemble of reservoir models
-- [libecl](https://github.com/Statoil/libecl) – ![Python](media/icon/python.svg) I/O for Eclipse reservoir simulator files 
+- [libecl](https://github.com/Statoil/libecl) – ![Python](media/icon/python.svg) I/O for Eclipse reservoir simulator files
 - [MRST](http://www.sintef.no/projectweb/mrst) – ![matlab](media/icon/matlab.svg) Rapid prototyping and demonstration of new simulation methods in reservoir modelling and simulation
 - [DuMu<sup>x</sup>](http://www.dumux.org) – ![C++](media/icon/cplusplus.svg) Simulator for flow and transport processes in porous media
 - [Fesapi](https://github.com/F2I-Consulting/fesapi) – I/O for [RESQML2](https://www.energistics.org/resqml-data-standards/) files (C++ with Java and C# wrappers)
 ### Geostatistics
 - [pyKriging](https://github.com/capaulson/pyKriging) – ![Python](media/icon/python.svg) N-dimensional kriging
 - [SGeMS](http://sgems.sourceforge.net/) - ![CUDA](media/icon/cuda.svg) Stanford  Geostatistical Modeling Software
-- [HPGL](https://github.com/hpgl/hpgl) – ![Python](media/icon/python.svg) High Perfomance Geostatistics Library 
-- [gstat](https://github.com/edzer/gstat/) – ![Python](media/icon/r.svg) Geostatistical modelling, prediction and simulation 
+- [HPGL](https://github.com/hpgl/hpgl) – ![Python](media/icon/python.svg) High Perfomance Geostatistics Library
+- [gstat](https://github.com/edzer/gstat/) – ![Python](media/icon/r.svg) Geostatistical modelling, prediction and simulation
 - [PyGSLIB](https://opengeostat.github.io/pygslib/index.html) - ![Python](media/icon/python.svg) Mineral resource estimations
 ### Geospatial
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) – About 80 command-line tools for manipulating geographic and Cartesian data sets
@@ -72,9 +72,10 @@ Awesome software projects sub-categorized by focus.
 - [GeoPyTool](https://github.com/GeoPyTool/GeoPyTool) - ![Python](media/icon/python.svg) Python based application with geochemical plotting capabilities   
 ### Structural geology
 - [mplStereonet](https://github.com/joferkington/mplstereonet) - ![Python](media/icon/python.svg) Stereonets on python based on Matplotlib
+- [apsg](https://github.com/ondrolexa/apsg) - ![Python](media/icon/python.svg) advanced structural geology analysis and visualisation based on Matplotlib
 ### Visualization
-- [Colorcet](https://bokeh.github.io/colorcet/)  – ![Python](media/icon/python.svg) Perceptual colormaps 
-- [cmocean](http://matplotlib.org/cmocean/) – ![Python](media/icon/python.svg) MatPlotLib collection of perceptual colormaps for oceanography 
+- [Colorcet](https://bokeh.github.io/colorcet/)  – ![Python](media/icon/python.svg) Perceptual colormaps
+- [cmocean](http://matplotlib.org/cmocean/) – ![Python](media/icon/python.svg) MatPlotLib collection of perceptual colormaps for oceanography
 - [PVGeo](https://github.com/OpenGeoVis/PVGeo) - [![Python](media/icon/python.svg)](https://pypi.org/project/PVGeo/) [![ParaView](media/icon/paraview.svg)](https://www.paraview.org) Python package for data and model visualization in ParaView
 
 ### Platforms
@@ -87,11 +88,11 @@ Awesome software projects sub-categorized by focus.
 ## Data Repositories
 - [Poseidon NW Australia](https://drive.google.com/drive/folders/0B7brcf-eGK8Cbk9ueHA0QUU4Zjg) – Interpreted 3D seismic (32bit) incl. reports and well logs
 - [Digital Rocks Portal](https://www.digitalrocksportal.org/) – Powerful data portal for images of varied porous micro-structures
-- [World Stress Map](http://www.world-stress-map.org/) – A global compilation of information on the crustal present-day stress field 
+- [World Stress Map](http://www.world-stress-map.org/) – A global compilation of information on the crustal present-day stress field
 - [NOPIMS](https://nopims.dmp.wa.gov.au/nopims/) - Open petroleum geoscience data from Western Australia made available by the Australian Government
 - [UKOilandGasData](https://www.ukoilandgasdata.com/) - Open petroleum geoscience data from the UK Government (free registration required)
-- [Athabasca Oil Sands Well Dataset McMurray/Wabiskaw](http://ags.aer.ca/publications/SPE_006.html) - Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada. 
-- [ICGEM](http://icgem.gfz-potsdam.de) - Hosts gravity field spherical harmonic models and provides a webservice for generating grids of gravity functionals (geoid, gravity anomaly, vertical derivatives, etc). 
+- [Athabasca Oil Sands Well Dataset McMurray/Wabiskaw](http://ags.aer.ca/publications/SPE_006.html) - Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada.
+- [ICGEM](http://icgem.gfz-potsdam.de) - Hosts gravity field spherical harmonic models and provides a webservice for generating grids of gravity functionals (geoid, gravity anomaly, vertical derivatives, etc).
 
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
@@ -110,7 +111,7 @@ Awesome software projects sub-categorized by focus.
 
 - [Software Underground Slack](https://softwareunderground.org/) – ![slack](media/icon/slack.svg) Community connecting geo\computing researchers
 - [Open Mining Format](http://omf.readthedocs.io/en/latest/index.html) – ![Python](media/icon/python.svg) Versatile mining data standard
-- [gio](https://github.com/agile-geoscience/gio) – ![Python](media/icon/python.svg) Geoscience I/O functions for less-than standard data formats. 
+- [gio](https://github.com/agile-geoscience/gio) – ![Python](media/icon/python.svg) Geoscience I/O functions for less-than standard data formats.
 
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
