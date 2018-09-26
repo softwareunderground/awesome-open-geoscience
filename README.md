@@ -66,7 +66,7 @@ Awesome software projects sub-categorized by focus.
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.svg) Jupyter notebook extension for geospatial visualization and analysis. Developed by NASA.
 - [Stress2Grid](http://pmd.gfz-potsdam.de/wsm/showshort.php?id=escidoc:2112906) – ![matlab](media/icon/matlab.svg) Two concepts to calculate the mean SHmax orientation.
 - [QGIS](http://www.qgis.com/) - GIS platform that allows you to visualize, manage, edit, analyse data, and compose printable maps.  
-- [Verde](https://github.com/fatiando/verde) - ![Python] processing spatial data to regular grids.
+- [Verde](https://github.com/fatiando/verde) - ![Python](media/icon/python.svg) processing spatial data to regular grids.
 ### Geochemistry
 - [PhreeQC](https://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/) - ![C++](media/icon/cplusplus.svg) Reactions in water and between water and rocks and sediments. Speciation, Batch-Reaction, One-Dimensional Transport, and Inverse Geochemical Calculations
 - [Reaktoro](http://reaktoro.org/) - ![C++](media/icon/cplusplus.svg) ![Python](media/icon/python.svg) Unified framework for modeling chemically reactive systems
