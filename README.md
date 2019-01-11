@@ -78,6 +78,7 @@ Awesome software projects sub-categorized by focus.
 - [Colorcet](https://bokeh.github.io/colorcet/)  – ![Python](media/icon/python.svg) Perceptual colormaps
 - [cmocean](http://matplotlib.org/cmocean/) – ![Python](media/icon/python.svg) MatPlotLib collection of perceptual colormaps for oceanography
 - [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.svg)](https://pypi.org/project/PVGeo/) [![ParaView](media/icon/paraview.svg)](https://www.paraview.org) Python package for data and model visualization in ParaView
+- [GeologicPatterns](https://github.com/davenquinn/geologic-patterns) Entire FGDC pattern library extracted to SVG and PNG, for use on the modern web. Can be used for geologic maps and stratigraphic columns. Based on FGDC (Federal Geographic Data Committee (FGDC) Digital Cartographic Standard for Geologic Map Symbolization, 2006.
 
 ### Platforms
 - [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package
