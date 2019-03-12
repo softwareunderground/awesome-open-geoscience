@@ -75,7 +75,7 @@ Awesome software projects sub-categorized by focus.
 - [mplStereonet](https://github.com/joferkington/mplstereonet) – ![Python](media/icon/python.svg) Stereonets on python based on Matplotlib
 - [apsg](https://github.com/ondrolexa/apsg) – ![Python](media/icon/python.svg) advanced structural geology analysis and visualisation based on Matplotlib
 ### Visualization
-- [Colorcet](https://bokeh.github.io/colorcet/)  – ![Python](media/icon/python.svg) Perceptual colormaps
+- [Colorcet](https://github.com/pyviz/colorcet)  – ![Python](media/icon/python.svg) Perceptual colormaps
 - [cmocean](http://matplotlib.org/cmocean/) – ![Python](media/icon/python.svg) MatPlotLib collection of perceptual colormaps for oceanography
 - [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.svg)](https://pypi.org/project/PVGeo/) [![ParaView](media/icon/paraview.svg)](https://www.paraview.org) Python package for data and model visualization in ParaView and `vtki`.
 - [vtki](http://docs.vtki.org) - ![Python](media/icon/python.svg) A streamlined interface for the Visualization Toolkit. Create compelling, integrated visualizations in a pure Python environment.
