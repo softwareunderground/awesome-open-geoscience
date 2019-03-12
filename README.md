@@ -77,8 +77,10 @@ Awesome software projects sub-categorized by focus.
 ### Visualization
 - [Colorcet](https://bokeh.github.io/colorcet/)  – ![Python](media/icon/python.svg) Perceptual colormaps
 - [cmocean](http://matplotlib.org/cmocean/) – ![Python](media/icon/python.svg) MatPlotLib collection of perceptual colormaps for oceanography
-- [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.svg)](https://pypi.org/project/PVGeo/) [![ParaView](media/icon/paraview.svg)](https://www.paraview.org) Python package for data and model visualization in ParaView
+- [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.svg)](https://pypi.org/project/PVGeo/) [![ParaView](media/icon/paraview.svg)](https://www.paraview.org) Python package for data and model visualization in ParaView and `vtki`.
+- [vtki](http://docs.vtki.org) - ![Python](media/icon/python.svg) A streamlined interface for the Visualization Toolkit. Create compelling, integrated visualizations in a pure Python environment.
 - [GeologicPatterns](https://github.com/davenquinn/geologic-patterns) - Entire FGDC pattern library extracted to SVG and PNG for use in geologic maps and stratigraphic columns. Based on FGDC (Federal Geographic Data Committee (FGDC) Digital Cartographic Standard for Geologic Map Symbolization, 2006.
+- [omfvtk](https://omfvtk.readthedocs.io): A VTK interface for the [Open Mining Format (omf)](#miscellaneous) package providing Python 3D visualization.
 
 ### Platforms
 - [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package
