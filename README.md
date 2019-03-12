@@ -45,6 +45,7 @@ Awesome software projects sub-categorized by focus.
 - [modelr.io](https://www.modelr.io/) – ![Python](media/icon/python.svg) ![Javascript](media/icon/javascript.svg) Web app for simple synthetic seismic forward modeling.
 - [ModFlow](https://water.usgs.gov/ogw/modflow/MODFLOW.html) – Flow modelling software distributed by the USGS to simulate and predict groundwater conditions and groundwater/surface-water interactions, also comes with additional [variants and add-ons](https://water.usgs.gov/ogw/modflow/).
 - [pyGIMLi](https://www.pygimli.org/) – ![Python](media/icon/python.svg) ![C++](media/icon/cplusplus.svg) An open-source multi-method library for solving inverse and forward tasks related to geophysical problems. Written in C++ and Python.
+- [BGS Groundhog](https://www.bgs.ac.uk/research/environmentalModelling/groundhogDesktop.html) - Digitize geological cross-sections, and display and edit borehole logs, as well as supporting a range of baseline data such as geo-registered images and digital elevation models.
 - [GemPy](https://github.com/cgre-aachen/gempy) – ![Python](media/icon/python.svg) Python-based 3-D structural geological modeling software with implicit modelling and support for stochastic modelling.
 - [HyVR](https://github.com/driftingtides/hyvr) – ![Python](media/icon/python.svg) Generate 3-D anisotropic subsurface models based on geological concepts that can be used with groundwater flow simulators (e.g., ModFlow).
 - [Landlab](https://github.com/landlab/landlab) – ![Python](media/icon/python.svg) Simulate surface processes using a large suite of existing interoperable process components, and/or develop your own. Possibilities include landscape evolution, sediment dynamics, surface hydrology, ecohydrology, etc.
@@ -69,9 +70,6 @@ Awesome software projects sub-categorized by focus.
 - [Verde](https://github.com/fatiando/verde) – ![Python](media/icon/python.svg) processing spatial data to regular grids.
 ### Field Data Capture
 - [BGS Sigma](https://www.bgs.ac.uk/research/sigma/home.html) - Free intergrated toolkit for capture, interrogation and visualisation of geological information. Requires ArcMap. 
-### 3D Modelling
-- [BGS Groundhog](https://www.bgs.ac.uk/research/environmentalModelling/groundhogDesktop.html) - Digitize geological cross-sections, and display and edit borehole logs, as well as supporting a range of baseline data such as geo-registered images and digital elevation models.
-- [GemPy](https://github.com/cgre-aachen/gempy) - Open-source, Python-based 3-D structural geological modeling software, which allows the implicit creation of complex geological models from interface and orientation data.
 ### Geochemistry
 - [PhreeQC](https://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/) – ![C++](media/icon/cplusplus.svg) Reactions in water and between water and rocks and sediments. Speciation, Batch-Reaction, One-Dimensional Transport, and Inverse Geochemical Calculations
 - [Reaktoro](http://reaktoro.org/) – ![C++](media/icon/cplusplus.svg) ![Python](media/icon/python.svg) Unified framework for modeling chemically reactive systems
