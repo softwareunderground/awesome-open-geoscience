@@ -67,6 +67,11 @@ Awesome software projects sub-categorized by focus.
 - [Stress2Grid](http://pmd.gfz-potsdam.de/wsm/showshort.php?id=escidoc:2112906) – ![matlab](media/icon/matlab.svg) Two concepts to calculate the mean SHmax orientation.
 - [QGIS](http://www.qgis.com/) – GIS platform that allows you to visualize, manage, edit, analyse data, and compose printable maps.  
 - [Verde](https://github.com/fatiando/verde) – ![Python](media/icon/python.svg) processing spatial data to regular grids.
+### Field Data Capture
+- [BGS Sigma](https://www.bgs.ac.uk/research/sigma/home.html) - Free intergrated toolkit for capture, interrogation and visualisation of geological information. Requires ArcMap. 
+### 3D Modelling
+- [BGS Groundhog](https://www.bgs.ac.uk/research/environmentalModelling/groundhogDesktop.html) - Digitize geological cross-sections, and display and edit borehole logs, as well as supporting a range of baseline data such as geo-registered images and digital elevation models.
+- [GemPy](https://github.com/cgre-aachen/gempy) - Open-source, Python-based 3-D structural geological modeling software, which allows the implicit creation of complex geological models from interface and orientation data.
 ### Geochemistry
 - [PhreeQC](https://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/) – ![C++](media/icon/cplusplus.svg) Reactions in water and between water and rocks and sediments. Speciation, Batch-Reaction, One-Dimensional Transport, and Inverse Geochemical Calculations
 - [Reaktoro](http://reaktoro.org/) – ![C++](media/icon/cplusplus.svg) ![Python](media/icon/python.svg) Unified framework for modeling chemically reactive systems
