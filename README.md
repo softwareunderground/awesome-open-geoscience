@@ -43,7 +43,7 @@ Awesome software projects sub-categorized by focus.
 - [bh_tomo](https://github.com/groupeLIAMG/bh_tomo) – ![matlab](media/icon/matlab.svg) Borehole Radar and Seismic Tomography Package
 - [gprMax](http://www.gprmax.com/) – ![Python](media/icon/python.svg) ![CUDA](media/icon/cuda.svg) Finite-difference time-domain electromagnetic wave propagation simulator. gprMax can be run on either CPU or GPU.
 - [modelr.io](https://www.modelr.io/) – ![Python](media/icon/python.svg) ![Javascript](media/icon/javascript.svg) Web app for simple synthetic seismic forward modeling.
-- [ModFlow](https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model) – Flow modelling software distributed by the USGS to simulate and predict groundwater conditions and groundwater/surface-water interactions, also comes with additional [variants and add-ons](https://water.usgs.gov/ogw/modflow/).
+- [ModFlow](https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model) – Flow modelling software distributed by the USGS to simulate and predict groundwater conditions and groundwater/surface-water interactions, also comes with additional variants and add-ons.
 - [pyGIMLi](https://www.pygimli.org/) – ![Python](media/icon/python.svg) ![C++](media/icon/cplusplus.svg) An open-source multi-method library for solving inverse and forward tasks related to geophysical problems. Written in C++ and Python.
 - [GemPy](https://github.com/cgre-aachen/gempy) – ![Python](media/icon/python.svg) Python-based 3-D structural geological modeling software with implicit modelling and support for stochastic modelling.
 - [HyVR](https://github.com/driftingtides/hyvr) – ![Python](media/icon/python.svg) Generate 3-D anisotropic subsurface models based on geological concepts that can be used with groundwater flow simulators (e.g., ModFlow).
@@ -52,7 +52,7 @@ Awesome software projects sub-categorized by focus.
 - [libres](https://github.com/equinor/libres) – ![Python](media/icon/python.svg) Tool for managing an ensemble of reservoir models
 - [libecl](https://github.com/equinor/libecl) – ![Python](media/icon/python.svg) I/O for Eclipse reservoir simulator files
 - [MRST](https://www.sintef.no/projectweb/mrst) – ![matlab](media/icon/matlab.svg) Rapid prototyping and demonstration of new simulation methods in reservoir modelling and simulation
-- [DuMu<sup>x</sup>](https://www.dumux.org) – ![C++](media/icon/cplusplus.svg) Simulator for flow and transport processes in porous media
+- [DuMu<sup>x</sup>](https://dumux.org) – ![C++](media/icon/cplusplus.svg) Simulator for flow and transport processes in porous media
 - [Fesapi](https://github.com/F2I-Consulting/fesapi) – I/O for [RESQML2](https://www.energistics.org/portfolio/resqml-data-standards/) files (C++ with Java and C# wrappers)
 ### Geostatistics
 - [pyKriging](https://github.com/capaulson/pyKriging) – ![Python](media/icon/python.svg) N-dimensional kriging
@@ -78,9 +78,9 @@ Awesome software projects sub-categorized by focus.
 - [Colorcet](https://github.com/pyviz/colorcet)  – ![Python](media/icon/python.svg) Perceptual colormaps
 - [cmocean](https://matplotlib.org/cmocean/) – ![Python](media/icon/python.svg) MatPlotLib collection of perceptual colormaps for oceanography
 - [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.svg)](https://pypi.org/project/PVGeo/) [![ParaView](media/icon/paraview.svg)](https://www.paraview.org) Python package for data and model visualization in ParaView and `vtki`.
-- [vtki](https://docs.vtki.org) - ![Python](media/icon/python.svg) A streamlined interface for the Visualization Toolkit. Create compelling, integrated visualizations in a pure Python environment.
+- [vtki](https://docs.vtki.org/en/latest) - ![Python](media/icon/python.svg) A streamlined interface for the Visualization Toolkit. Create compelling, integrated visualizations in a pure Python environment.
 - [GeologicPatterns](https://github.com/davenquinn/geologic-patterns) - Entire FGDC pattern library extracted to SVG and PNG for use in geologic maps and stratigraphic columns. Based on FGDC (Federal Geographic Data Committee (FGDC) Digital Cartographic Standard for Geologic Map Symbolization, 2006.
-- [omfvtk](https://omfvtk.readthedocs.io/en/latest): A VTK interface for the [Open Mining Format (omf)](#miscellaneous) package providing Python 3D visualization.
+- [omfvtk](https://omfvtk.readthedocs.io/en/latest/): A VTK interface for the [Open Mining Format (omf)](#miscellaneous) package providing Python 3D visualization.
 
 ### Platforms
 - [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package
@@ -114,7 +114,7 @@ Awesome software projects sub-categorized by focus.
 ## Miscellaneous
 
 - [Software Underground Slack](https://softwareunderground.org/) – ![slack](media/icon/slack.svg) Community connecting geo\computing researchers
-- [Open Mining Format](https://omf.readthedocs.io/en/latest) – ![Python](media/icon/python.svg) Versatile mining data standard
+- [Open Mining Format](https://omf.readthedocs.io/en/latest/) – ![Python](media/icon/python.svg) Versatile mining data standard
 - [gio](https://github.com/agile-geoscience/gio) – ![Python](media/icon/python.svg) Geoscience I/O functions for less-than standard data formats.
 
 | ▲ [Top](#awesome-open-geoscience-) |
@@ -129,7 +129,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, all contributors have waived all copyright and
 related or neighboring rights to this work.
