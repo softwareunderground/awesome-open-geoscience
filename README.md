@@ -52,6 +52,7 @@ Awesome software projects sub-categorized by focus.
 - [HyVR](https://github.com/driftingtides/hyvr) – ![Python](media/icon/python.svg) 3-D anisotropic subsurface models based on geological concepts that can be used with groundwater flow simulators (e.g., [ModFlow](#simulation-and-modelling))
 - [Landlab](https://github.com/landlab/landlab) – ![Python](media/icon/python.svg) Simulate surface processes using a large suite of existing interoperable process components (landscape evolution, sediment dynamics, surface hydrology, ecohydrology), exensible by own modules
 - [pyGeoPressure](https://pygeopressure.readthedocs.io/en/latest/) – ![Python](media/icon/python.svg) Pore pressure prediction using well log data and seismic velocity data
+- [empymod](https://empymod.github.io) – ![Python](media/icon/python.svg) Full 3D electromagnetic modeller for 1D VTI media
 - [PyLops](https://pylops.readthedocs.io/en/latest/) – ![Python](media/icon/python.svg) Linear Operators with some geophysics/seismic modules (e.g., pre- and post-stack AVO inversion, deconvolution, Marchenko redatuming, Radon filtering)
 ### Reservoir Engineering
 - [libres](https://github.com/equinor/libres) – ![Python](media/icon/python.svg) Tool for managing an ensemble of reservoir models
@@ -120,6 +121,7 @@ Awesome software projects sub-categorized by focus.
 - [Software Underground Slack](https://softwareunderground.org/) – ![slack](media/icon/slack.svg) Community connecting geo\computing researchers
 - [Open Mining Format](https://omf.readthedocs.io/en/latest/) – ![Python](media/icon/python.svg) Versatile mining data standard
 - [gio](https://github.com/agile-geoscience/gio) – ![Python](media/icon/python.svg) Geoscience file input and output functions for less-than standard data formats
+- [Comparison of free geophysics software](https://en.wikipedia.org/wiki/Comparison_of_free_geophysics_software) – List of geophysics software on Wikipedia
 
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
