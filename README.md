@@ -119,6 +119,7 @@ Awesome software projects sub-categorized by focus.
 - [Software Underground Slack](https://softwareunderground.org/) – ![slack](media/icon/slack.svg) Community connecting geo\computing researchers
 - [Open Mining Format](https://omf.readthedocs.io/en/latest/) – ![Python](media/icon/python.svg) Versatile mining data standard
 - [gio](https://github.com/agile-geoscience/gio) – ![Python](media/icon/python.svg) Geoscience file input and output functions for less-than standard data formats
+- [Comparison of free geophysics software](https://en.wikipedia.org/wiki/Comparison_of_free_geophysics_software) – List of geophysics software on Wikipedia
 
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
