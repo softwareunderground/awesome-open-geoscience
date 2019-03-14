@@ -52,7 +52,7 @@ Awesome software projects sub-categorized by focus.
 - [HyVR](https://github.com/driftingtides/hyvr) – ![Python](media/icon/python.svg) 3-D anisotropic subsurface models based on geological concepts that can be used with groundwater flow simulators (e.g., [ModFlow](#simulation-and-modelling))
 - [Landlab](https://github.com/landlab/landlab) – ![Python](media/icon/python.svg) Simulate surface processes using a large suite of existing interoperable process components (landscape evolution, sediment dynamics, surface hydrology, ecohydrology), exensible by own modules
 - [pyGeoPressure](https://pygeopressure.readthedocs.io/en/latest/) – ![Python](media/icon/python.svg) Pore pressure prediction using well log data and seismic velocity data
-- [empymod](https://empymod.github.io) – ![Python](media/icon/python.svg) An open-source full 3D electromagnetic modeller for 1D VTI media in Python
+- [empymod](https://empymod.github.io) – ![Python](media/icon/python.svg) An open-source full 3D electromagnetic modeller for 1D VTI media
 ### Reservoir Engineering
 - [libres](https://github.com/equinor/libres) – ![Python](media/icon/python.svg) Tool for managing an ensemble of reservoir models
 - [libecl](https://github.com/equinor/libecl) – ![Python](media/icon/python.svg) Reading and writing Eclipse reservoir simulator files
