@@ -42,3 +42,11 @@ edit your PR before we merge it. There's no need to open a new PR, just edit
 the existing one. If you're not sure how to do that,
 [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
 on the different ways you can update your PR so that we can merge it.
+
+## Automation
+We have an automatic link checker in place now.
+Your pull request will be checked by our bot, if everything is green, there's nothing to worry. It may however fail for the following reasons: 
+* Duplicate entry
+* Redirect of link
+
+If you visiit the Travis CI website, and look at the log, it will tell you what to fix. If none of this makes sense to you, we will probably come in and guide you along to make the contribution a success.
