@@ -50,6 +50,7 @@ Awesome software projects sub-categorized by focus.
 - [GemPy](https://github.com/cgre-aachen/gempy) – ![Python](media/icon/python.svg) Python-based 3-D structural geological modeling software with implicit modelling and support for stochastic modelling.
 - [HyVR](https://github.com/driftingtides/hyvr) – ![Python](media/icon/python.svg) Generate 3-D anisotropic subsurface models based on geological concepts that can be used with groundwater flow simulators (e.g., ModFlow).
 - [Landlab](https://github.com/landlab/landlab) – ![Python](media/icon/python.svg) Simulate surface processes using a large suite of existing interoperable process components, and/or develop your own. Possibilities include landscape evolution, sediment dynamics, surface hydrology, ecohydrology, etc.
+- [pyGeoPressure](https://pygeopressure.readthedocs.io/en/latest/) – ![Python](media/icon/python.svg) Pore pressure prediction using well log data and seismic velocity data
 ### Reservoir Engineering
 - [libres](https://github.com/equinor/libres) – ![Python](media/icon/python.svg) Tool for managing an ensemble of reservoir models
 - [libecl](https://github.com/equinor/libecl) – ![Python](media/icon/python.svg) I/O for Eclipse reservoir simulator files
