@@ -8,19 +8,18 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
+- Make sure the project is [open](https://opensource.org/licenses/alphabetical) and accessible.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make an individual pull request for each suggestion.
-- Make sure the project is open and accessible.
-- Use [title-casing](http://titlecapitalization.com) (AP style).
+- The pull request and commit should have a useful title.
+- The body of your commit message should contain a link to the repository and the license.
 - Link additions should be added to the bottom of the relevant category.
+- Make an individual pull request for each suggestion this makes our and your life easier.
+- Use [title-casing](http://titlecapitalization.com) (AP style).
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
-- The pull request and commit should have a useful title.
-- The body of your commit message should contain a link to the repository.
 
 Thank you for your suggestions!
-
 
 ## Adding something to an awesome list
 
