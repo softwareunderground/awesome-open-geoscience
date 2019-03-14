@@ -12,9 +12,11 @@ Checklist for new projects:
 
 - [ ] The project is [open-source](https://opensource.org/licenses/alphabetical) and accessible.
 - [ ] Searched the existing entries to make sure this is not a duplicate.
-- [ ] Added the link to the bottom of the relevant category.
 - [ ] Contains only a single addition (make separate PRs if adding more than one).
-- [ ] Used [title-casing](http://titlecapitalization.com) (AP style) for project name.
+- [ ] Added the link to the bottom of the relevant category.
+- [ ] Add icon from the `media/icon/` folder if applicable (like `![Python](media/icon/python.png)` ).
 - [ ] Created a new category only if necessary.
 - [ ] Checked spelling and grammar.
-- [ ] Removed trailing whitespace (set your text editor to do this automatically).
+- [ ] Removed trailing whitespace and periods.
+- [ ] Confirm the dash – is not a minus -.
+- [ ] Used [title-casing](http://titlecapitalization.com) (AP style) for project name.
