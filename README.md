@@ -53,6 +53,7 @@ Awesome software projects sub-categorized by focus.
 - [Landlab](https://github.com/landlab/landlab) – ![Python](media/icon/python.svg) Simulate surface processes using a large suite of existing interoperable process components (landscape evolution, sediment dynamics, surface hydrology, ecohydrology), exensible by own modules
 - [pyGeoPressure](https://pygeopressure.readthedocs.io/en/latest/) – ![Python](media/icon/python.svg) Pore pressure prediction using well log data and seismic velocity data
 - [empymod](https://empymod.github.io) – ![Python](media/icon/python.svg) Full 3D electromagnetic modeller for 1D VTI media
+- [PyLops](https://pylops.readthedocs.io/en/latest/) – ![Python](media/icon/python.svg) Linear Operators with some geophysics/seismic modules (e.g., pre- and post-stack AVO inversion, deconvolution, Marchenko redatuming, Radon filtering)
 ### Reservoir Engineering
 - [libres](https://github.com/equinor/libres) – ![Python](media/icon/python.svg) Tool for managing an ensemble of reservoir models
 - [libecl](https://github.com/equinor/libecl) – ![Python](media/icon/python.svg) Reading and writing Eclipse reservoir simulator files
