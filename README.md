@@ -91,7 +91,7 @@ Awesome software projects sub-categorized by focus.
 - [RINGMesh](https://github.com/ringmesh/RINGMesh) – ![C++](media/icon/cplusplus.png) Mesh manipulation of geological models
 - [QGIS](http://www.qgis.com/) – GIS platform to visualize, manage, edit, analyse data, and compose printable maps
 
-| ▲ [Top](#awesome-open-geoscience-) |
+| ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
 ## Data Repositories
@@ -103,7 +103,7 @@ Awesome software projects sub-categorized by focus.
 - [Athabasca Oil Sands Well Dataset McMurray/Wabiskaw](https://ags.aer.ca/publications/SPE_006.html) – Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada
 - [ICGEM](http://icgem.gfz-potsdam.de/home) – Hosts gravity field spherical harmonic models and provides a webservice for generating grids of gravity functionals (geoid, gravity anomaly, vertical derivatives, etc)
 
-| ▲ [Top](#awesome-open-geoscience-) |
+| ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
 ## Tutorials and Cheat Sheets
@@ -113,7 +113,7 @@ Awesome software projects sub-categorized by focus.
 - [Rock Physics Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed960042/1374593568367/Cheatsheet_Rock_Physics.pdf) –  Cheat Sheet for Rock Physics
 - [Petroleum Science Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed96019e/1323808738753/Cheatsheet_petroleum.pdf) – Cheat Sheet for Petroleum Science
 
-| ▲ [Top](#awesome-open-geoscience-) |
+| ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
 ## Miscellaneous
@@ -123,14 +123,14 @@ Awesome software projects sub-categorized by focus.
 - [gio](https://github.com/agile-geoscience/gio) – ![Python](media/icon/python.png) Geoscience file input and output functions for less-than standard data formats
 - [Comparison of free geophysics software](https://en.wikipedia.org/wiki/Comparison_of_free_geophysics_software) – List of geophysics software on Wikipedia
 
-| ▲ [Top](#awesome-open-geoscience-) |
+| ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
 ## How to Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-| ▲ [Top](#awesome-open-geoscience-) |
+| ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
 ## License
