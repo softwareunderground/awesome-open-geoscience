@@ -42,7 +42,6 @@ Awesome software projects sub-categorized by focus.
 - [Devito](https://www.opesci.org/devito-public) – ![Python](media/icon/python.svg) Finite-Difference computation from high-level symbolic problem definitions.
 - [bh_tomo](https://github.com/groupeLIAMG/bh_tomo) – ![matlab](media/icon/matlab.svg) Borehole Radar and Seismic Tomography Package
 - [gprMax](http://www.gprmax.com/) – ![Python](media/icon/python.svg) ![CUDA](media/icon/cuda.svg) Finite-difference time-domain electromagnetic wave propagation simulator. gprMax can be run on either CPU or GPU.
-- [modelr.io](https://www.modelr.io/) – ![Python](media/icon/python.svg) ![Javascript](media/icon/javascript.svg) Web app for simple synthetic seismic forward modeling.
 - [ModFlow](https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model) – Flow modelling software distributed by the USGS to simulate and predict groundwater conditions and groundwater/surface-water interactions, also comes with additional variants and add-ons.
 - [pyGIMLi](https://www.pygimli.org/) – ![Python](media/icon/python.svg) ![C++](media/icon/cplusplus.svg) An open-source multi-method library for solving inverse and forward tasks related to geophysical problems. Written in C++ and Python.
 - [GemPy](https://github.com/cgre-aachen/gempy) – ![Python](media/icon/python.svg) Python-based 3-D structural geological modeling software with implicit modelling and support for stochastic modelling.
@@ -78,7 +77,7 @@ Awesome software projects sub-categorized by focus.
 - [Colorcet](https://github.com/pyviz/colorcet)  – ![Python](media/icon/python.svg) Perceptual colormaps
 - [cmocean](https://matplotlib.org/cmocean/) – ![Python](media/icon/python.svg) MatPlotLib collection of perceptual colormaps for oceanography
 - [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.svg)](https://pypi.org/project/PVGeo/) [![ParaView](media/icon/paraview.svg)](https://www.paraview.org) Python package for data and model visualization in ParaView and `vtki`.
-- [vtki](https://docs.vtki.org/en/latest) - ![Python](media/icon/python.svg) A streamlined interface for the Visualization Toolkit. Create compelling, integrated visualizations in a pure Python environment.
+- [vtki](https://docs.vtki.org/en/latest/) - ![Python](media/icon/python.svg) A streamlined interface for the Visualization Toolkit. Create compelling, integrated visualizations in a pure Python environment.
 - [GeologicPatterns](https://github.com/davenquinn/geologic-patterns) - Entire FGDC pattern library extracted to SVG and PNG for use in geologic maps and stratigraphic columns. Based on FGDC (Federal Geographic Data Committee (FGDC) Digital Cartographic Standard for Geologic Map Symbolization, 2006.
 - [omfvtk](https://omfvtk.readthedocs.io/en/latest/): A VTK interface for the [Open Mining Format (omf)](#miscellaneous) package providing Python 3D visualization.
 
