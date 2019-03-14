@@ -64,7 +64,7 @@ Awesome software projects sub-categorized by focus.
 - [gstat](https://github.com/edzer/gstat/) – ![Python](media/icon/r.svg) Geostatistical modelling, prediction and simulation
 - [PyGSLIB](https://opengeostat.github.io/pygslib/index.html) – ![Python](media/icon/python.svg) Mineral resource estimations
 ### Geospatial
-- [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) – About 80 command-line tools for manipulating geographic and Cartesian data sets
+- [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) – ![C](media/icon/c.svg)  About 80 command-line tools for manipulating geographic and Cartesian data sets
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – ![Awesome](media/icon/awesome.svg) Awesome list for geospatial, not specific to geoscience but significant overlap
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.svg) Jupyter notebook extension for geospatial visualization and analysis developed by NASA
 - [Stress2Grid](http://pmd.gfz-potsdam.de/wsm/showshort.php?id=escidoc:2112906) – ![matlab](media/icon/matlab.svg) Two concepts to calculate the mean SHmax orientation
