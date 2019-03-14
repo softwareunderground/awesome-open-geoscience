@@ -1,6 +1,8 @@
-# awesome-open-geoscience [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Open Geoscience [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Geoscience is [awesome](awesome.md).
+
+[![TravisCI Build Status](https://travis-ci.org/softwareunderground/awesome-open-geoscience.svg?branch=master)](https://travis-ci.org/softwareunderground/awesome-open-geoscience)
 
 Open geoscience is even more awesome, so we made a list. This list is curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. In accordance with the awesome manifesto, we add awesome repositories. We are open to [contributions](contributing.md) of course, this is a community effort after all.
 
@@ -66,12 +68,12 @@ Awesome software projects sub-categorized by focus.
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – ![Awesome](media/icon/awesome.svg) Awesome list for geospatial, not specific to geoscience but significant overlap.
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.svg) Jupyter notebook extension for geospatial visualization and analysis. Developed by NASA.
 - [Stress2Grid](http://pmd.gfz-potsdam.de/wsm/showshort.php?id=escidoc:2112906) – ![matlab](media/icon/matlab.svg) Two concepts to calculate the mean SHmax orientation.
-- [QGIS](http://www.qgis.com/) – GIS platform that allows you to visualize, manage, edit, analyse data, and compose printable maps.  
+- [QGIS](http://www.qgis.com/) – GIS platform that allows you to visualize, manage, edit, analyse data, and compose printable maps.
 - [Verde](https://github.com/fatiando/verde) – ![Python](media/icon/python.svg) processing spatial data to regular grids.
 ### Geochemistry
 - [PhreeQC](https://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/) – ![C++](media/icon/cplusplus.svg) Reactions in water and between water and rocks and sediments. Speciation, Batch-Reaction, One-Dimensional Transport, and Inverse Geochemical Calculations
 - [Reaktoro](https://reaktoro.org/) – ![C++](media/icon/cplusplus.svg) ![Python](media/icon/python.svg) Unified framework for modeling chemically reactive systems
-- [GeoPyTool](https://github.com/GeoPyTool/GeoPyTool) – ![Python](media/icon/python.svg) Python based application with geochemical plotting capabilities   
+- [GeoPyTool](https://github.com/GeoPyTool/GeoPyTool) – ![Python](media/icon/python.svg) Python based application with geochemical plotting capabilities
 ### Structural geology
 - [mplStereonet](https://github.com/joferkington/mplstereonet) – ![Python](media/icon/python.svg) Stereonets on python based on Matplotlib
 - [apsg](https://github.com/ondrolexa/apsg) – ![Python](media/icon/python.svg) advanced structural geology analysis and visualisation based on Matplotlib
