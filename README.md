@@ -45,7 +45,7 @@ Awesome software projects sub-categorized by focus.
 - [Devito](https://www.opesci.org/devito-public) – ![Python](media/icon/python.svg) Finite-Difference computation from high-level symbolic problem definitions
 - [bh_tomo](https://github.com/groupeLIAMG/bh_tomo) – ![matlab](media/icon/matlab.svg) Borehole radar and seismic tomography package
 - [gprMax](http://www.gprmax.com/) – ![Python](media/icon/python.svg) ![CUDA](media/icon/cuda.svg) Finite-difference time-domain electromagnetic wave propagation simulator (on CPU and GPU)
-- [ModFlow](https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model) – Flow modelling software distributed by the USGS to simulate and predict groundwater conditions and groundwater/surface-water interactions with additional variants and add-ons
+- [ModFlow](https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model) – ![F90](media/icon/fortran.svg) Flow modelling software distributed by the USGS to simulate and predict groundwater conditions and groundwater/surface-water interactions with additional variants and add-ons
 - [pyGIMLi](https://www.pygimli.org/) – ![Python](media/icon/python.svg) ![C++](media/icon/cplusplus.svg) Multi-method library for solving inverse and forward tasks related to geophysical problems
 - [GemPy](https://github.com/cgre-aachen/gempy) – ![Python](media/icon/python.svg) 3-D structural geological modelling software with implicit modelling and support for stochastic modelling
 - [HyVR](https://github.com/driftingtides/hyvr) – ![Python](media/icon/python.svg) 3-D anisotropic subsurface models based on geological concepts that can be used with groundwater flow simulators (e.g., [ModFlow](#simulation-and-modelling))
