@@ -13,6 +13,8 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
     - [Reservoir Engineering](#reservoir-engineering)
     - [Geostatistics](#geostatistics)
     - [Geospatial](#geospatial)
+    - [Geochemistry](#geochemistry)
+    - [Structural geology](#structural-geology)
     - [Visualization](#visualization)
     - [Platforms](#platforms)
 - [Data Repositories](#data-repositories)
