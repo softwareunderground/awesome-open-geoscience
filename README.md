@@ -34,7 +34,6 @@ Awesome software projects sub-categorized by focus.
 - [ObsPy](https://github.com/obspy/obspy/wiki) – ![Python](media/icon/python.svg) Framework for reading, writing and processing seismic and seismological data
 - [Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges) – ![Python](media/icon/python.svg) Various geophysical equations and tools
 - [Segyio](https://github.com/equinor/segyio) – ![Python](media/icon/python.svg) / ![matlab](media/icon/matlab.svg) Fast library for seismic SEGY files
-- [PyLops](https://pylops.readthedocs.io/en/latest/) – ![Python](media/icon/python.svg) A Linear-Operator Library for Python with some geophysics/seismic modules, such as pre- and post-stack AVO inversion, deconvolution, Marchenko redatuming, and Radon filtering
 ### Well Log
 - [lasio](https://github.com/kinverarity1/lasio/) – ![Python](media/icon/python.svg) Reading and writing well data using Log ASCII Standard (LAS) files
 - [Welly](https://github.com/agile-geoscience/welly) – ![Python](media/icon/python.svg) Analyzing and processing well log data
@@ -53,6 +52,7 @@ Awesome software projects sub-categorized by focus.
 - [HyVR](https://github.com/driftingtides/hyvr) – ![Python](media/icon/python.svg) 3-D anisotropic subsurface models based on geological concepts that can be used with groundwater flow simulators (e.g., [ModFlow](#simulation-and-modelling))
 - [Landlab](https://github.com/landlab/landlab) – ![Python](media/icon/python.svg) Simulate surface processes using a large suite of existing interoperable process components (landscape evolution, sediment dynamics, surface hydrology, ecohydrology), exensible by own modules
 - [pyGeoPressure](https://pygeopressure.readthedocs.io/en/latest/) – ![Python](media/icon/python.svg) Pore pressure prediction using well log data and seismic velocity data
+- [PyLops](https://pylops.readthedocs.io/en/latest/) – ![Python](media/icon/python.svg) Linear Operators with some geophysics/seismic modules (e.g., pre- and post-stack AVO inversion, deconvolution, Marchenko redatuming, Radon filtering)
 ### Reservoir Engineering
 - [libres](https://github.com/equinor/libres) – ![Python](media/icon/python.svg) Tool for managing an ensemble of reservoir models
 - [libecl](https://github.com/equinor/libecl) – ![Python](media/icon/python.svg) Reading and writing Eclipse reservoir simulator files
