@@ -67,7 +67,7 @@ Awesome software projects sub-categorized by focus.
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – ![Awesome](media/icon/awesome.svg) Awesome list for geospatial, not specific to geoscience but significant overlap.
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.svg) Jupyter notebook extension for geospatial visualization and analysis. Developed by NASA.
 - [Stress2Grid](http://pmd.gfz-potsdam.de/wsm/showshort.php?id=escidoc:2112906) – ![matlab](media/icon/matlab.svg) Two concepts to calculate the mean SHmax orientation.
-- [QGIS](http://www.qgis.com/) – GIS platform that allows you to visualize, manage, edit, analyse data, and compose printable maps.
+- [QGIS](#platforms) – GIS platform see [Platforms](#platforms)
 - [Verde](https://github.com/fatiando/verde) – ![Python](media/icon/python.svg) processing spatial data to regular grids.
 ### Geochemistry
 - [PhreeQC](https://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/) – ![C++](media/icon/cplusplus.svg) Reactions in water and between water and rocks and sediments. Speciation, Batch-Reaction, One-Dimensional Transport, and Inverse Geochemical Calculations
@@ -83,10 +83,10 @@ Awesome software projects sub-categorized by focus.
 - [vtki](https://docs.vtki.org/en/latest/) - ![Python](media/icon/python.svg) A streamlined interface for the Visualization Toolkit. Create compelling, integrated visualizations in a pure Python environment.
 - [GeologicPatterns](https://github.com/davenquinn/geologic-patterns) - Entire FGDC pattern library extracted to SVG and PNG for use in geologic maps and stratigraphic columns. Based on FGDC (Federal Geographic Data Committee (FGDC) Digital Cartographic Standard for Geologic Map Symbolization, 2006.
 - [omfvtk](https://omfvtk.readthedocs.io/en/latest/): A VTK interface for the [Open Mining Format (omf)](#miscellaneous) package providing Python 3D visualization.
-
 ### Platforms
 - [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package
 - [RINGMesh](https://github.com/ringmesh/RINGMesh) – ![C++](media/icon/cplusplus.svg) RINGMesh is a C++ open-source platform for manipulating meshes of geological models
+- [QGIS](http://www.qgis.com/) – GIS platform that allows you to visualize, manage, edit, analyse data, and compose printable maps.
 
 | ▲ [Top](#awesome-open-geoscience-) |
 | --- |
