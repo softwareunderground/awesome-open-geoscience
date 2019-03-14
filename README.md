@@ -34,7 +34,7 @@ Awesome software projects sub-categorized by focus.
 - [ObsPy](https://github.com/obspy/obspy/wiki) – ![Python](media/icon/python.svg) Framework for reading, writing and processing seismic and seismological data
 - [Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges) – ![Python](media/icon/python.svg) Various geophysical equations and tools
 - [Segyio](https://github.com/equinor/segyio) – ![Python](media/icon/python.svg) / ![matlab](media/icon/matlab.svg) Fast library for seismic SEGY files
-- [PyLops](https://pylops.readthedocs.io) – ![Python](media/icon/python.svg) A Linear-Operator Library for Python with some geophysics/seismic modules, such as pre- and post-stack AVO inversion, deconvolution, Marchenko redatuming, and Radon filtering
+- [PyLops](https://pylops.readthedocs.io/en/latest) – ![Python](media/icon/python.svg) A Linear-Operator Library for Python with some geophysics/seismic modules, such as pre- and post-stack AVO inversion, deconvolution, Marchenko redatuming, and Radon filtering
 ### Well Log
 - [lasio](https://github.com/kinverarity1/lasio/) – ![Python](media/icon/python.svg) Reading and writing well data using Log ASCII Standard (LAS) files
 - [Welly](https://github.com/agile-geoscience/welly) – ![Python](media/icon/python.svg) Analyzing and processing well log data
