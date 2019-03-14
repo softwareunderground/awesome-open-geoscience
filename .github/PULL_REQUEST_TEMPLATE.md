@@ -14,7 +14,7 @@ Checklist for new projects:
 - [ ] Searched the existing entries to make sure this is not a duplicate.
 - [ ] Contains only a single addition (make separate PRs if adding more than one).
 - [ ] Added the link to the bottom of the relevant category.
-- [ ] Add icon from [here](media/icon/) if applicable (like ![Python](media/icon/python.svg)).
+- [ ] Add icon from the `media/icon/` folder if applicable (like `![Python](media/icon/python.png)` ).
 - [ ] Created a new category only if necessary.
 - [ ] Checked spelling and grammar.
 - [ ] Removed trailing whitespace and periods.
