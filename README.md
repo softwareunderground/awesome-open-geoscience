@@ -40,7 +40,7 @@ Awesome software projects sub-categorized by focus.
 - [Striplog](https://github.com/agile-geoscience/striplog) – ![Python](media/icon/python.png) Display lithological and stratigraphic logs for wells and outcrop
 - [FuzzyLAS](http://fuzzylas.appspot.com/) – Web app for looking up curve mnemonics
 ### Simulation and Modelling
-- [Fatiando a Terra](http://www.fatiando.org/) – ![Python](media/icon/python.png) Modelling and inversion in geophysics
+- [Fatiando a Terra](https://www.fatiando.org/) – ![Python](media/icon/python.png) Modelling and inversion in geophysics
 - [SimPEG](http://simpeg.xyz) – ![Python](media/icon/python.png) Simulation and parameter estimation in geophysics
 - [Devito](https://www.opesci.org/devito-public) – ![Python](media/icon/python.png) Finite-Difference computation from high-level symbolic problem definitions
 - [bh_tomo](https://github.com/groupeLIAMG/bh_tomo) – ![matlab](media/icon/matlab.png) Borehole radar and seismic tomography package
@@ -74,7 +74,7 @@ Awesome software projects sub-categorized by focus.
 - [QGIS](#platforms) – GIS platform see [Platforms](#platforms)
 - [Verde](https://github.com/fatiando/verde) – ![Python](media/icon/python.png) processing spatial data to regular grids
 ### Geochemistry
-- [PhreeQC](https://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/) – ![C++](media/icon/cplusplus.png) Reactions in water and between water and rocks and sediments (speciation, batch-reaction, one-dimensional transport, and inverse geochemical calculations)
+- [PhreeQC](https://www.usgs.gov/software/phreeqc-version-3) – ![C++](media/icon/cplusplus.png) Reactions in water and between water and rocks and sediments (speciation, batch-reaction, one-dimensional transport, and inverse geochemical calculations)
 - [Reaktoro](https://reaktoro.org/) – ![C++](media/icon/cplusplus.png) ![Python](media/icon/python.png) Unified framework for modelling chemically reactive systems
 - [GeoPyTool](https://github.com/GeoPyTool/GeoPyTool) – ![Python](media/icon/python.png) Application with geochemical plotting capabilities
 ### Structural Geology
