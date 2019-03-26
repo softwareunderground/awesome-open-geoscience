@@ -5,6 +5,8 @@
 
 Open geoscience is even more awesome, so we made a list. This list is curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. In accordance with the awesome manifesto, we add awesome repositories. We are open to [contributions](contributing.md) of course, this is a community effort after all.
 
+This list focuses on solid-earth geoscience. For atmospheric, ocean, climate, and hydrologic science, check out [awesome open climate science](https://github.com/pangeo-data/awesome-open-climate-science).
+
 ## Contents
 
 - [Software](#software)
