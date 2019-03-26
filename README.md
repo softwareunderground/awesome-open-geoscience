@@ -102,6 +102,7 @@ Awesome software projects sub-categorized by focus.
 - [UK National Data Repository](https://ndr.ogauthority.co.uk/dp/controller) – Open petroleum geoscience data from the UK Government (free registration required)
 - [Athabasca Oil Sands Well Dataset McMurray/Wabiskaw](https://ags.aer.ca/publications/SPE_006.html) – Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada
 - [ICGEM](http://icgem.gfz-potsdam.de/home) – Hosts gravity field spherical harmonic models and provides a webservice for generating grids of gravity functionals (geoid, gravity anomaly, vertical derivatives, etc)
+- [TerraNubis](https://terranubis.com/datalist/free/) – The new _Open Seismic Repository_, includes the classic F3 and Penobscot seismic volumes (which both also have wells and other data assets).
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
