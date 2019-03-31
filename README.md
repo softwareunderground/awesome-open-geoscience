@@ -7,6 +7,7 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 
 ## Contents
 
+- [Related Awesome](#related-awesome)
 - [Software](#software)
     - [Seismic](#seismic)
     - [Well Log](#well-log)
