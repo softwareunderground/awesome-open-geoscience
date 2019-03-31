@@ -5,8 +5,6 @@
 
 Open geoscience is even more awesome, so we made a list. This list is curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. In accordance with the awesome manifesto, we add awesome repositories. We are open to [contributions](contributing.md) of course, this is a community effort after all.
 
-This list focuses on solid-earth geoscience. For atmospheric, ocean, climate, and hydrologic science, check out [awesome open climate science](https://github.com/pangeo-data/awesome-open-climate-science).
-
 ## Contents
 
 - [Software](#software)
@@ -25,6 +23,10 @@ This list focuses on solid-earth geoscience. For atmospheric, ocean, climate, an
 - [Miscellaneous](#miscellaneous)
 - [How to Contribute](#how-to-contribute)
 
+## Related Awesome
+This list focuses on solid-earth geoscience. Similar lists for related fields are
+- [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – ![Awesome](media/icon/awesome.png) Awesome list for geospatial, not specific to geoscience but significant overlap
+- [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) – ![Awesome](media/icon/awesome.png) Awesome list for atmospheric, ocean, climate, and hydrologic science
 
 ## Software
 Awesome software projects sub-categorized by focus.
@@ -70,7 +72,6 @@ Awesome software projects sub-categorized by focus.
 - [PyGSLIB](https://opengeostat.github.io/pygslib/index.html) – ![Python](media/icon/python.png) Mineral resource estimations
 ### Geospatial
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) – ![C](media/icon/c.png)  About 80 command-line tools for manipulating geographic and Cartesian data sets
-- [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – ![Awesome](media/icon/awesome.png) Awesome list for geospatial, not specific to geoscience but significant overlap
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.png) Jupyter notebook extension for geospatial visualization and analysis developed by NASA
 - [Stress2Grid](http://pmd.gfz-potsdam.de/wsm/showshort.php?id=escidoc:2112906) – ![matlab](media/icon/matlab.png) Two concepts to calculate the mean SHmax orientation
 - [QGIS](#platforms) – GIS platform see [Platforms](#platforms)
