@@ -25,13 +25,11 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 - [How to Contribute](#how-to-contribute)
 
 ## Related Awesome
-This list focuses on solid-earth geoscience. Similar lists for related fields are
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – ![Awesome](media/icon/awesome.png) Awesome list for geospatial, not specific to geoscience but significant overlap
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) – ![Awesome](media/icon/awesome.png) Awesome list for atmospheric, ocean, climate, and hydrologic science
 
 ## Software
 Awesome software projects sub-categorized by focus.
-
 ### Seismic
 - [Seismic Un\*x](https://github.com/JohnWStockwellJr/SeisUnix) – ![C](media/icon/c.png) Seismic data processing suite
 - [Madagascar](http://www.ahay.org/wiki/Installation) – ![C](media/icon/c.png) ![Python](media/icon/python.png) Multi-dimensional data processing suite
