@@ -69,7 +69,7 @@ Awesome software projects sub-categorized by focus.
 - [HPGL](https://github.com/hpgl/hpgl) – ![Python](media/icon/python.png) High perfomance geostatistics library
 - [gstat](https://github.com/edzer/gstat/) – ![Python](media/icon/r.png) Geostatistical modelling, prediction and simulation
 - [PyGSLIB](https://opengeostat.github.io/pygslib/index.html) – ![Python](media/icon/python.png) Mineral resource estimations
-- [GeoStats.jl](https://github.com/juliohm/GeoStats.jl) - ![Julia](media/icon/julia.png) High-performance geostatistics in Julia
+- [GeoStats.jl](https://github.com/juliohm/GeoStats.jl) – ![Julia](media/icon/julia.png) High-performance geostatistics in Julia
 ### Geospatial
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) – ![C](media/icon/c.png)  About 80 command-line tools for manipulating geographic and Cartesian data sets
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.png) Jupyter notebook extension for geospatial visualization and analysis developed by NASA
