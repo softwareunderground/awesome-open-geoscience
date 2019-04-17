@@ -86,7 +86,7 @@ Awesome software projects sub-categorized by focus.
 - [Colorcet](https://github.com/pyviz/colorcet)  – ![Python](media/icon/python.png) Perceptual colormaps
 - [cmocean](https://matplotlib.org/cmocean/) – ![Python](media/icon/python.png) MatPlotLib collection of perceptual colormaps for oceanography
 - [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.png)](https://pypi.org/project/PVGeo/) [![ParaView](media/icon/paraview.png)](https://www.paraview.org) Data and model visualization in ParaView and Visualization Toolkit (VTK) via `vtki`
-- [vtki](https://docs.vtki.org/en/latest/) – ![Python](media/icon/python.png) Streamlined interface for the Visualization Toolkit (VTK)
+- [vtki](https://github.com/vtkiorg/vtki) – ![Python](media/icon/python.png) Streamlined interface for the Visualization Toolkit (VTK)
 - [omfvtk](https://omfvtk.readthedocs.io/en/latest/) – ![Python](media/icon/python.png) Visualization Toolkit (VTK) interface for the [Open Mining Format (omf)](#miscellaneous) package
 ### Platforms
 - [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package
