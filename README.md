@@ -93,7 +93,7 @@ Awesome software projects sub-categorized by focus.
 - [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package
 - [RINGMesh](https://github.com/ringmesh/RINGMesh) – ![C++](media/icon/cplusplus.png) Mesh manipulation of geological models
 - [QGIS](http://www.qgis.com/) – GIS platform to visualize, manage, edit, analyse data, and compose printable maps
-
+- [MB-System](https://github.com/dwcaress/MB-System) - MB-System is an open source software package for the processing and display of bathymetry and backscatter imagery data derived from multibeam, interferometry, and sidescan sonars.
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
