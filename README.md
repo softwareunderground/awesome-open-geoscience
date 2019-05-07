@@ -10,6 +10,7 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 - [Related Awesome](#related-awesome)
 - [Software](#software)
     - [Seismic](#seismic)
+    - [Ground-penetrating radar](#ground-penetrating-radar)
     - [Well Log](#well-log)
     - [Simulation and Modelling](#simulation-and-modelling)
     - [Reservoir Engineering](#reservoir-engineering)
@@ -37,6 +38,10 @@ Awesome software projects sub-categorized by focus.
 - [ObsPy](https://github.com/obspy/obspy/wiki) – ![Python](media/icon/python.png) Framework for reading, writing and processing seismic and seismological data
 - [Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges) – ![Python](media/icon/python.png) Various geophysical equations and tools
 - [Segyio](https://github.com/equinor/segyio) – ![Python](media/icon/python.png) / ![matlab](media/icon/matlab.png) Fast library for seismic SEGY files
+### Ground-penetrating radar
+- [gprMax](https://github.com/gprMax/gprMax) – ![Python](media/icon/python.png) Simulates electromagnetic wave propagation
+- [readgssi](https://github.com/iannesbitt/readgssi) - ![Python](media/icon/python.png) Reads and plots Geophysical Survey Systems Incorporated (GSSI) radar data in DZT format
+- [RGPR](https://github.com/emanuelhuber/RGPR) - ![Python](media/icon/r.png) Reads, exports, analyses, processes and plots ground-penetrating radar data
 ### Well Log
 - [lasio](https://github.com/kinverarity1/lasio/) – ![Python](media/icon/python.png) Reading and writing well data using Log ASCII Standard (LAS) files
 - [Welly](https://github.com/agile-geoscience/welly) – ![Python](media/icon/python.png) Analyzing and processing well log data
