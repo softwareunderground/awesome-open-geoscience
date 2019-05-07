@@ -39,8 +39,6 @@ Awesome software projects sub-categorized by focus.
 - [Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges) – ![Python](media/icon/python.png) Various geophysical equations and tools
 - [Segyio](https://github.com/equinor/segyio) – ![Python](media/icon/python.png) / ![matlab](media/icon/matlab.png) Fast library for seismic SEGY files
 ### Ground-penetrating radar
-- [gprMax](https://github.com/gprMax/gprMax) – ![Python](media/icon/python.png) Simulates electromagnetic wave propagation
-- [readgssi](https://github.com/iannesbitt/readgssi) - ![Python](media/icon/python.png) Reads and plots Geophysical Survey Systems Incorporated (GSSI) radar data in DZT format
 - [RGPR](https://github.com/emanuelhuber/RGPR) - ![Python](media/icon/r.png) Reads, exports, analyses, processes and plots ground-penetrating radar data
 ### Well Log
 - [lasio](https://github.com/kinverarity1/lasio/) – ![Python](media/icon/python.png) Reading and writing well data using Log ASCII Standard (LAS) files
