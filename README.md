@@ -87,8 +87,8 @@ Awesome software projects sub-categorized by focus.
 - [Colorcet](https://github.com/pyviz/colorcet)  – ![Python](media/icon/python.png) Perceptual colormaps
 - [cmocean](https://matplotlib.org/cmocean/) – ![Python](media/icon/python.png) MatPlotLib collection of perceptual colormaps for oceanography
 - [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.png)](https://pypi.org/project/PVGeo/) [![ParaView](media/icon/paraview.png)](https://www.paraview.org) Data and model visualization in ParaView and Visualization Toolkit (VTK) via `vtki`
-- [vtki](https://github.com/vtkiorg/vtki) – ![Python](media/icon/python.png) Streamlined interface for the Visualization Toolkit (VTK)
-- [omfvtk](https://github.com/OpenGeoVis/omfvtk) – ![Python](media/icon/python.png) Visualization Toolkit (VTK) interface for the [Open Mining Format (omf)](#miscellaneous) package
+- [vista](https://github.com/pyvista/vista) – ![Python](media/icon/python.png) Streamlined interface for the Visualization Toolkit (VTK)
+- [omfvista](https://github.com/OpenGeoVis/omfvista) – ![Python](media/icon/python.png) Visualization Toolkit (VTK) interface for the [Open Mining Format (omf)](#miscellaneous) package
 ### Platforms
 - [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package
 - [RINGMesh](https://github.com/ringmesh/RINGMesh) – ![C++](media/icon/cplusplus.png) Mesh manipulation of geological models
@@ -105,6 +105,7 @@ Awesome software projects sub-categorized by focus.
 - [Athabasca Oil Sands Well Dataset McMurray/Wabiskaw](https://ags.aer.ca/publications/SPE_006.html) – Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada
 - [ICGEM](http://icgem.gfz-potsdam.de/home) – Hosts gravity field spherical harmonic models and provides a webservice for generating grids of gravity functionals (geoid, gravity anomaly, vertical derivatives, etc)
 - [TerraNubis](https://terranubis.com/datalist/free/) – The new _Open Seismic Repository_, includes the classic F3 and Penobscot seismic volumes (which both also have wells and other data assets).
+- [Quantarctica](http://quantarctica.npolar.no/) – User-configurable [QGIS](#platforms) basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
