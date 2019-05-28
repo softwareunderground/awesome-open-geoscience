@@ -29,6 +29,9 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – ![Awesome](media/icon/awesome.png) Awesome list for geospatial, not specific to geoscience but significant overlap
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) – ![Awesome](media/icon/awesome.png) Awesome list for atmospheric, ocean, climate, and hydrologic science
 
+| ▲ [Top](#awesome-open-geoscience) |
+| --- |
+
 ## Software
 Awesome software projects sub-categorized by focus.
 ### Seismic
@@ -94,6 +97,7 @@ Awesome software projects sub-categorized by focus.
 - [cmocean](https://matplotlib.org/cmocean/) – ![Python](media/icon/python.png) MatPlotLib collection of perceptual colormaps for oceanography
 - [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.png)](https://pypi.org/project/PVGeo/) [![ParaView](media/icon/paraview.png)](https://www.paraview.org) Data and model visualization in ParaView and Visualization Toolkit (VTK) via PyVista
 - [PyVista](https://github.com/pyvista/pyvista) – ![Python](media/icon/python.png) 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
+- [GeologicPatterns](https://github.com/davenquinn/geologic-patterns) - Entire FGDC pattern library extracted to SVG and PNG for use in geologic maps and stratigraphic columns
 - [omfvista](https://github.com/OpenGeoVis/omfvista) – ![Python](media/icon/python.png) PyVista interface for the [Open Mining Format (omf)](#miscellaneous) package
 ### Platforms
 - [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package
