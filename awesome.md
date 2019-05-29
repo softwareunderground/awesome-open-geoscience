@@ -70,8 +70,8 @@ The readme of the repository should be well formatted and contain the gist of th
 
 Awesome software makes it easy to use and include in your programming environment. In Python, Pypi and Conda make package management extremely powerful, ideally the software should be included in at least one of these. Gemfiles for Ruby, or NPM for nodejs are equally great for serving the software.
 
-    Good: A package management file such as a Gemfile or requirements.txt or equivalent
-    OK-ish: A list of dependencies to install
+    Awesome: A package management file such as a Gemfile or requirements.txt or equivalent
+    Awesome-ish (it's missing some of the magic): A list of dependencies to install
     Bad (not acceptable): Reliance on other software not listed by the authors
 
 ### Examples and Tutorials
@@ -84,7 +84,7 @@ The API, or the collection of functionality should be described in the documenta
 
     Uber-Awesome: All functions methods have tutorials and examples.
     Awesome: All functions/methods are documented including example inputs and outputs
-    Okay: Core API functionality is documented
+    Awesome-ish (it could be so much more awesome though): Core API functionality is documented
     Bad (not acceptable): API is completely undocumented
 
 ## Software Tests
@@ -93,18 +93,20 @@ The API, or the collection of functionality should be described in the documenta
 
 Awesome projects make sure their code is working, ideally by automatic tests with full coverage of their software package. Remember many automatic Continuous Integration (CI) tools, offer discounts or free functionality to open source projects.
 
+Tests can also be non-applicable for certain projects and are sometimes really hard to implement, if you're not sure whether the tests are acceptable, just let us know in the pull request and the maintainers will figure it out with you.
+
     Uber-Awesome: Full coverage of all tests, automatically executed and instructions to test by hand
-    Acceptable Awesome: An automated test suite hooked up to an external service such as Travis-CI or similar
-    If we're in a really good mood awesome-ish: Documented manual steps that can be followed to objectively check the expected functionality of the software
-    Tests can also be non-applicable for certain projects.
+    Awesome: An automated test suite hooked up to an external service such as Travis-CI or similar
+    Awesome-ish (If we're in a really good mood): Documented manual steps that can be followed to objectively check the expected functionality of the software
+    
     
 ## Datasets
 
 Awesome datasets need an open license and should be accessible. Ideally, they should be obtainable online, without sign-up. We appreciate that sometimes data portals with sign-ups are necessary. The sign-up for these portals *must be* automatic, meaning no long wait for response, and *cannot* limit usage of the data, meaning license restrictions that would make it non-open.
 
-    Good: Open downloadable data like an S3 bucket, API, kaggle dataset, or data.world dataset.
-    OK: Data Portal with sign-up
-    Bad (not acceptable): Contact the authors / maintainers and ask for the thing in the cabinet.
+    Awesome: Open downloadable data like an S3 bucket, API, kaggle dataset, or data.world dataset.
+    Awesome-ish (we get it, sometimes it's necessary): Data Portal with sign-up
+    Bad (not acceptable): Contact the authors / maintainers and ask for the thing in the back of the cabinet.
     
 ### Dataset Documentation
 
