@@ -1,6 +1,8 @@
 # Our Definition of Awesome
 
-If you want your project to be included in this `awesome` list, please check our definition of awesome. After all, it's a curation, not a collection. We base it loosely on the [manifesto of the Journal of Open Source Software (JOSS)](https://joss.readthedocs.io/en/latest/review_criteria.html). Additionally, for now, we choose English as a common language for the list and as acceptable contributions to the list.
+If you want a project to be included in this `awesome` list, please check our definition of awesome. After all, it's a curation, not a collection. We base it loosely on the [manifesto of the Journal of Open Source Software (JOSS)](https://joss.readthedocs.io/en/latest/review_criteria.html). We say loosely, because their standards are higher. Our definition of awesome is more like guidelines to aim for and less like a strict set of rules. If you're new to coding and aren't sure if something qualifies, submit a pull request following the [contribution guidelines](contributing.md) and maintainers will help you out!
+
+For now, we choose English as a common language for the list and as acceptable contributions to the list.
 
 But **what is awesome?**
 
@@ -29,7 +31,7 @@ Need help?
 
 **http://choosealicense.com/**
 
-There should be an [Open Software Initiative](https://opensource.org/licenses/) or [Free Software Foundation](https://www.fsf.org/licensing/licenses/) approved license file for software included in the repository. Keep in mind that if you [haven't selected a license](http://choosealicense.com/no-license/), it basically means the people are *not* allowed to reproduce, distribute or create derivative works.
+There should be an [Open Software Initiative](https://opensource.org/licenses/) or [Free Software Foundation](https://www.fsf.org/licensing/licenses/) approved license file for software included in the repository. Keep in mind that if you [haven't selected a license](http://choosealicense.com/no-license/), it very likely means the people are *not* allowed to reproduce, distribute or create derivative works.
 
 ### Software
 Common licenses for software are [found here](http://choosealicense.com/):
@@ -59,7 +61,7 @@ Some licenses that are ***not*** open and **cannot be included**:
 
 ## Software Documentation
 
-Make your documentation awesome. Look at our awesome list, we're trying to make this look good and people appreciate it. Make your documentation look good as well. All of this was achieved with good formatting via [Markdown](https://en.wikipedia.org/wiki/Markdown) in the Readme.
+For a project to be awesome, documentation should be awesome. Look at our awesome list, we're trying to make this look good and people appreciate it. All of this was achieved with good formatting via [Markdown](https://en.wikipedia.org/wiki/Markdown) in the Readme. If you really enjoy a project, but find the documentation is weak, that might be a great way to contribute to that project!
 
 ### Readme
 The readme of the repository should be well formatted and contain the gist of the project, and links all the following points, that ideally should be part of the larger documentation.
@@ -74,16 +76,16 @@ Awesome software makes it easy to use and include in your programming environmen
 
 ### Examples and Tutorials
 
-An awesome project includes tutorials and examples how to use the software. Sometimes it can be a little non-obvious how to get the software started. Help the community see, how awesome your software is.
+Sometimes it can be a little non-obvious how to get the software started. An awesome project includes tutorials and examples how to use the software. This is another easy way to contribute to a project. If you think it is awesome, you've likely already made something that can be used as an example. 
 
 ### API Documentation
 
-The API, or the collection of functionality should be described thoroughly in your documentation. Don't make people guess if it's `xy.from_csv`, `xy.read_csv`, or `xy.load_csv`. Better let them know and choose good defaults that can be changed regardless for all the edge cases that appear along the way.
+The API, or the collection of functionality should be described in the documentation. Making people guess if it's `xy.from_csv`, `xy.read_csv`, or `xy.load_csv` is less than Awesome. Better let them know and choose good defaults that can be changed regardless for all the edge cases that appear along the way.
 
     Uber-Awesome: All functions methods have tutorials and examples.
-    Good: All functions/methods are documented including example inputs and outputs
-    OK: Core API functionality is documented
-    Bad (not acceptable): API is undocumented
+    Awesome: All functions/methods are documented including example inputs and outputs
+    Okay: Core API functionality is documented
+    Bad (not acceptable): API is completely undocumented
 
 ## Software Tests
 
@@ -92,17 +94,17 @@ The API, or the collection of functionality should be described thoroughly in yo
 Awesome projects make sure their code is working, ideally by automatic tests with full coverage of their software package. Remember many automatic Continuous Integration (CI) tools, offer discounts or free functionality to open source projects.
 
     Uber-Awesome: Full coverage of all tests, automatically executed and instructions to test by hand
-    Good: An automated test suite hooked up to an external service such as Travis-CI or similar
-    OK: Documented manual steps that can be followed to objectively check the expected functionality of the software
-    Bad (not acceptable): No way for you to objectively assess whether the software works as intended
+    Acceptable Awesome: An automated test suite hooked up to an external service such as Travis-CI or similar
+    If we're in a really good mood awesome-ish: Documented manual steps that can be followed to objectively check the expected functionality of the software
+    Tests can also be non-applicable for certain projects.
     
 ## Datasets
 
-Awesome datasets need an open license and should be accessible. Ideally, they should be obtainable online, without sign-up. We appreciate that sometimes data portals with sign-ups are necessary. The sign-up for these portals *must be* automatic and *cannot* limit usage of the data.
+Awesome datasets need an open license and should be accessible. Ideally, they should be obtainable online, without sign-up. We appreciate that sometimes data portals with sign-ups are necessary. The sign-up for these portals *must be* automatic, meaning no long wait for response, and *cannot* limit usage of the data, meaning license restrictions that would make it non-open.
 
-    Good: Open downloadable data like an S3 bucket
+    Good: Open downloadable data like an S3 bucket, API, kaggle dataset, or data.world dataset.
     OK: Data Portal with sign-up
-    Bad (not acceptable): Contact the authors / maintainers
+    Bad (not acceptable): Contact the authors / maintainers and ask for the thing in the cabinet.
     
 ### Dataset Documentation
 
