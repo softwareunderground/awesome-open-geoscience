@@ -6,26 +6,28 @@ For now, we choose English as a common language for the list and as acceptable c
 
 But **what is awesome?**
 
-## Contents
+# Contents
 
 - [Open Licensing](#choose-an-appropriate-license)
     - [Software](#software)
     - [Non - Software](#non-software)
     - [Unacceptable](#unacceptable-licenses)
- - [Software Documentation](#software-documentation)
-    - [Readme](#readme)
-    - [Installation Instructions](#installation-instructions)
-    - [Examples and Tutorials](#examples-and-tutorials)
-    - [API Documentation](#api-documentation)
-- [Software Tests](#software-tests)
+- [Project Community Guidelines](#project-community-guidelines)
+- [Publications and Cheat Sheets](#publicationsand-cheat-sheets)
 - [Datasets](#datasets)
     - [Dataset Documentation](#dataset-documentation)
     - [Download Instructions](#download-instructions)
-- [Publications and Cheat Sheets](#publicationsand-cheat-sheets)
-- [Project Community Guidelines](#project-community-guidelines)
+- [Software](#software)
+    - [Software Documentation](#software-documentation)
+        - [Readme](#readme)
+        - [Installation Instructions](#installation-instructions)
+        - [Examples and Tutorials](#examples-and-tutorials)
+        - [API Documentation](#api-documentation)
+    - [Software Tests](#software-tests)
 
 
-## Choose an appropriate license
+
+# Choose an appropriate license
 
 Need help?
 
@@ -33,7 +35,7 @@ Need help?
 
 There should be an [Open Software Initiative](https://opensource.org/licenses/) or [Free Software Foundation](https://www.fsf.org/licensing/licenses/) approved license file for software included in the repository. Keep in mind that if you [haven't selected a license](http://choosealicense.com/no-license/), it very likely means the people are *not* allowed to reproduce, distribute or create derivative works.
 
-### Software
+## Software
 Common licenses for software are [found here](http://choosealicense.com/):
 * [Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
 * [BSD 3-Clause "New" or "Revised" license](https://opensource.org/licenses/BSD-3-Clause)
@@ -42,14 +44,14 @@ Common licenses for software are [found here](http://choosealicense.com/):
 * [GNU Library or "Lesser" General Public License (LGPL)](https://opensource.org/licenses/lgpl-license)
 * [MIT license](https://opensource.org/licenses/MIT)
 
-### Non-Software
+## Non-Software
 Non-software typically use Creative Commons:
 * [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 * [CC-BY](https://creativecommons.org/licenses/by/4.0/).
 * [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
 * Code licenses like MIT, BSD, GPL, and so forth are **not** recommended for this type.
 
-### Unacceptable Licenses
+## Unacceptable Licenses
 Some licenses that are ***not*** open and **cannot be included**:
 * [No license](http://choosealicense.com/no-license/)
 * [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
@@ -58,6 +60,36 @@ Some licenses that are ***not*** open and **cannot be included**:
 * [Microsoft's Shared Source CLI, C#, and Jscript License](http://directory.fsf.org/wiki/License:Ms-SS)
 * [Oculus Rift SDK License](http://directory.fsf.org/wiki/License:Oculus_VR_Rift_SDK_License)
 * More exhaustive lists: [Software](http://www.gnu.org/licenses/license-list.html#NonFreeSoftwareLicenses) and [Others](http://www.gnu.org/licenses/license-list.html#NonFreeDocumentationLicenses)
+
+
+# Project Community Guidelines
+
+Awesome projects make it easy to get involved with. Tell the community, how you would like your issues and pull requests and how you credit them when they contribute to the software, report issues or problems with the software or simply seek support.
+
+
+# Datasets
+
+Awesome datasets need an open license and should be accessible. Ideally, they should be obtainable online, without sign-up. We appreciate that sometimes data portals with sign-ups are necessary. The sign-up for these portals *must be* automatic, meaning no long wait for response, and *cannot* limit usage of the data, meaning license restrictions that would make it non-open.
+
+    Awesome: Open downloadable data like an S3 bucket, API, kaggle dataset, or data.world dataset.
+    Awesome-ish (we get it, sometimes it's necessary): Data Portal with sign-up
+    Bad (not acceptable): Contact the authors / maintainers and ask for the thing in the back of the cabinet.
+    
+## Dataset Documentation
+
+Awesome datasets contain a full description of the data included and information about acquisition, processing and ideally reference implementations of loading and visualization of the adata.
+    
+## Download Instructions
+
+Awesome datasets make it easy to obtain the data. Tell the community, how they can best obtain the data in the most stable way.
+
+# Publications and Cheat Sheets
+
+Awesome publications make it easy for the reader to navigate and obtain the information they need. These publications condense information in a unique way or offer a complete, exhaustive and comprehensive overview of a topic.
+
+# Software
+
+Awesome software is easy to install, beautifully documented with great examples and fully tested to ensure functionality. We go into more detail in the following sections.
 
 ## Software Documentation
 
@@ -98,28 +130,4 @@ Tests can also be non-applicable for certain projects and are sometimes really h
     Uber-Awesome: Full coverage of all tests, automatically executed and instructions to test by hand
     Awesome: An automated test suite hooked up to an external service such as Travis-CI or similar
     Awesome-ish (If we're in a really good mood): Documented manual steps that can be followed to objectively check the expected functionality of the software
-    
-    
-## Datasets
 
-Awesome datasets need an open license and should be accessible. Ideally, they should be obtainable online, without sign-up. We appreciate that sometimes data portals with sign-ups are necessary. The sign-up for these portals *must be* automatic, meaning no long wait for response, and *cannot* limit usage of the data, meaning license restrictions that would make it non-open.
-
-    Awesome: Open downloadable data like an S3 bucket, API, kaggle dataset, or data.world dataset.
-    Awesome-ish (we get it, sometimes it's necessary): Data Portal with sign-up
-    Bad (not acceptable): Contact the authors / maintainers and ask for the thing in the back of the cabinet.
-    
-### Dataset Documentation
-
-Awesome datasets contain a full description of the data included and information about acquisition, processing and ideally reference implementations of loading and visualization of the adata.
-    
-### Download Instructions
-
-Awesome datasets make it easy to obtain the data. Tell the community, how they can best obtain the data in the most stable way.
-
-## Publications and Cheat Sheets
-
-Awesome publications make it easy for the reader to navigate and obtain the information they need. These publications condense information in a unique way or offer a complete, exhaustive and comprehensive overview of a topic.
-
-## Project Community Guidelines
-
-Awesome projects make it easy to get involved with. Tell the community, how you would like your issues and pull requests and how you credit them when they contribute to the software, report issues or problems with the software or simply seek support.
