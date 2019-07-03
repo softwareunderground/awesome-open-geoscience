@@ -103,7 +103,7 @@ Awesome software projects sub-categorized by focus.
 - [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package
 - [RINGMesh](https://github.com/ringmesh/RINGMesh) – ![C++](media/icon/cplusplus.png) Mesh manipulation of geological models
 - [QGIS](http://www.qgis.com/) – GIS platform to visualize, manage, edit, analyse data, and compose printable maps
-- [Pangeo](https://pangeo.io/) A community platform for Big Data geoscience
+- [Pangeo](https://pangeo.io/) – ![Python](media/icon/python.png) A community platform for Big Data geoscience
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
