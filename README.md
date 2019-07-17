@@ -9,15 +9,15 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 
 - [Related Awesome](#related-awesome)
 - [Software](#software)
-    - [Seismic](#seismic)
-    - [Ground-penetrating radar](#ground-penetrating-radar)
+    - [Seismic and Seismology](#seismic-and-seismology)
+    - [Ground-Penetrating Radar](#ground-penetrating-radar)
     - [Well Log](#well-log)
     - [Simulation and Modelling](#simulation-and-modelling)
     - [Reservoir Engineering](#reservoir-engineering)
     - [Geostatistics](#geostatistics)
     - [Geospatial](#geospatial)
     - [Geochemistry](#geochemistry)
-    - [Structural geology](#structural-geology)
+    - [Structural Geology](#structural-geology)
     - [Visualization](#visualization)
     - [Platforms](#platforms)
 - [Data Repositories](#data-repositories)
@@ -34,13 +34,14 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 
 ## Software
 Awesome software projects sub-categorized by focus.
-### Seismic
+### Seismic and Seismology
 - [Seismic Un\*x](https://github.com/JohnWStockwellJr/SeisUnix) – ![C](media/icon/c.png) Seismic data processing suite
 - [Madagascar](http://www.ahay.org/wiki/Installation) – ![C](media/icon/c.png) ![Python](media/icon/python.png) Multi-dimensional data processing suite
 - [OpenSeaSeis](https://github.com/JohnWStockwellJr/OpenSeaSeis) – ![C++](media/icon/cplusplus.png) Seismic workflow generator and seismic viewer
 - [ObsPy](https://github.com/obspy/obspy/wiki) – ![Python](media/icon/python.png) Framework for reading, writing and processing seismic and seismological data
 - [Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges) – ![Python](media/icon/python.png) Various geophysical equations and tools
 - [Segyio](https://github.com/equinor/segyio) – ![Python](media/icon/python.png) / ![matlab](media/icon/matlab.png) Fast library for seismic SEGY files
+- [Pyrocko](https://github.com/pyrocko/pyrocko) – ![Python](media/icon/python.png) Seismology toolkit
 ### Ground-penetrating radar
 - [gprMax](http://www.gprmax.com/) – ![Python](media/icon/python.png) ![CUDA](media/icon/cuda.png) Finite-difference time-domain electromagnetic wave propagation simulator (on CPU and GPU)
 - [RGPR](https://github.com/emanuelhuber/RGPR) – ![R](media/icon/r.png) Reads, exports, processes, and plots ground-penetrating radar data
