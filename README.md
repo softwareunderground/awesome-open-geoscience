@@ -17,6 +17,7 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
     - [Geostatistics](#geostatistics)
     - [Geospatial](#geospatial)
     - [Geochemistry](#geochemistry)
+    - [Spectroscopy](#spectroscopy)
     - [Structural Geology](#structural-geology)
     - [Visualization](#visualization)
     - [Platforms](#platforms)
@@ -90,6 +91,13 @@ Awesome software projects sub-categorized by focus.
 - [PhreeQC](https://www.usgs.gov/software/phreeqc-version-3) – ![C++](media/icon/cplusplus.png) Reactions in water and between water and rocks and sediments (speciation, batch-reaction, one-dimensional transport, and inverse geochemical calculations)
 - [Reaktoro](https://reaktoro.org/) – ![C++](media/icon/cplusplus.png) ![Python](media/icon/python.png) Unified framework for modelling chemically reactive systems
 - [GeoPyTool](https://github.com/GeoPyTool/GeoPyTool) – ![Python](media/icon/python.png) Application with geochemical plotting capabilities
+- [latools](https://github.com/oscarbranson/latools) – ![Python](media/icon/python.png) Tools for the reproducible reduction of LA-ICPMS data
+- [DensityX](https://github.com/kaylai/DensityX) – ![Python](media/icon/python.png) Calculation of the density of magmas
+- [Pyrolite](https://github.com/morganjwilliams/pyrolite) – ![Python](media/icon/python.png) A set of tools for getting the most from your geochemical data
+### Spectroscopy
+- [Rampy](https://github.com/charlesll/rampy) – ![Python](media/icon/python.png) Python library for spectral data processing (IR, Raman, XAS...) 
+- [Spectra](https://github.com/charlesll/Spectra.jl) – ![Julia](media/icon/julia.png) Julia library for spectral data processing (IR, Raman, XAS...) 
+- [Larch](https://github.com/xraypy/xraylarch) – ![Python](media/icon/python.png) Larch: X-ray Analysis for Synchrotron Applications using Python 
 ### Structural Geology
 - [mplStereonet](https://github.com/joferkington/mplstereonet) – ![Python](media/icon/python.png) Stereonets on python based on Matplotlib
 - [apsg](https://github.com/ondrolexa/apsg) – ![Python](media/icon/python.png) Advanced structural geology analysis and visualisation based on Matplotlib
