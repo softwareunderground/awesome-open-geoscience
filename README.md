@@ -34,6 +34,13 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 
 ## Software
 Awesome software projects sub-categorized by focus.
+### Frameworks
+- [GeoStat-Framework](https://github.com/GeoStat-Framework) – ![Python](media/icon/python.png) Python framework for geostatistical simulations. Contains:
+  - [GSTools](https://github.com/GeoStat-Framework/GSTools) – ![Python](media/icon/python.png) Geostatistical tools like random field generation, kriging, variogram estimation and covariance models.
+  - [ogs5py](https://github.com/GeoStat-Framework/ogs5py) – ![Python](media/icon/python.png) A python-API for the OpenGeoSys 5, a finite-element solver for thermo-hydro-mechanical-chemical processes in porous and fractured media.
+  - [welltestpy](https://github.com/GeoStat-Framework/welltestpy) – ![Python](media/icon/python.png) Package for handling well based field campaigns with a special focus on estimating parameters of aquifer heterogeneity.
+  - [AnaFlow](https://github.com/GeoStat-Framework/AnaFlow) – ![Python](media/icon/python.png) Contains (semi-)analytical solutions for the groundwater flow equation with a focus on effective type curves for heterogeneous aquifers.
+  - [Walks](https://github.com/GeoStat-Framework/Walks) – ![Python](media/icon/python.png) Provides particle tracking, Lagrangian transport and travel time estimations.
 ### Seismic and Seismology
 - [Seismic Un\*x](https://github.com/JohnWStockwellJr/SeisUnix) – ![C](media/icon/c.png) Seismic data processing suite
 - [Madagascar](http://www.ahay.org/wiki/Installation) – ![C](media/icon/c.png) ![Python](media/icon/python.png) Multi-dimensional data processing suite
@@ -52,6 +59,7 @@ Awesome software projects sub-categorized by focus.
 - [Welly](https://github.com/agile-geoscience/welly) – ![Python](media/icon/python.png) Analyzing and processing well log data
 - [Striplog](https://github.com/agile-geoscience/striplog) – ![Python](media/icon/python.png) Display lithological and stratigraphic logs for wells and outcrop
 - [FuzzyLAS](http://fuzzylas.appspot.com/) – Web app for looking up curve mnemonics
+- [welltestpy](https://github.com/GeoStat-Framework/welltestpy) – ![Python](media/icon/python.png) Package for handling well based field campaigns with a special focus on estimating parameters of aquifer heterogeneity.
 ### Simulation and Modelling
 - [Fatiando a Terra](https://github.com/fatiando/) – ![Python](media/icon/python.png) Modelling and inversion in geophysics
 - [SimPEG](https://github.com/simpeg/simpeg) – ![Python](media/icon/python.png) Simulation and parameter estimation in geophysics
@@ -66,6 +74,7 @@ Awesome software projects sub-categorized by focus.
 - [pyGeoPressure](https://pygeopressure.readthedocs.io/en/latest/) – ![Python](media/icon/python.png) Pore pressure prediction using well log data and seismic velocity data
 - [empymod](https://empymod.github.io) – ![Python](media/icon/python.png) Controlled-source electromagnetic modellers for layered (`empymod`) and three-dimensional (`emg3d`) anisotropic media
 - [PyLops](https://pylops.readthedocs.io/en/latest/) – ![Python](media/icon/python.png) Linear Operators with some geophysics/seismic modules (e.g., pre- and post-stack AVO inversion, deconvolution, Marchenko redatuming, Radon filtering)
+- [ogs5py](https://github.com/GeoStat-Framework/ogs5py) – ![Python](media/icon/python.png) A python-API for the OpenGeoSys 5, a finite-element solver for thermo-hydro-mechanical-chemical processes in porous and fractured media.
 ### Reservoir Engineering
 - [libres](https://github.com/equinor/libres) – ![Python](media/icon/python.png) Tool for managing an ensemble of reservoir models
 - [libecl](https://github.com/equinor/libecl) – ![Python](media/icon/python.png) Reading and writing Eclipse reservoir simulator files
@@ -80,6 +89,7 @@ Awesome software projects sub-categorized by focus.
 - [PyGSLIB](https://opengeostat.github.io/pygslib/index.html) – ![Python](media/icon/python.png) Mineral resource estimations
 - [GeoStats.jl](https://github.com/juliohm/GeoStats.jl) – ![Julia](media/icon/julia.png) High-performance geostatistics in Julia
 - [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy) – ![Python](media/icon/python.png) GSLIB reimplimented in Python 
+- [GSTools](https://github.com/GeoStat-Framework/GSTools) – ![Python](media/icon/python.png) Geostatistical tools like random field generation, kriging, variogram estimation and covariance models.
 ### Geospatial
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) – ![C](media/icon/c.png)  About 80 command-line tools for manipulating geographic and Cartesian data sets
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.png) Jupyter notebook extension for geospatial visualization and analysis developed by NASA
