@@ -34,13 +34,6 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 
 ## Software
 Awesome software projects sub-categorized by focus.
-### Frameworks
-- [GeoStat-Framework](https://github.com/GeoStat-Framework) – ![Python](media/icon/python.png) Python framework for geostatistical simulations. Contains:
-  - [GSTools](https://github.com/GeoStat-Framework/GSTools) – ![Python](media/icon/python.png) Geostatistical tools like random field generation, kriging, variogram estimation and covariance models.
-  - [ogs5py](https://github.com/GeoStat-Framework/ogs5py) – ![Python](media/icon/python.png) A python-API for the OpenGeoSys 5, a finite-element solver for thermo-hydro-mechanical-chemical processes in porous and fractured media.
-  - [welltestpy](https://github.com/GeoStat-Framework/welltestpy) – ![Python](media/icon/python.png) Package for handling well based field campaigns with a special focus on estimating parameters of aquifer heterogeneity.
-  - [AnaFlow](https://github.com/GeoStat-Framework/AnaFlow) – ![Python](media/icon/python.png) Contains (semi-)analytical solutions for the groundwater flow equation with a focus on effective type curves for heterogeneous aquifers.
-  - [Walks](https://github.com/GeoStat-Framework/Walks) – ![Python](media/icon/python.png) Provides particle tracking, Lagrangian transport and travel time estimations.
 ### Seismic and Seismology
 - [Seismic Un\*x](https://github.com/JohnWStockwellJr/SeisUnix) – ![C](media/icon/c.png) Seismic data processing suite
 - [Madagascar](http://www.ahay.org/wiki/Installation) – ![C](media/icon/c.png) ![Python](media/icon/python.png) Multi-dimensional data processing suite
@@ -75,6 +68,7 @@ Awesome software projects sub-categorized by focus.
 - [empymod](https://empymod.github.io) – ![Python](media/icon/python.png) Controlled-source electromagnetic modellers for layered (`empymod`) and three-dimensional (`emg3d`) anisotropic media
 - [PyLops](https://pylops.readthedocs.io/en/latest/) – ![Python](media/icon/python.png) Linear Operators with some geophysics/seismic modules (e.g., pre- and post-stack AVO inversion, deconvolution, Marchenko redatuming, Radon filtering)
 - [ogs5py](https://github.com/GeoStat-Framework/ogs5py) – ![Python](media/icon/python.png) A python-API for the OpenGeoSys 5, a finite-element solver for thermo-hydro-mechanical-chemical processes in porous and fractured media.
+- [Walks](https://github.com/GeoStat-Framework/Walks) – ![Python](media/icon/python.png) Python package for random walks providing particle tracking, Lagrangian transport and travel time estimations.
 ### Reservoir Engineering
 - [libres](https://github.com/equinor/libres) – ![Python](media/icon/python.png) Tool for managing an ensemble of reservoir models
 - [libecl](https://github.com/equinor/libecl) – ![Python](media/icon/python.png) Reading and writing Eclipse reservoir simulator files
@@ -116,6 +110,7 @@ Awesome software projects sub-categorized by focus.
 - [RINGMesh](https://github.com/ringmesh/RINGMesh) – ![C++](media/icon/cplusplus.png) Mesh manipulation of geological models
 - [QGIS](http://www.qgis.com/) – GIS platform to visualize, manage, edit, analyse data, and compose printable maps
 - [Pangeo](https://pangeo.io/) – ![Python](media/icon/python.png) A community platform for Big Data geoscience built on top of the open source scientific python ecosystem
+- [GeoStat-Framework](https://github.com/GeoStat-Framework) – ![Python](media/icon/python.png) Python framework for geostatistical simulations. Contains: [GSTools](#geostatistics), [ogs5py](#simulation-and-modelling), [welltestpy](#well-log), [AnaFlow](https://github.com/GeoStat-Framework/AnaFlow) and [Walks](#simulation-and-modelling)
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
