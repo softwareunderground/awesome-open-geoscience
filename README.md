@@ -80,6 +80,7 @@ Awesome software projects sub-categorized by focus.
 - [PyGSLIB](https://opengeostat.github.io/pygslib/index.html) – ![Python](media/icon/python.png) Mineral resource estimations
 - [GeoStats.jl](https://github.com/juliohm/GeoStats.jl) – ![Julia](media/icon/julia.png) High-performance geostatistics in Julia
 - [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy) – ![Python](media/icon/python.png) GSLIB reimplimented in Python
+- [GeoStat-Framework](https://github.com/GeoStat-Framework) – ![Python](media/icon/python.png) Framework for geostatistical simulations
 ### Geospatial
 - [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) – ![C](media/icon/c.png)  About 80 command-line tools for manipulating geographic and Cartesian data sets
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.png) Jupyter notebook extension for geospatial visualization and analysis developed by NASA
@@ -107,7 +108,6 @@ Awesome software projects sub-categorized by focus.
 - [RINGMesh](https://github.com/ringmesh/RINGMesh) – ![C++](media/icon/cplusplus.png) Mesh manipulation of geological models
 - [QGIS](http://www.qgis.com/) – GIS platform to visualize, manage, edit, analyse data, and compose printable maps
 - [Pangeo](https://pangeo.io/) – ![Python](media/icon/python.png) A community platform for Big Data geoscience built on top of the open source scientific python ecosystem
-- [GeoStat-Framework](https://www.geostat-framework.org) – ![Python](media/icon/python.png) Python framework for geostatistical simulations. Including packages for random field generation, variogram estimation, kriging, subsurface simulations and pumping test analysis.
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
