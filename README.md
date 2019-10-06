@@ -108,6 +108,7 @@ Awesome software projects sub-categorized by focus.
 - [RINGMesh](https://github.com/ringmesh/RINGMesh) – ![C++](media/icon/cplusplus.png) Mesh manipulation of geological models
 - [QGIS](http://www.qgis.com/) – GIS platform to visualize, manage, edit, analyse data, and compose printable maps
 - [Pangeo](https://pangeo.io/) – ![Python](media/icon/python.png) A community platform for Big Data geoscience built on top of the open source scientific python ecosystem
+- [OpenGeode](https://github.com/Geode-solutions/OpenGeode) - Open source platform for representing and manipulating geological models
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
