@@ -106,7 +106,7 @@ Awesome software projects sub-categorized by focus.
 - [GeologicPatterns](https://github.com/davenquinn/geologic-patterns) - Entire FGDC pattern library extracted to SVG and PNG for use in geologic maps and stratigraphic columns
 - [omfvista](https://github.com/OpenGeoVis/omfvista) – ![Python](media/icon/python.png) PyVista interface for the [Open Mining Format (omf)](#miscellaneous) package
 ### Platforms
-- [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package
+- [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package, ![C++](media/icon/cplusplus.png) source code available at https://github.com/OpendTect/OpendTect
 - [RINGMesh](https://github.com/ringmesh/RINGMesh) – ![C++](media/icon/cplusplus.png) Mesh manipulation of geological models
 - [QGIS](http://www.qgis.com/) – GIS platform to visualize, manage, edit, analyse data, and compose printable maps
 - [Pangeo](https://pangeo.io/) – ![Python](media/icon/python.png) A community platform for Big Data geoscience built on top of the open source scientific python ecosystem
