@@ -131,7 +131,6 @@ Awesome software projects sub-categorized by focus.
 - [Quantarctica](https://www.npolar.no/quantarctica/) – User-configurable [QGIS](#platforms) basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data
 - [Digital Rocks Portal](https://www.digitalrocksportal.org/) – Powerful data portal for images of varied porous micro-structures
 
-
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
