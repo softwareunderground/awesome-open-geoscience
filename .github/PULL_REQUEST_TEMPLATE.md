@@ -14,7 +14,7 @@ __Submission type:__
 
 <!-- In the following checklist, an empty check-box is "[ ]", a checked check-box is "[x]". You can also interactively click the boxes once the PR is submitted. -->
 
-## Checklist for all projects:
+## Checklist for all pull requests:
 <!-- If adding a project to the list, make sure it fulfills the following criteria. -->
 
 <!-- Make sure it's "certified awesome"! -->
