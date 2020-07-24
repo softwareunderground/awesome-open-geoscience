@@ -1,7 +1,8 @@
 # Awesome Open Geoscience
 > Geoscience is [awesome](awesome.md).
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/softwareunderground/awesome-open-geoscience.svg?label=link%20check&logo=travis)](https://travis-ci.org/softwareunderground/awesome-open-geoscience) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/softwareunderground/awesome-open-geoscience.svg?label=contributions)](https://github.com/softwareunderground/awesome-open-geoscience/pulls) [![Commits](https://img.shields.io/github/last-commit/softwareunderground/awesome-open-geoscience.svg?label=last%20contribution)](https://github.com/softwareunderground/awesome-open-geoscience/commits/master) [![Chat on slack](https://img.shields.io/badge/slack-join-ff69b4.svg)](https://swung.slack.com/join/shared_invite/enQtNTczNjM4ODMxODMwLTQ3Yjk3MjFmOTJkYzUyZDU3OGI3ZmJhMzIyNzQxYjcyZDM5MWU4OTVmNTBiOTM4Zjg1ZDViOGM3NmQ4OTgzOTk) [![License](https://img.shields.io/github/license/softwareunderground/awesome-open-geoscience.svg)](https://github.com/softwareunderground/awesome-open-geoscience/blob/master/LICENSE)
+
+[![Awesome](https://raw.githubusercontent.com/softwareunderground/awesome-open-geoscience/master/media/icon/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/softwareunderground/awesome-open-geoscience.svg?label=link%20check&logo=travis)](https://travis-ci.org/softwareunderground/awesome-open-geoscience) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/softwareunderground/awesome-open-geoscience.svg?label=contributions)](https://github.com/softwareunderground/awesome-open-geoscience/pulls) [![Commits](https://img.shields.io/github/last-commit/softwareunderground/awesome-open-geoscience.svg?label=last%20contribution)](https://github.com/softwareunderground/awesome-open-geoscience/commits/master) [![Chat on slack](https://img.shields.io/badge/slack-join-ff69b4.svg)](https://swung.slack.com/join/shared_invite/enQtNTczNjM4ODMxODMwLTQ3Yjk3MjFmOTJkYzUyZDU3OGI3ZmJhMzIyNzQxYjcyZDM5MWU4OTVmNTBiOTM4Zjg1ZDViOGM3NmQ4OTgzOTk) [![License](https://img.shields.io/github/license/softwareunderground/awesome-open-geoscience.svg)](https://github.com/softwareunderground/awesome-open-geoscience/blob/master/LICENSE)
 
 Open geoscience is even more awesome, so we made a list. This list is curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. In accordance with the awesome manifesto, we add awesome repositories. We are open to [contributions](contributing.md) of course, this is a community effort after all.
 
@@ -28,6 +29,7 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 ## Related Awesome
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – ![Awesome](media/icon/awesome.png) Awesome list for geospatial, not specific to geoscience but significant overlap
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) – ![Awesome](media/icon/awesome.png) Awesome list for atmospheric, ocean, climate, and hydrologic science
+- [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) – ![Awesome](media/icon/awesome.png) Awesome list for coastal engineers and scientists
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
@@ -43,6 +45,8 @@ Awesome software projects sub-categorized by focus.
 - [Segyio](https://github.com/equinor/segyio) – ![Python](media/icon/python.png) / ![matlab](media/icon/matlab.png) Fast library for seismic SEGY files
 - [Pyrocko](https://github.com/pyrocko/pyrocko) – ![Python](media/icon/python.png) Seismology toolkit
 - [Auralib](https://github.com/whamlyn/auralib) – ![Python](media/icon/python.png) / Python package to support investigation of geoscience problems including geophysics, rock physics, petrophysics, and data read/write in common formats
+- [OpendTect-Plugins](https://github.com/waynegm/OpendTect-Plugins) – ![C++](media/icon/cplusplus.png) open source plugins for the [OpendTect](#platforms) seismic interpretation platform. See [the docs](http://waynegm.github.io/OpendTect-Plugin-Docs/) for more information.
+- [rsudp](https://github.com/raspishake/rsudp) – ![Python](media/icon/python.png) Continuous ObsPy-based visual display, sudden motion monitoring, and historical replay of Raspberry Shake data
 ### Ground-penetrating radar
 - [gprMax](http://www.gprmax.com/) – ![Python](media/icon/python.png) ![CUDA](media/icon/cuda.png) Finite-difference time-domain electromagnetic wave propagation simulator (on CPU and GPU)
 - [RGPR](https://github.com/emanuelhuber/RGPR) – ![R](media/icon/r.png) Reads, exports, processes, and plots ground-penetrating radar data
@@ -53,6 +57,7 @@ Awesome software projects sub-categorized by focus.
 - [Welly](https://github.com/agile-geoscience/welly) – ![Python](media/icon/python.png) Analyzing and processing well log data
 - [Striplog](https://github.com/agile-geoscience/striplog) – ![Python](media/icon/python.png) Display lithological and stratigraphic logs for wells and outcrop
 - [FuzzyLAS](http://fuzzylas.appspot.com/) – Web app for looking up curve mnemonics
+- [PetroPy](https://github.com/toddheitmann/PetroPy) – ![Python](media/icon/python.png) - Petrophysics package for conventional and unconventional formation evaluation and includes basic well log visualization via matplotlib
 ### Simulation and Modelling
 - [Fatiando a Terra](https://github.com/fatiando/) – ![Python](media/icon/python.png) Modelling and inversion in geophysics
 - [SimPEG](https://github.com/simpeg/simpeg) – ![Python](media/icon/python.png) Simulation and parameter estimation in geophysics
@@ -67,11 +72,15 @@ Awesome software projects sub-categorized by focus.
 - [pyGeoPressure](https://pygeopressure.readthedocs.io/en/latest/) – ![Python](media/icon/python.png) Pore pressure prediction using well log data and seismic velocity data
 - [empymod](https://empymod.github.io) – ![Python](media/icon/python.png) Controlled-source electromagnetic modellers for layered (`empymod`) and three-dimensional (`emg3d`) anisotropic media
 - [PyLops](https://pylops.readthedocs.io/en/latest/) – ![Python](media/icon/python.png) Linear Operators with some geophysics/seismic modules (e.g., pre- and post-stack AVO inversion, deconvolution, Marchenko redatuming, Radon filtering)
+- [ttcrpy](https://ttcrpy.readthedocs.io/en/latest/) – ![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) Traveltime computation and raytracing on 2D & 3D rectilinear grids and unstructured meshes
+- ![Awesome](media/icon/awesome.png) [PyMT](https://github.com/csdms/pymt) – ![Python](media/icon/python.png) Python toolkit for coupling models and datasets that expose the [Basic Model Interface (BMI)](https://bmi.readthedocs.io/en/latest/)
+- ![Awesome](media/icon/awesome.png) [Basic Model Interface (BMI)](https://github.com/csdms/bmi) – ![C](media/icon/c.png) ![C++](media/icon/cplusplus.png) ![Fortran](media/icon/fortran.png) ![Python](media/icon/python.png) A standardized set of functions for model-model and model-data coupling
 ### Reservoir Engineering
 - [libres](https://github.com/equinor/libres) – ![Python](media/icon/python.png) Tool for managing an ensemble of reservoir models
 - [libecl](https://github.com/equinor/libecl) – ![Python](media/icon/python.png) Reading and writing Eclipse reservoir simulator files
-- [MRST](https://www.sintef.no/projectweb/mrst) – ![matlab](media/icon/matlab.png) Rapid prototyping and demonstration of new simulation methods in reservoir modelling and simulation
+- [MRST](https://www.sintef.no/projectweb/mrst/) – ![matlab](media/icon/matlab.png) Rapid prototyping and demonstration of new simulation methods in reservoir modelling and simulation
 - [DuMu<sup>x</sup>](https://dumux.org) – ![C++](media/icon/cplusplus.png) Simulator for flow and transport processes in porous media
+- [SHEMAT-Suite](https://git.rwth-aachen.de/SHEMAT-Suite/SHEMAT-Suite-open) – ![Fortran](media/icon/fortran.png) Simulator for flow, heat and species transport in porous media including stochastic and deterministic parameter estimation
 - [Fesapi](https://github.com/F2I-Consulting/fesapi) – ![C++](media/icon/cplusplus.png) ![C++](media/icon/java.png) ![C++](media/icon/csharp.png) Reading and writing [RESQML2](https://www.energistics.org/portfolio/resqml-data-standards/) files
 ### Geostatistics
 - [pyKriging](https://github.com/capaulson/pyKriging) – ![Python](media/icon/python.png) N-dimensional kriging
@@ -79,13 +88,13 @@ Awesome software projects sub-categorized by focus.
 - [HPGL](https://github.com/hpgl/hpgl) – ![Python](media/icon/python.png) High perfomance geostatistics library
 - [gstat](https://github.com/r-spatial/gstat/) – ![Python](media/icon/r.png) Geostatistical modelling, prediction and simulation
 - [PyGSLIB](https://opengeostat.github.io/pygslib/index.html) – ![Python](media/icon/python.png) Mineral resource estimations
-- [GeoStats.jl](https://github.com/juliohm/GeoStats.jl) – ![Julia](media/icon/julia.png) High-performance geostatistics in Julia
+- [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) – ![Julia](media/icon/julia.png) High-performance geostatistics in Julia
 - [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy) – ![Python](media/icon/python.png) GSLIB reimplimented in Python
 - [GeoStat-Framework](https://github.com/GeoStat-Framework) – ![Python](media/icon/python.png) Framework for geostatistical simulations
 ### Geospatial
-- [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) – ![C](media/icon/c.png)  About 80 command-line tools for manipulating geographic and Cartesian data sets
+- [Generic Mapping Tools](https://www.generic-mapping-tools.org/) – ![C](media/icon/c.png)  About 80 command-line tools for manipulating geographic and Cartesian data sets
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.png) Jupyter notebook extension for geospatial visualization and analysis developed by NASA
-- [Stress2Grid](http://pmd.gfz-potsdam.de/wsm/showshort.php?id=escidoc:2112906) – ![matlab](media/icon/matlab.png) Two concepts to calculate the mean SHmax orientation
+- [Stress2Grid](https://dataservices.gfz-potsdam.de/wsm/showshort.php?id=escidoc:2112906) – ![matlab](media/icon/matlab.png) Two concepts to calculate the mean SHmax orientation
 - [QGIS](#platforms) – GIS platform see [Platforms](#platforms)
 - [Verde](https://github.com/fatiando/verde) – ![Python](media/icon/python.png) processing spatial data to regular grids
 - [GeoPHP](https://geophp.net/) – ![PHP](media/icon/php.png) Geospatial library that works with many formats
@@ -98,17 +107,17 @@ Awesome software projects sub-categorized by focus.
 - [mplStereonet](https://github.com/joferkington/mplstereonet) – ![Python](media/icon/python.png) Stereonets on python based on Matplotlib
 - [apsg](https://github.com/ondrolexa/apsg) – ![Python](media/icon/python.png) Advanced structural geology analysis and visualisation based on Matplotlib
 ### Visualization
-- [Colorcet](https://github.com/pyviz/colorcet)  – ![Python](media/icon/python.png) Perceptual colormaps
+- [Colorcet](https://github.com/holoviz/colorcet)  – ![Python](media/icon/python.png) Perceptual colormaps
 - [cmocean](https://matplotlib.org/cmocean/) – ![Python](media/icon/python.png) MatPlotLib collection of perceptual colormaps for oceanography
 - [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.png)](https://pypi.org/project/PVGeo/) [![ParaView](media/icon/paraview.png)](https://www.paraview.org) Data and model visualization in ParaView and Visualization Toolkit (VTK) via PyVista
 - [PyVista](https://github.com/pyvista/pyvista) – ![Python](media/icon/python.png) 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 - [GeologicPatterns](https://github.com/davenquinn/geologic-patterns) - Entire FGDC pattern library extracted to SVG and PNG for use in geologic maps and stratigraphic columns
 - [omfvista](https://github.com/OpenGeoVis/omfvista) – ![Python](media/icon/python.png) PyVista interface for the [Open Mining Format (omf)](#miscellaneous) package
 ### Platforms
-- [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package
-- [RINGMesh](https://github.com/ringmesh/RINGMesh) – ![C++](media/icon/cplusplus.png) Mesh manipulation of geological models
+- [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package, ![C++](media/icon/cplusplus.png) source code available at https://github.com/OpendTect/OpendTect
 - [QGIS](http://www.qgis.com/) – GIS platform to visualize, manage, edit, analyse data, and compose printable maps
 - [Pangeo](https://pangeo.io/) – ![Python](media/icon/python.png) A community platform for Big Data geoscience built on top of the open source scientific python ecosystem
+- [OpenGeode](https://github.com/Geode-solutions/OpenGeode) – ![C++](media/icon/cplusplus.png) ![Python](media/icon/python.png) Representation and manipulation of geological models
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
@@ -121,7 +130,8 @@ Awesome software projects sub-categorized by focus.
 - [Athabasca Oil Sands Well Dataset McMurray/Wabiskaw](https://ags.aer.ca/publications/SPE_006.html) – Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada
 - [ICGEM](http://icgem.gfz-potsdam.de/home) – Hosts gravity field spherical harmonic models and provides a webservice for generating grids of gravity functionals (geoid, gravity anomaly, vertical derivatives, etc)
 - [TerraNubis](https://terranubis.com/datalist/free/) – The new _Open Seismic Repository_, includes the classic F3 and Penobscot seismic volumes (which both also have wells and other data assets).
-- [Quantarctica](http://quantarctica.npolar.no/) – User-configurable [QGIS](#platforms) basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data
+- [Quantarctica](https://www.npolar.no/quantarctica/) – User-configurable [QGIS](#platforms) basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data
+- [Digital Rocks Portal](https://www.digitalrocksportal.org/) – Powerful data portal for images of varied porous micro-structures
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
