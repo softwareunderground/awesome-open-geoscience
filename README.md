@@ -131,6 +131,7 @@ Awesome software projects sub-categorized by focus.
 - [TerraNubis](https://terranubis.com/datalist/free/) – The new _Open Seismic Repository_, includes the classic F3 and Penobscot seismic volumes (which both also have wells and other data assets).
 - [Quantarctica](https://www.npolar.no/quantarctica/) – User-configurable [QGIS](#platforms) basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data
 - [Digital Rocks Portal](https://www.digitalrocksportal.org/) – Powerful data portal for images of varied porous micro-structures
+- [GSQ Open Data Portal](https://geoscience.data.qld.gov.au/) – Open Petroleum, Coal, and Mineral geoscience data from the resource industry and government, provisioned by the Geological Survey of Queensland (Queensland Government). Supplemented by background information on on the [GSQ GitHub Repository](https://github.com/geological-survey-of-queensland) for the Data Models, RDF Vocabularies, and system design used.
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
