@@ -61,7 +61,7 @@ Awesome software projects sub-categorized by focus.
 ### Simulation and Modelling
 - [Fatiando a Terra](https://github.com/fatiando/) – ![Python](media/icon/python.png) Modelling and inversion in geophysics
 - [SimPEG](https://github.com/simpeg/simpeg) – ![Python](media/icon/python.png) Simulation and parameter estimation in geophysics
-- [Devito](https://www.opesci.org/devito-public) – ![Python](media/icon/python.png) Finite-Difference computation from high-level symbolic problem definitions
+- [Devito](https://www.devitoproject.org/) – ![Python](media/icon/python.png) Finite-Difference computation from high-level symbolic problem definitions
 - [bh_tomo](https://github.com/groupeLIAMG/bh_tomo) – ![matlab](media/icon/matlab.png) Borehole radar and seismic tomography package
 - [modelr.io](https://github.com/agile-geoscience/modelr) – ![Python](media/icon/python.png) ![Javascript](media/icon/javascript.png) Web app for simple synthetic seismic forward modelling
 - [ModFlow](https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model) – ![F90](media/icon/fortran.png) Flow modelling software distributed by the USGS to simulate and predict groundwater conditions and groundwater/surface-water interactions with additional variants and add-ons
