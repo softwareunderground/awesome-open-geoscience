@@ -62,6 +62,8 @@ Awesome software projects sub-categorized by focus.
 - [Striplog](https://github.com/agile-geoscience/striplog) – ![Python](media/icon/python.png) Display lithological and stratigraphic logs for wells and outcrop
 - [FuzzyLAS](http://fuzzylas.appspot.com/) – Web app for looking up curve mnemonics
 - [PetroPy](https://github.com/toddheitmann/PetroPy) – ![Python](media/icon/python.png) - Petrophysics package for conventional and unconventional formation evaluation and includes basic well log visualization via matplotlib
+- [Cegal Tools](https://github.com/cegaltools/cegaltools) – ![Python](media/icon/python.png) - Loading, manipulation and visualising of well logs from las files.
+
 ### Simulation and Modelling
 - [Fatiando a Terra](https://github.com/fatiando/) – ![Python](media/icon/python.png) Modelling and inversion in geophysics
 - [SimPEG](https://github.com/simpeg/simpeg) – ![Python](media/icon/python.png) Simulation and parameter estimation in geophysics
