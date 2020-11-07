@@ -80,6 +80,7 @@ Awesome software projects sub-categorized by focus.
 - ![Awesome](media/icon/awesome.png) [PyMT](https://github.com/csdms/pymt) – ![Python](media/icon/python.png) Python toolkit for coupling models and datasets that expose the [Basic Model Interface (BMI)](https://bmi.readthedocs.io/en/latest/)
 - ![Awesome](media/icon/awesome.png) [Basic Model Interface (BMI)](https://github.com/csdms/bmi) – ![C](media/icon/c.png) ![C++](media/icon/cplusplus.png) ![Fortran](media/icon/fortran.png) ![Python](media/icon/python.png) A standardized set of functions for model-model and model-data coupling
 - [XTgeo](https://xtgeo.readthedocs.io/en/latest/) – ![Python](media/icon/python.png) Python library with C backend to support manipulation of (oil industry) subsurface reservoir modelling
+- [disba](https://github.com/keurfonluu/disba) – ![Python](media/icon/python.png) Numba-accelerated computation of surface wave dispersion
 ### Reservoir Engineering
 - [libres](https://github.com/equinor/libres) – ![Python](media/icon/python.png) Tool for managing an ensemble of reservoir models
 - [libecl](https://github.com/equinor/libecl) – ![Python](media/icon/python.png) Reading and writing Eclipse reservoir simulator files
