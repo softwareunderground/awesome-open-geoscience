@@ -47,6 +47,7 @@ Awesome software projects sub-categorized by focus.
 - [Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges) – ![Python](media/icon/python.png) Various geophysical equations and tools
 - [Segyio](https://github.com/equinor/segyio) – ![Python](media/icon/python.png) / ![matlab](media/icon/matlab.png) Fast library for seismic SEGY files
 - [Pyrocko](https://github.com/pyrocko/pyrocko) – ![Python](media/icon/python.png) Seismology toolkit
+- [Auralib](https://github.com/whamlyn/auralib) – ![Python](media/icon/python.png) / Python package to support investigation of geoscience problems including geophysics, rock physics, petrophysics, and data read/write in common formats
 - [OpendTect-Plugins](https://github.com/waynegm/OpendTect-Plugins) – ![C++](media/icon/cplusplus.png) open source plugins for the [OpendTect](#platforms) seismic interpretation platform. See [the docs](http://waynegm.github.io/OpendTect-Plugin-Docs/) for more information.
 - [rsudp](https://github.com/raspishake/rsudp) – ![Python](media/icon/python.png) Continuous ObsPy-based visual display, sudden motion monitoring, and historical replay of Raspberry Shake data
 - [SeismicZFP](https://github.com/equinor/seismic-zfp) – ![Python](media/icon/python.png) Convert SEG-Y/ZGY files to compressed [SGZ files](https://github.com/equinor/seismic-zfp/blob/master/docs/file-specification.md) & retrieve arbitrary sub-volumes from these, fast
@@ -55,6 +56,7 @@ Awesome software projects sub-categorized by focus.
 - [RGPR](https://github.com/emanuelhuber/RGPR) – ![R](media/icon/r.png) Reads, exports, processes, and plots ground-penetrating radar data
 - [readgssi](https://github.com/iannesbitt/readgssi) – ![Python](media/icon/python.png) Fast command line or console-based visualization, filtering, and translation of GSSI radar data
 - [GPRPy](https://github.com/NSGeophysics/GPRPy) – ![Python](media/icon/python.png) Multi-format, GUI-based GPR processing and visualization
+- [RAGU](https://github.com/btobers/RAGU) – ![Python](media/icon/python.png) Radar Analysis Graphical Utility
 ### Well Log
 - [lasio](https://github.com/kinverarity1/lasio/) – ![Python](media/icon/python.png) Reading and writing well data using Log ASCII Standard (LAS) files
 - [Welly](https://github.com/agile-geoscience/welly) – ![Python](media/icon/python.png) Analyzing and processing well log data
@@ -80,13 +82,14 @@ Awesome software projects sub-categorized by focus.
 - ![Awesome](media/icon/awesome.png) [PyMT](https://github.com/csdms/pymt) – ![Python](media/icon/python.png) Python toolkit for coupling models and datasets that expose the [Basic Model Interface (BMI)](https://bmi.readthedocs.io/en/latest/)
 - ![Awesome](media/icon/awesome.png) [Basic Model Interface (BMI)](https://github.com/csdms/bmi) – ![C](media/icon/c.png) ![C++](media/icon/cplusplus.png) ![Fortran](media/icon/fortran.png) ![Python](media/icon/python.png) A standardized set of functions for model-model and model-data coupling
 - [XTgeo](https://xtgeo.readthedocs.io/en/latest/) – ![Python](media/icon/python.png) Python library with C backend to support manipulation of (oil industry) subsurface reservoir modelling
+- [disba](https://github.com/keurfonluu/disba) – ![Python](media/icon/python.png) Numba-accelerated computation of surface wave dispersion
 ### Reservoir Engineering
 - [libres](https://github.com/equinor/libres) – ![Python](media/icon/python.png) Tool for managing an ensemble of reservoir models
 - [libecl](https://github.com/equinor/libecl) – ![Python](media/icon/python.png) Reading and writing Eclipse reservoir simulator files
 - [MRST](https://www.sintef.no/projectweb/mrst/) – ![matlab](media/icon/matlab.png) Rapid prototyping and demonstration of new simulation methods in reservoir modelling and simulation
 - [DuMu<sup>x</sup>](https://dumux.org) – ![C++](media/icon/cplusplus.png) Simulator for flow and transport processes in porous media
 - [SHEMAT-Suite](https://git.rwth-aachen.de/SHEMAT-Suite/SHEMAT-Suite-open) – ![Fortran](media/icon/fortran.png) Simulator for flow, heat and species transport in porous media including stochastic and deterministic parameter estimation
-- [Fesapi](https://github.com/F2I-Consulting/fesapi) – ![C++](media/icon/cplusplus.png) ![C++](media/icon/java.png) ![C++](media/icon/csharp.png) Reading and writing [RESQML2](https://www.energistics.org/portfolio/resqml-data-standards/) files
+- [Fesapi](https://github.com/F2I-Consulting/fesapi) – ![C++](media/icon/cplusplus.png) ![C++](media/icon/java.png) ![C++](media/icon/csharp.png) Reading and writing [RESQML2](https://energistics.org/portfolio/resqml-data-standards/) files
 ### Geostatistics
 - [pyKriging](https://github.com/capaulson/pyKriging) – ![Python](media/icon/python.png) N-dimensional kriging
 - [SGeMS](http://sgems.sourceforge.net/) – ![CUDA](media/icon/cuda.png) Stanford geostatistical modelling software
@@ -134,7 +137,7 @@ Awesome software projects sub-categorized by focus.
 - [World Stress Map](http://www.world-stress-map.org/) – A global compilation of information on the crustal present-day stress field
 - [NOPIMS](https://nopims.dmp.wa.gov.au/nopims/) – Open petroleum geoscience data from Western Australia made available by the Australian Government
 - [UK National Data Repository](https://ndr.ogauthority.co.uk/dp/controller/PLEASE_LOGIN_PAGE) – Open petroleum geoscience data from the UK Government (free registration required)
-- [Athabasca Oil Sands Well Dataset McMurray/Wabiskaw](https://ags.aer.ca/publications/SPE_006.html) – Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada
+- [Athabasca Oil Sands Well Dataset McMurray/Wabiskaw](https://ags.aer.ca/publications/SPE_006) – Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada
 - [ICGEM](http://icgem.gfz-potsdam.de/home) – Hosts gravity field spherical harmonic models and provides a webservice for generating grids of gravity functionals (geoid, gravity anomaly, vertical derivatives, etc)
 - [TerraNubis](https://terranubis.com/datalist/free/) – The new _Open Seismic Repository_, includes the classic F3 and Penobscot seismic volumes (which both also have wells and other data assets).
 - [Quantarctica](https://www.npolar.no/quantarctica/) – User-configurable [QGIS](#platforms) basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data
@@ -143,6 +146,7 @@ Awesome software projects sub-categorized by focus.
 - [Geoscience Australia Portal](https://portal.ga.gov.au/) – Comprehensive map-based Australian data portal across multiple geoscience domains
 - [SARIG](https://map.sarig.sa.gov.au/) – South Australian Resources and Information Gateway providing map-based statewide geoscientific and geospatial data with over 600 datasets.
 - [SEG Open Data Catalog](https://wiki.seg.org/wiki/Open_data) – Catalog of "geophysical data that is readily available for download from the internet, via mail, or through special request", maintained by the Society of Exploration Geophysicists. 
+- [Volve data village] (https://www.equinor.com/en/how-and-why/digitalisation-in-our-dna/volve-field-data-village-download.html) - A complete set of data from a North Sea oil field available for research, study and development purposes.
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
