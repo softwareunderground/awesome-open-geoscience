@@ -41,6 +41,8 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 ## Software
 Awesome software projects sub-categorized by focus.
 ### Seismic and Seismology
+- [SeisComp](https://github.com/SeisComP/seiscomp) - ![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) Seismic observatory automation toolkit. Autodetection, storage, sharing, processing data and more
+- [RedPy](https://github.com/ahotovec/REDPy) - ![Python](media/icon/python.png) Auto-clustering for seismic events
 - [Seismic Un\*x](https://github.com/JohnWStockwellJr/SeisUnix) – ![C](media/icon/c.png) Seismic data processing suite
 - [Madagascar](http://www.ahay.org/wiki/Installation) – ![C](media/icon/c.png) ![Python](media/icon/python.png) Multi-dimensional data processing suite
 - [OpenSeaSeis](https://github.com/JohnWStockwellJr/OpenSeaSeis) – ![C++](media/icon/cplusplus.png) Seismic workflow generator and seismic viewer
