@@ -127,6 +127,7 @@ Awesome software projects sub-categorized by focus.
 - [PyVista](https://github.com/pyvista/pyvista) – ![Python](media/icon/python.png) 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 - [GeologicPatterns](https://github.com/davenquinn/geologic-patterns) - Entire FGDC pattern library extracted to SVG and PNG for use in geologic maps and stratigraphic columns
 - [omfvista](https://github.com/OpenGeoVis/omfvista) – ![Python](media/icon/python.png) PyVista interface for the [Open Mining Format (omf)](#miscellaneous) package
+- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) – ![Python](media/icon/python.png) 2D interactive maps and GIS visualization in the Jupyter Notebook
 ### Platforms
 - [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package, ![C++](media/icon/cplusplus.png) source code available at https://github.com/OpendTect/OpendTect
 - [QGIS](https://qgis.org/en/site/) – GIS platform to visualize, manage, edit, analyse data, and compose printable maps
@@ -149,7 +150,7 @@ Awesome software projects sub-categorized by focus.
 - [GSQ Open Data Portal](https://geoscience.data.qld.gov.au/) – Petroleum, coal, and mineral geoscience data from the Queensland resource industry and government, with supporting information from [GSQ GitHub Repository](https://github.com/geological-survey-of-queensland) for Data Models, RDF Vocabularies, and system design
 - [Geoscience Australia Portal](https://portal.ga.gov.au/) – Comprehensive map-based Australian data portal across multiple geoscience domains
 - [SARIG](https://map.sarig.sa.gov.au/) – South Australian Resources and Information Gateway providing map-based statewide geoscientific and geospatial data with over 600 datasets.
-- [SEG Open Data Catalog](https://wiki.seg.org/wiki/Open_data) – Catalog of "geophysical data that is readily available for download from the internet, via mail, or through special request", maintained by the Society of Exploration Geophysicists. 
+- [SEG Open Data Catalog](https://wiki.seg.org/wiki/Open_data) – Catalog of "geophysical data that is readily available for download from the internet, via mail, or through special request", maintained by the Society of Exploration Geophysicists.
 - [Volve data village] (https://www.equinor.com/en/what-we-do/digitalisation-in-our-dna/volve-field-data-village-download.html) - A complete set of data from a North Sea oil field available for research, study and development purposes.
 
 | ▲ [Top](#awesome-open-geoscience) |
