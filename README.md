@@ -110,7 +110,7 @@ Awesome software projects sub-categorized by focus.
 - [QGIS](#platforms) – GIS platform see [Platforms](#platforms)
 - [Verde](https://github.com/fatiando/verde) – ![Python](media/icon/python.png) processing spatial data to regular grids
 - [GeoPHP](https://geophp.net/) – ![PHP](media/icon/php.png) Geospatial library that works with many formats
-- [vtk_triangulate_points](https://github.com/pemn/vtk_triangulate_points) - ![Python](media/icon/python.png) Generate simplified topography surfaces from dense point clouds (lidar/radar/drone)
+- [vtk_triangulate_points](https://github.com/pemn/vtk_triangulate_points) – ![Python](media/icon/python.png) Generate simplified topography surfaces from dense point clouds (lidar/radar/drone)
 ### Geochemistry
 - [PhreeQC](https://www.usgs.gov/software/phreeqc-version-3) – ![C++](media/icon/cplusplus.png) Reactions in water and between water and rocks and sediments (speciation, batch-reaction, one-dimensional transport, and inverse geochemical calculations)
 - [Reaktoro](https://reaktoro.org/) – ![C++](media/icon/cplusplus.png) ![Python](media/icon/python.png) Unified framework for modelling chemically reactive systems
