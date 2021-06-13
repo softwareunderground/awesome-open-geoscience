@@ -155,6 +155,7 @@ Awesome software projects sub-categorized by focus.
 - [SARIG](https://map.sarig.sa.gov.au/) – South Australian Resources and Information Gateway providing map-based statewide geoscientific and geospatial data with over 600 datasets.
 - [SEG Open Data Catalog](https://wiki.seg.org/wiki/Open_data) – Catalog of "geophysical data that is readily available for download from the internet, via mail, or through special request", maintained by the Society of Exploration Geophysicists.
 - [Volve data village] (https://www.equinor.com/en/what-we-do/digitalisation-in-our-dna/volve-field-data-village-download.html) - A complete set of data from a North Sea oil field available for research, study and development purposes.
+- [Hong Kong GeoData Store] (https://geodata.gov.hk/gs/) - A portal for accessing and downloading geo-data of Hong Kong.
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
