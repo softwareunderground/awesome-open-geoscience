@@ -105,7 +105,7 @@ Awesome software projects sub-categorized by focus.
 - [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) – ![Julia](media/icon/julia.png) High-performance geostatistics in Julia
 - [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy) – ![Python](media/icon/python.png) GSLIB reimplimented in Python
 - [GeoStat-Framework](https://github.com/GeoStat-Framework) – ![Python](media/icon/python.png) Framework for geostatistical simulations
-- [SciKit-GStat](https://github.com/mmaelicke/scikit-gstat) - ![Python](media/icon/python.png) scipy-styled analysis module for geostatistics
+- [SciKit-GStat](https://github.com/mmaelicke/scikit-gstat) - ![Python](media/icon/python.png) SciPy-styled analysis module for geostatistics
 ### Geospatial
 - [Generic Mapping Tools](https://www.generic-mapping-tools.org/) – ![C](media/icon/c.png)  About 80 command-line tools for manipulating geographic and Cartesian data sets
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.png) Jupyter notebook extension for geospatial visualization and analysis developed by NASA
