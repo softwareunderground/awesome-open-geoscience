@@ -39,7 +39,25 @@ It may however fail for the following reasons:
 * Redirection of link: Your link redirects somewhere else. In  this case, please use the
   final link after redirection.
 
-Clicking on the failing build (a red x) will take you to the TravisCI website.
-Look at the log to see what went wrong and what needs fixing.
+Clicking on the failing build (a red x) will take you to the TravisCI website. 
+You probably want to right click, so it opens in a new tab otherwise it can be difficult to go backwards.
+Look at the log to see what went wrong and what needs fixing. What is wrong is usually at the very bottom of the log.
 If none of this makes sense to you, let us know and we'll come in and guide you along to
 make the contribution a success.
+
+##### Fixing 301 Link Redirection Error
+Fixing a 301 link redirection error usually means (1) following the link to the TravisCI logs 
+(2) finding which link has changed. The logs will usually have both the old link and the new link 
+(3) going back to the README and selecting edit. (4) and searching for the old link 
+(5) replacing the old link with new link that TravisCI suggests. 
+
+If this is done within a pull request that exists and just ran a short time ago, 
+your changes will automatically trigger a new run of TravisCI, which should now pass all the tests.
+However, if it has been a while since last running TravisCI there could now be additional link changes to address.
+
+##### Edit Someone Else's Pull Request as an Admin
+It is fairly common for pull requests to get stopped due to the submitter not understanding how to deal with TravisCI issues. In this case, the easiest way to edit their pull request to make corrections is to (1) go to the pull request (2) click on the `files changed` tab on the right (3) click on the three dots in the upper right corner of a file's window (4) select edit file. After you make edits, the changes will appear as commits by you in their pull request. This will also usually trigger the TravisCI job to run again. Although you could technically clone their pull request, this method is usually easier.
+
+##### Getting TravisCI to Run Again
+If you need TravisCI to run again but can't figure out how. Go to a file that doesn't matter, add an extra line. 
+Go back to that file and then edit away that line. This will trigger the pull request to run TravisCI again.
