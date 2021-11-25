@@ -1,6 +1,0 @@
-dist: bionic
-language: ruby
-rvm: 2.4.1
-before_script: gem install awesome_bot
-script: awesome_bot --skip-save-results README.md --white-list travis-ci --allow 503 --white-list "https://reproducibility.org/wiki/Installation", "https://reproducibility.org", "https://wiki.seg.org/wiki/Open_data"
-
