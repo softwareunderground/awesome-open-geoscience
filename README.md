@@ -111,7 +111,7 @@ Awesome software projects sub-categorized by focus.
 - [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy) – ![Python](media/icon/python.png) GSLIB reimplimented in Python
 - [GeoStat-Framework](https://github.com/GeoStat-Framework) – ![Python](media/icon/python.png) Framework for geostatistical simulations
 - [SciKit-GStat](https://github.com/mmaelicke/scikit-gstat) - ![Python](media/icon/python.png) SciPy-styled analysis module for geostatistics
-- [G2S](https://gaia-unil.github.io/G2S/) - ![Python](media/icon/python.png)! [matlab](media/icon/matlab.png) ![R](media/icon/r.png) ![C++](media/icon/cplusplus.png) ![CUDA](media/icon/cuda.png) A free, flexible and multi-language multiple point (MPS) (geo)statistics framework including the state-of-the-art algorithm QuickSampling
+- [G2S](https://gaia-unil.github.io/G2S/) - ![Python](media/icon/python.png) ![matlab](media/icon/matlab.png) ![R](media/icon/r.png) ![C++](media/icon/cplusplus.png) ![CUDA](media/icon/cuda.png) A free, flexible and multi-language multiple point (MPS) (geo)statistics framework including the state-of-the-art algorithm QuickSampling
 ### Geospatial
 - [GRASS-GIS](#platforms) – GIS platform, see [Platforms](#platforms)
 - [whitebox-tools](https://github.com/jblindsay/whitebox-tools) – ![Python](media/icon/python.png) An advanced geospatial data analysis platform 
