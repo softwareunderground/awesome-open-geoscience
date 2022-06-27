@@ -92,6 +92,7 @@ Awesome software projects sub-categorized by focus.
 - [XTgeo](https://xtgeo.readthedocs.io/en/latest/) – ![Python](media/icon/python.png) Python library with C backend to support manipulation of (oil industry) subsurface reservoir modelling
 - [disba](https://github.com/keurfonluu/disba) – ![Python](media/icon/python.png) Numba-accelerated computation of surface wave dispersion
 - [PyGMI](https://patrick-cole.github.io/pygmi/pygmi.html)– ![Python](media/icon/python.png) It is a modelling and interpretation suite aimed at magnetic, gravity and other datasets.
+- [PyFWI](https://github.com/AmirMardan/PyFWI) – ![Python](media/icon/python.png) A Python package for performin full-waveform inversion (FWI) and time-lapse FWI using OpenCL.
 ### Reservoir Engineering
 - [libres](https://github.com/equinor/libres) – ![Python](media/icon/python.png) Tool for managing an ensemble of reservoir models
 - [ecl](https://github.com/equinor/ecl) – ![Python](media/icon/python.png) Reading and writing Eclipse reservoir simulator files
