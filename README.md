@@ -136,6 +136,7 @@ Awesome software projects sub-categorized by focus.
 - [mplStereonet](https://github.com/joferkington/mplstereonet) – ![Python](media/icon/python.png) Stereonets on python based on Matplotlib
 - [apsg](https://github.com/ondrolexa/apsg) – ![Python](media/icon/python.png) Advanced structural geology analysis and visualisation based on Matplotlib
 - [OpenStereo](https://github.com/spamlab-iee/os) – ![Python](media/icon/python.png) An open source, cross-platform structural geology analysis software
+- [Stress_state_plot](https://github.com/mkondratyev85/stress_state_plot) - ![Python](media/icon/python.png) An open source structural geology package for visualisation of a given stess-state via matplotlib.
 ### Visualization
 - [Colorcet](https://github.com/holoviz/colorcet)  – ![Python](media/icon/python.png) Perceptual colormaps
 - [cmocean](https://matplotlib.org/cmocean/) – ![Python](media/icon/python.png) MatPlotLib collection of perceptual colormaps for oceanography
