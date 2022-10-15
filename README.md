@@ -83,8 +83,10 @@ Awesome software projects sub-categorized by focus.
 - [GemPy](https://github.com/cgre-aachen/gempy) – ![Python](media/icon/python.png) 3-D structural geological modelling software with implicit modelling and support for stochastic modelling.
 - [HyVR](https://github.com/driftingtides/hyvr) – ![Python](media/icon/python.png) 3-D anisotropic subsurface models based on geological concepts that can be used with groundwater flow simulators (e.g., [ModFlow](#simulation-and-modelling)).
 - [Landlab](https://github.com/landlab/landlab) – ![Python](media/icon/python.png) Simulate surface processes using a large suite of existing interoperable process components (landscape evolution, sediment dynamics, surface hydrology, ecohydrology), exensible by own modules.
+- [LoopStructural](https://github.com/Loop3D/LoopStructural) – ![Python](media/icon/python.png) an open-source 3D structural geological modelling library.
 - [modelr.io](https://github.com/agile-geoscience/modelr) – ![Python](media/icon/python.png) ![Javascript](media/icon/javascript.png) Web app for simple synthetic seismic forward modelling.
 - [ModFlow](https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model) – ![F90](media/icon/fortran.png) Flow modelling software distributed by the USGS to simulate and predict groundwater conditions and groundwater/surface-water interactions with additional variants and add-ons.
+- [OccamyPy](https://github.com/fpicetti/occamypy) – ![Python](media/icon/python.png) an object-oriented optimization framework for small- and large-scale problems.
 - [PyFWI](https://pyfwi.readthedocs.io/en/latest)– ![Python](media/icon/python.png) ![C](media/icon/c.png) It can be used to perform full-waveform inversion (FWI) and time-lapse FWI of seismic data.
 - [pyGeoPressure](https://pygeopressure.readthedocs.io/en/latest) – ![Python](media/icon/python.png) Pore pressure prediction using well log data and seismic velocity data.
 - [pyGIMLi](https://www.pygimli.org) – ![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) Multi-method library for solving inverse and forward tasks related to geophysical problems.
