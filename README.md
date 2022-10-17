@@ -81,18 +81,21 @@ Awesome software projects sub-categorized by focus.
 - [emsig](https://emsig.xyz) – ![Python](media/icon/python.png) Controlled-source electromagnetic modellers for layered (`empymod`) and three-dimensional (`emg3d`) anisotropic media.
 - [Fatiando a Terra](https://github.com/fatiando) – ![Python](media/icon/python.png) Modelling and inversion in geophysics.
 - [GemPy](https://github.com/cgre-aachen/gempy) – ![Python](media/icon/python.png) 3-D structural geological modelling software with implicit modelling and support for stochastic modelling.
+- [GeoPhyInv](https://github.com/pawbz/GeoPhyInv.jl) – Julia Toolbox for Geophysical Modeling and Inverse Problems.
 - [HyVR](https://github.com/driftingtides/hyvr) – ![Python](media/icon/python.png) 3-D anisotropic subsurface models based on geological concepts that can be used with groundwater flow simulators (e.g., [ModFlow](#simulation-and-modelling)).
 - [Landlab](https://github.com/landlab/landlab) – ![Python](media/icon/python.png) Simulate surface processes using a large suite of existing interoperable process components (landscape evolution, sediment dynamics, surface hydrology, ecohydrology), exensible by own modules.
 - [LoopStructural](https://github.com/Loop3D/LoopStructural) – ![Python](media/icon/python.png) an open-source 3D structural geological modelling library.
 - [modelr.io](https://github.com/agile-geoscience/modelr) – ![Python](media/icon/python.png) ![Javascript](media/icon/javascript.png) Web app for simple synthetic seismic forward modelling.
 - [ModFlow](https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model) – ![F90](media/icon/fortran.png) Flow modelling software distributed by the USGS to simulate and predict groundwater conditions and groundwater/surface-water interactions with additional variants and add-ons.
 - [OccamyPy](https://github.com/fpicetti/occamypy) – ![Python](media/icon/python.png) an object-oriented optimization framework for small- and large-scale problems.
-- [PyFWI](https://pyfwi.readthedocs.io/en/latest)– ![Python](media/icon/python.png) ![C](media/icon/c.png) It can be used to perform full-waveform inversion (FWI) and time-lapse FWI of seismic data.
+- [PyFWI](https://pyfwi.readthedocs.io/en/latest) – ![Python](media/icon/python.png) ![C](media/icon/c.png) It can be used to perform full-waveform inversion (FWI) and time-lapse FWI of seismic data.
 - [pyGeoPressure](https://pygeopressure.readthedocs.io/en/latest) – ![Python](media/icon/python.png) Pore pressure prediction using well log data and seismic velocity data.
 - [pyGIMLi](https://www.pygimli.org) – ![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) Multi-method library for solving inverse and forward tasks related to geophysical problems.
 - [PyGMI](https://patrick-cole.github.io/pygmi/pygmi.html)– ![Python](media/icon/python.png) It is a modelling and interpretation suite aimed at magnetic, gravity and other datasets.
 - [PyLops](https://pylops.readthedocs.io/en/latest) – ![Python](media/icon/python.png) Linear Operators with some geophysics/seismic modules (e.g., pre- and post-stack AVO inversion, deconvolution, Marchenko redatuming, Radon filtering).
 - ![Awesome](media/icon/awesome.png) [PyMT](https://github.com/csdms/pymt) – ![Python](media/icon/python.png) Python toolkit for coupling models and datasets that expose the [Basic Model Interface (BMI)](https://bmi.readthedocs.io/en/latest).
+- [PySIT](http://pysit.org) – ![Python](media/icon/python.png) A Toolbox for seismic inversion and seismic imaging.
+- [ResIPy](https://gitlab.com/hkex/resipy) – ![Python](media/icon/python.png) an intuitive open source software for complex geoelectrical inversion/modeling.
 - [SimPEG](https://github.com/simpeg/simpeg) – ![Python](media/icon/python.png) Simulation and parameter estimation in geophysics.
 - [ttcrpy](https://ttcrpy.readthedocs.io/en/latest) – ![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) Traveltime computation and raytracing on 2D & 3D rectilinear grids and unstructured meshes.
 - [XTgeo](https://xtgeo.readthedocs.io/en/latest) – ![Python](media/icon/python.png) Python library with C backend to support manipulation of (oil industry) subsurface reservoir modelling.
@@ -177,7 +180,7 @@ Awesome software projects sub-categorized by focus.
 - [SEG Open Data Catalog](https://wiki.seg.org/wiki/Open_data) – Catalog of "geophysical data that is readily available for download from the internet, via mail, or through special request", maintained by the Society of Exploration Geophysicists.
 - [TerraNubis](https://terranubis.com/datalist/free) – The new _Open Seismic Repository_, includes the classic F3 and Penobscot seismic volumes (which both also have wells and other data assets).
 - [UK National Data Repository](https://ndr.ogauthority.co.uk) – Open petroleum geoscience data from the UK Government (free registration required).
-- [Volve data village](https://www.equinor.com/en/what-we-do/digitalisation-in-our-dna/volve-field-data-village-download.html) – A complete set of data from a North Sea oil field available for research, study and development purposes.
+- [Volve data village](https://www.equinor.com/en/what-we-do/digitalisation-in-our-dna/volve-field-data-village-download.html) - A complete set of data from a North Sea oil field available for research, study and development purposes.
 - [World Stress Map](http://www.world-stress-map.org) – A global compilation of information on the crustal present-day stress field.
 
 | ▲ [Top](#awesome-open-geoscience) |
