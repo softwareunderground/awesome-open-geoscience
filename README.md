@@ -67,7 +67,6 @@ Awesome software projects sub-categorized by focus.
 ### Well Log
 - [dlisio](https://github.com/equinor/dlisio) – ![Python](media/icon/python.png) Parser for dlis and lis well log files.
 - [lasio](https://github.com/kinverarity1/lasio) – ![Python](media/icon/python.png) Reading and writing well data using Log ASCII Standard (LAS) files.
-- [FuzzyLAS](https://github.com/agilescientific/fuzzylas) – Web app for looking up curve mnemonics.
 - [PetroPy](https://github.com/toddheitmann/PetroPy) – ![Python](media/icon/python.png) – Petrophysics package for conventional and unconventional formation evaluation and includes basic well log visualization via matplotlib.
 - [Striplog](https://github.com/agile-geoscience/striplog) – ![Python](media/icon/python.png) Display lithological and stratigraphic logs for wells and outcrop.
 - [Wellioviz](https://github.com/JustinGOSSES/wellioviz) – ![JavaScript](media/icon/javascript.png) – Visualizes well logs using d3.js. Companion to Wellio.js.
