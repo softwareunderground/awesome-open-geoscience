@@ -52,10 +52,10 @@ Awesome software projects sub-categorized by focus.
 - [Pyrocko](https://git.pyrocko.org/pyrocko/pyrocko) – ![Python](media/icon/python.png) Seismology toolkit.
 - [pyVDS](https://github.com/equinor/pyvds) – ![Python](media/icon/python.png) Convenience wrapper around Bluware's OpenVDS+ Python bindings which enables reading of VDS files with a syntax familiar to users of segyio.
 - [pyZGY](https://github.com/equinor/pyzgy) – ![Python](media/icon/python.png) Convenience wrapper around Schlumberger's OpenZGY Python package which enables reading of ZGY files with a syntax familiar to users of segyio.
-- [RedPy](https://github.com/ahotovec/REDPy) - ![Python](media/icon/python.png) Auto-clustering for seismic events.
+- [RedPy](https://github.com/ahotovec/REDPy) – ![Python](media/icon/python.png) Auto-clustering for seismic events.
 - [rsudp](https://github.com/raspishake/rsudp) – ![Python](media/icon/python.png) Continuous ObsPy-based visual display, sudden motion monitoring, and historical replay of Raspberry Shake data.
 - [Segyio](https://github.com/equinor/segyio) – ![Python](media/icon/python.png) / ![matlab](media/icon/matlab.png) Fast library for seismic SEGY files.
-- [SeisComp](https://github.com/SeisComP/seiscomp) - ![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) Seismic observatory automation toolkit. Autodetection, storage, sharing, processing data and more.
+- [SeisComp](https://github.com/SeisComP/seiscomp) – ![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) Seismic observatory automation toolkit. Autodetection, storage, sharing, processing data and more.
 - [Seismic Un\*x](https://github.com/JohnWStockwellJr/SeisUnix) – ![C](media/icon/c.png) Seismic data processing suite.
 - [SeismicZFP](https://github.com/equinor/seismic-zfp) – ![Python](media/icon/python.png) Convert SEG-Y/ZGY files to compressed [SGZ files](https://github.com/equinor/seismic-zfp/blob/master/docs/file-specification.md) & retrieve arbitrary sub-volumes from these, fast.
 ### Ground-penetrating radar
@@ -80,18 +80,21 @@ Awesome software projects sub-categorized by focus.
 - [emsig](https://emsig.xyz) – ![Python](media/icon/python.png) Controlled-source electromagnetic modellers for layered (`empymod`) and three-dimensional (`emg3d`) anisotropic media.
 - [Fatiando a Terra](https://github.com/fatiando) – ![Python](media/icon/python.png) Modelling and inversion in geophysics.
 - [GemPy](https://github.com/cgre-aachen/gempy) – ![Python](media/icon/python.png) 3-D structural geological modelling software with implicit modelling and support for stochastic modelling.
+- [GeoPhyInv](https://github.com/pawbz/GeoPhyInv.jl) – Julia Toolbox for Geophysical Modeling and Inverse Problems.
 - [HyVR](https://github.com/driftingtides/hyvr) – ![Python](media/icon/python.png) 3-D anisotropic subsurface models based on geological concepts that can be used with groundwater flow simulators (e.g., [ModFlow](#simulation-and-modelling)).
 - [Landlab](https://github.com/landlab/landlab) – ![Python](media/icon/python.png) Simulate surface processes using a large suite of existing interoperable process components (landscape evolution, sediment dynamics, surface hydrology, ecohydrology), exensible by own modules.
 - [LoopStructural](https://github.com/Loop3D/LoopStructural) – ![Python](media/icon/python.png) an open-source 3D structural geological modelling library.
 - [modelr.io](https://github.com/agile-geoscience/modelr) – ![Python](media/icon/python.png) ![Javascript](media/icon/javascript.png) Web app for simple synthetic seismic forward modelling.
 - [ModFlow](https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model) – ![F90](media/icon/fortran.png) Flow modelling software distributed by the USGS to simulate and predict groundwater conditions and groundwater/surface-water interactions with additional variants and add-ons.
 - [OccamyPy](https://github.com/fpicetti/occamypy) – ![Python](media/icon/python.png) an object-oriented optimization framework for small- and large-scale problems.
-- [PyFWI](https://pyfwi.readthedocs.io/en/latest)– ![Python](media/icon/python.png) ![C](media/icon/c.png) It can be used to perform full-waveform inversion (FWI) and time-lapse FWI of seismic data.
+- [PyFWI](https://pyfwi.readthedocs.io/en/latest) – ![Python](media/icon/python.png) ![C](media/icon/c.png) It can be used to perform full-waveform inversion (FWI) and time-lapse FWI of seismic data.
 - [pyGeoPressure](https://pygeopressure.readthedocs.io/en/latest) – ![Python](media/icon/python.png) Pore pressure prediction using well log data and seismic velocity data.
 - [pyGIMLi](https://www.pygimli.org) – ![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) Multi-method library for solving inverse and forward tasks related to geophysical problems.
 - [PyGMI](https://patrick-cole.github.io/pygmi/pygmi.html)– ![Python](media/icon/python.png) It is a modelling and interpretation suite aimed at magnetic, gravity and other datasets.
 - [PyLops](https://pylops.readthedocs.io/en/latest) – ![Python](media/icon/python.png) Linear Operators with some geophysics/seismic modules (e.g., pre- and post-stack AVO inversion, deconvolution, Marchenko redatuming, Radon filtering).
 - ![Awesome](media/icon/awesome.png) [PyMT](https://github.com/csdms/pymt) – ![Python](media/icon/python.png) Python toolkit for coupling models and datasets that expose the [Basic Model Interface (BMI)](https://bmi.readthedocs.io/en/latest).
+- [PySIT](http://pysit.org) – ![Python](media/icon/python.png) A Toolbox for seismic inversion and seismic imaging.
+- [ResIPy](https://gitlab.com/hkex/resipy) – ![Python](media/icon/python.png) an intuitive open source software for complex geoelectrical inversion/modeling.
 - [SimPEG](https://github.com/simpeg/simpeg) – ![Python](media/icon/python.png) Simulation and parameter estimation in geophysics.
 - [ttcrpy](https://ttcrpy.readthedocs.io/en/latest) – ![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) Traveltime computation and raytracing on 2D & 3D rectilinear grids and unstructured meshes.
 - [XTgeo](https://xtgeo.readthedocs.io/en/latest) – ![Python](media/icon/python.png) Python library with C backend to support manipulation of (oil industry) subsurface reservoir modelling.
@@ -108,13 +111,13 @@ Awesome software projects sub-categorized by focus.
 - [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) – ![Julia](media/icon/julia.png) High-performance geostatistics in Julia.
 - [GeoStat-Framework](https://github.com/GeoStat-Framework) – ![Python](media/icon/python.png) Framework for geostatistical simulations.
 - [gstat](https://github.com/r-spatial/gstat) – ![Python](media/icon/r.png) Geostatistical modelling, prediction and simulation.
-- [G2S](https://gaia-unil.github.io/G2S) - ![Python](media/icon/python.png) ![matlab](media/icon/matlab.png) ![R](media/icon/r.png) ![C++](media/icon/cplusplus.png) ![CUDA](media/icon/cuda.png) A free, flexible and multi-language multiple point (MPS) (geo)statistics framework including the state-of-the-art algorithm QuickSampling.
+- [G2S](https://gaia-unil.github.io/G2S) – ![Python](media/icon/python.png) ![matlab](media/icon/matlab.png) ![R](media/icon/r.png) ![C++](media/icon/cplusplus.png) ![CUDA](media/icon/cuda.png) A free, flexible and multi-language multiple point (MPS) (geo)statistics framework including the state-of-the-art algorithm QuickSampling.
 - [HPGL](https://github.com/hpgl/hpgl) – ![Python](media/icon/python.png) High perfomance geostatistics library.
 - [PyGSLIB](https://opengeostat.github.io/pygslib/index.html) – ![Python](media/icon/python.png) Mineral resource estimations.
-- [Pyinterpolate](https://github.com/DataverseLabs/pyinterpolate) - ![Python](media/icon/python.png) Kriging, Poisson Kriging, Semivariogram Deconvolution, Areal Kriging and other spatial interpolation methods in Python for Earth, Ecology and Social Sciences.
+- [Pyinterpolate](https://github.com/DataverseLabs/pyinterpolate) – ![Python](media/icon/python.png) Kriging, Poisson Kriging, Semivariogram Deconvolution, Areal Kriging and other spatial interpolation methods in Python for Earth, Ecology and Social Sciences.
 - [pyKriging](https://github.com/capaulson/pyKriging) – ![Python](media/icon/python.png) N-dimensional kriging.
 - [pysgems](https://github.com/robinthibaut/pysgems) – ![Python](media/icon/python.png) Use SGeMS (Stanford geostatistical modelling software) within Python.
-- [SciKit-GStat](https://github.com/mmaelicke/scikit-gstat) - ![Python](media/icon/python.png) SciPy-styled analysis module for geostatistics.
+- [SciKit-GStat](https://github.com/mmaelicke/scikit-gstat) – ![Python](media/icon/python.png) SciPy-styled analysis module for geostatistics.
 - [SGeMS](http://sgems.sourceforge.net) – ![CUDA](media/icon/cuda.png) Stanford geostatistical modelling software.
 ### Geospatial
 - [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org) – ![C](media/icon/c.png)  About 80 command-line tools for manipulating geographic and Cartesian data sets.
@@ -131,21 +134,21 @@ Awesome software projects sub-categorized by focus.
 - [PhreeQC](https://www.usgs.gov/software/phreeqc-version-3) – ![C++](media/icon/cplusplus.png) Reactions in water and between water and rocks and sediments (speciation, batch-reaction, one-dimensional transport, and inverse geochemical calculations).
 - [pyrolite](https://github.com/morganjwilliams/pyrolite) – ![Python](media/icon/python.png) Geochemical transformation and visualisation.
 - [Reaktoro](https://reaktoro.org) – ![C++](media/icon/cplusplus.png) ![Python](media/icon/python.png) Unified framework for modelling chemically reactive systems.
-- [Thermobar](https://github.com/PennyWieser/Thermobar) - ![Python](media/icon/python.png) Thermobarometry, chemometry and mineral equilibrium tool.
+- [Thermobar](https://github.com/PennyWieser/Thermobar) – ![Python](media/icon/python.png) Thermobarometry, chemometry and mineral equilibrium tool.
 ### Geophysics
-- [MATE](https://github.com/sinanozaydin/MATE) - ![Python](media/icon/python.png) A Python program for interpreting magnetotelluric models of the mantle.
-- [MTPy](https://github.com/MTgeophysics/mtpy) - ![Python](media/icon/python.png) A Python Toolbox for magnetotelluric data processing, analysis, modelling and visualization.
+- [MATE](https://github.com/sinanozaydin/MATE) – ![Python](media/icon/python.png) A Python program for interpreting magnetotelluric models of the mantle.
+- [MTPy](https://github.com/MTgeophysics/mtpy) – ![Python](media/icon/python.png) A Python Toolbox for magnetotelluric data processing, analysis, modelling and visualization.
 ### Structural Geology
 - [apsg](https://github.com/ondrolexa/apsg) – ![Python](media/icon/python.png) Advanced structural geology analysis and visualisation based on Matplotlib.
 - [mplStereonet](https://github.com/joferkington/mplstereonet) – ![Python](media/icon/python.png) Stereonets on python based on Matplotlib.
 - [OpenStereo](https://github.com/spamlab-iee/os) – ![Python](media/icon/python.png) An open source, cross-platform structural geology analysis software.
-- [Stress_state_plot](https://github.com/mkondratyev85/stress_state_plot) - ![Python](media/icon/python.png) An open source structural geology package for visualisation of a given stess-state via matplotlib.
+- [Stress_state_plot](https://github.com/mkondratyev85/stress_state_plot) – ![Python](media/icon/python.png) An open source structural geology package for visualisation of a given stess-state via matplotlib.
 ### Visualization
 - [cmocean](https://matplotlib.org/cmocean) – ![Python](media/icon/python.png) MatPlotLib collection of perceptual colormaps for oceanography.
 - [Colorcet](https://github.com/holoviz/colorcet)  – ![Python](media/icon/python.png) Perceptual colormaps.
-- [GeologicPatterns](https://github.com/davenquinn/geologic-patterns) - Entire FGDC pattern library extracted to SVG and PNG for use in geologic maps and stratigraphic columns.
+- [GeologicPatterns](https://github.com/davenquinn/geologic-patterns) – Entire FGDC pattern library extracted to SVG and PNG for use in geologic maps and stratigraphic columns.
 - [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) – ![Python](media/icon/python.png) 2D interactive maps and GIS visualization in the Jupyter Notebook.
-- [localtileserver](https://github.com/banesullivan/localtileserver) - ![Python](media/icon/python.png) A Python package for serving tiles from large raster files in the Slippy Maps standard (i.e., `/zoom/x/y.png`) for visualization in Jupyter with `ipyleaflet` or `folium`.
+- [localtileserver](https://github.com/banesullivan/localtileserver) – ![Python](media/icon/python.png) A Python package for serving tiles from large raster files in the Slippy Maps standard (i.e., `/zoom/x/y.png`) for visualization in Jupyter with `ipyleaflet` or `folium`.
 - [omfvista](https://github.com/OpenGeoVis/omfvista) – ![Python](media/icon/python.png) PyVista interface for the [Open Mining Format (omf)](#miscellaneous) package.
 - [PyVista](https://github.com/pyvista/pyvista) – ![Python](media/icon/python.png) 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK).
 - [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.png)](https://pypi.org/project/PVGeo) [![ParaView](media/icon/paraview.png)](https://www.paraview.org) Data and model visualization in ParaView and Visualization Toolkit (VTK) via PyVista.
@@ -176,8 +179,8 @@ Awesome software projects sub-categorized by focus.
 - [SEG Open Data Catalog](https://wiki.seg.org/wiki/Open_data) – Catalog of "geophysical data that is readily available for download from the internet, via mail, or through special request", maintained by the Society of Exploration Geophysicists.
 - [TerraNubis](https://terranubis.com/datalist/free) – The new _Open Seismic Repository_, includes the classic F3 and Penobscot seismic volumes (which both also have wells and other data assets).
 - [UK National Data Repository](https://ndr.ogauthority.co.uk) – Open petroleum geoscience data from the UK Government (free registration required).
+- [Volve data village](https://www.equinor.com/energy/volve-data-sharing) - A complete set of data from a North Sea oil field available for research, study and development purposes.
 - [World Stress Map](http://www.world-stress-map.org) – A global compilation of information on the crustal present-day stress field.
-- [Volve data village](https://www.equinor.com/en/what-we-do/digitalisation-in-our-dna/volve-field-data-village-download.html) - A complete set of data from a North Sea oil field available for research, study and development purposes.
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
