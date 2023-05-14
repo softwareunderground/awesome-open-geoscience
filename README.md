@@ -101,7 +101,7 @@ Awesome software projects sub-categorized by focus.
 ### Reservoir Engineering
 - [DuMu<sup>x</sup>](https://dumux.org) – ![C++](media/icon/cplusplus.png) Simulator for flow and transport processes in porous media.
 - [ecl](https://github.com/equinor/ecl) – ![Python](media/icon/python.png) Reading and writing Eclipse reservoir simulator files.
-- [Fesapi](https://github.com/F2I-Consulting/fesapi) – ![C++](media/icon/cplusplus.png) ![C++](media/icon/java.png) ![C++](media/icon/csharp.png) Reading and writing [RESQML2](https://www.energistics.org/portfolio/resqml-data-standards) files.
+- [Fesapi](https://github.com/F2I-Consulting/fesapi) – ![C++](media/icon/cplusplus.png) ![C++](media/icon/java.png) ![C++](media/icon/csharp.png) Reading and writing [RESQML2](https://www.energistics.org/resqml-data-standards) files.
 - [libres](https://github.com/equinor/libres) – ![Python](media/icon/python.png) Tool for managing an ensemble of reservoir models.
 - [MRST](https://www.sintef.no/projectweb/mrst) – ![matlab](media/icon/matlab.png) Rapid prototyping and demonstration of new simulation methods in reservoir modelling and simulation.
 - [ResInsight](https://github.com/OPM/ResInsight) – ![C++](media/icon/cplusplus.png) ![Python](media/icon/python.png) ResInsight is a powerful open source, cross-platform 3D visualization, curve plotting, and post processing tool for reservoir models and simulations.
@@ -148,7 +148,7 @@ Awesome software projects sub-categorized by focus.
 ### Visualization
 - [cmocean](https://matplotlib.org/cmocean) – ![Python](media/icon/python.png) MatPlotLib collection of perceptual colormaps for oceanography.
 - [Colorcet](https://github.com/holoviz/colorcet)  – ![Python](media/icon/python.png) Perceptual colormaps.
-- [GeologicPatterns](https://github.com/davenquinn/geologic-patterns) – Entire FGDC pattern library extracted to SVG and PNG for use in geologic maps and stratigraphic columns.
+- [Geologic Patterns](https://github.com/davenquinn/geologic-patterns) – Entire FGDC pattern library extracted to SVG and PNG for use in geologic maps and stratigraphic columns.
 - [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) – ![Python](media/icon/python.png) 2D interactive maps and GIS visualization in the Jupyter Notebook.
 - [localtileserver](https://github.com/banesullivan/localtileserver) – ![Python](media/icon/python.png) A Python package for serving tiles from large raster files in the Slippy Maps standard (i.e., `/zoom/x/y.png`) for visualization in Jupyter with `ipyleaflet` or `folium`.
 - [omfvista](https://github.com/OpenGeoVis/omfvista) – ![Python](media/icon/python.png) PyVista interface for the [Open Mining Format (omf)](#miscellaneous) package.
@@ -184,6 +184,7 @@ Awesome software projects sub-categorized by focus.
 - [Volve data village](https://www.equinor.com/energy/volve-data-sharing) - A complete set of data from a North Sea oil field available for research, study and development purposes.
 - [World Stress Map](http://www.world-stress-map.org) – A global compilation of information on the crustal present-day stress field.
 - [Volve data village](https://www.equinor.com/energy/volve-data-sharing) - A complete set of data from a North Sea oil field available for research, study and development purposes.
+- [Macrostrat](https://macrostrat.org) - A multiscale, harmonized, and globally-defined geologic map dataset and stratigraphic API.
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
@@ -200,7 +201,6 @@ Awesome software projects sub-categorized by focus.
 
 ## Miscellaneous
 
-- [Comparison of free geophysics software](https://en.wikipedia.org/wiki/Comparison_of_free_geophysics_software) – List of geophysics software on Wikipedia.
 - [gio](https://github.com/agile-geoscience/gio) – ![Python](media/icon/python.png) Geoscience file input and output functions for less-than standard data formats.
 - [Open Mining Format](https://omf.readthedocs.io/en/latest) – ![Python](media/icon/python.png) Versatile mining data standard.
 - [Software Underground Slack](https://softwareunderground.org) – ![slack](media/icon/slack.png) Community connecting geo\computing researchers.
