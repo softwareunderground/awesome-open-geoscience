@@ -119,6 +119,7 @@ Awesome software projects sub-categorized by focus.
 - [pysgems](https://github.com/robinthibaut/pysgems) – ![Python](media/icon/python.png) Use SGeMS (Stanford geostatistical modelling software) within Python.
 - [SciKit-GStat](https://github.com/mmaelicke/scikit-gstat) – ![Python](media/icon/python.png) SciPy-styled analysis module for geostatistics.
 - [SGeMS](http://sgems.sourceforge.net) – ![CUDA](media/icon/cuda.png) Stanford geostatistical modelling software.
+- [bm_geostat_process](https://github.com/pemn/bm_geostat_process) - ![Python](media/icon/python.png) open source workflow for geostatistics block models
 ### Geospatial
 - [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org) – ![C](media/icon/c.png)  About 80 command-line tools for manipulating geographic and Cartesian data sets.
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.png) Jupyter notebook extension for geospatial visualization and analysis developed by NASA.
