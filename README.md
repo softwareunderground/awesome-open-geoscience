@@ -185,6 +185,7 @@ Awesome software projects sub-categorized by focus.
 - [World Stress Map](http://www.world-stress-map.org) – A global compilation of information on the crustal present-day stress field.
 - [Volve data village](https://www.equinor.com/energy/volve-data-sharing) - A complete set of data from a North Sea oil field available for research, study and development purposes.
 - [Macrostrat](https://macrostrat.org) - A multiscale, harmonized, and globally-defined geologic map dataset and stratigraphic API.
+- [Costa Model](https://researchportal.hw.ac.uk/en/datasets/costa-model-hierarchical-carbonate-reservoir-benchmarking-case-st/) – A hierarchical carbonate reservoir benchmarking case study.
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
