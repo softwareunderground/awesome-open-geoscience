@@ -8,6 +8,7 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 ## Contents
 
 - [Related Awesome](#related-awesome)
+- [Open books](#open-books)
 - [Software](#software)
     - [Seismic and Seismology](#seismic-and-seismology)
     - [Ground-Penetrating Radar](#ground-penetrating-radar)
