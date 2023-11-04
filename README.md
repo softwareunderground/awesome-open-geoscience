@@ -8,6 +8,7 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 ## Contents
 
 - [Related Awesome](#related-awesome)
+- [Open books](#open-books)
 - [Software](#software)
     - [Seismic and Seismology](#seismic-and-seismology)
     - [Ground-Penetrating Radar](#ground-penetrating-radar)
@@ -37,6 +38,9 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
+
+## Open Books
+- [Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia) - ![Julia](media/icon/julia.png) Introductory book on geospatial data science with the Julia programming language.
 
 ## Software
 Awesome software projects sub-categorized by focus.
