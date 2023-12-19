@@ -18,7 +18,8 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
     - [Geostatistics](#geostatistics)
     - [Geospatial](#geospatial)
     - [Geochemistry](#geochemistry)
-    - [Geophysics](#geophysics)
+    - [Geodynamics](#geodynamics)
+    - [Magnetotellurics](#magnetotellurics)
     - [Structural Geology](#structural-geology)
     - [Visualization](#visualization)
     - [Platforms](#platforms)
@@ -140,12 +141,12 @@ Awesome software projects sub-categorized by focus.
 - [pyrolite](https://github.com/morganjwilliams/pyrolite) – ![Python](media/icon/python.png) Geochemical transformation and visualisation.
 - [Reaktoro](https://reaktoro.org) – ![C++](media/icon/cplusplus.png) ![Python](media/icon/python.png) Unified framework for modelling chemically reactive systems.
 - [Thermobar](https://github.com/PennyWieser/Thermobar) – ![Python](media/icon/python.png) Thermobarometry, chemometry and mineral equilibrium tool.
+### Geodynamics
+- [Underworld](https://github.com/underworldcode/underworld2) - ![Python](media/icon/python.png) Computational tools for the geodynamics community.
 ### Magnetotellurics
 - [MATE](https://github.com/sinanozaydin/MATE) - ![Python](media/icon/python.png) A Python program for interpreting magnetotelluric models of the mantle.
 - [MTPy](https://github.com/MTgeophysics/mtpy) - ![Python](media/icon/python.png) A Python Toolbox for magnetotelluric data processing, analysis, modelling and visualization.
 - [Razorback](https://github.com/brgm/razorback) – ![Python](media/icon/python.png) An Python library for magnetotelluric robust processing.
-### Geodynamics
-- [Underworld](https://github.com/underworldcode/underworld2) - ![Python](media/icon/python.png) Computational tools for the geodynamics community.
 ### Structural Geology
 - [apsg](https://github.com/ondrolexa/apsg) – ![Python](media/icon/python.png) Advanced structural geology analysis and visualisation based on Matplotlib.
 - [mplStereonet](https://github.com/joferkington/mplstereonet) – ![Python](media/icon/python.png) Stereonets on python based on Matplotlib.
