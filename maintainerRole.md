@@ -5,9 +5,10 @@ This document provides an overview of how to be a maintainer for this repository
 ## Goals
 
 The goal for maintainers should be for contributors to have a good experience 
-adding to the list. New potential contributors should be able to look at the 
+adding to the Awesome list. 
+New potential contributors should be able to look at the 
 record of past experiences in closed pull requests and be encouraged by what 
-they see to add their own contribution.
+they see to add their own contributions.
 
 If a contribution is lacking in some manner that leads to it falling short 
 of being "AWESOME", clear feedback should be given 
@@ -15,8 +16,9 @@ with a pleasant and positive framing. Often this can lead to improvements
 in projects, additional documentation that helps users, etc. All good things.
 
 Rarely, a contribution will not be merged due to sustained shortcomings. 
-This is okay too. Maintaining the minimum bar helps both the consumers of 
-the list and the contributions to the list.
+This is okay too. Maintaining the minimum bar helps ensure the consumers of 
+the list find value in it and some of them eventually add their own 
+contributions.
 
 
 ## Tasks

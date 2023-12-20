@@ -61,3 +61,9 @@ It is fairly common for pull requests to get stopped due to the submitter not un
 ##### Getting TravisCI to Run Again
 If you need TravisCI to run again but can't figure out how. Go to a file that doesn't matter, add an extra line. 
 Go back to that file and then edit away that line. This will trigger the pull request to run TravisCI again.
+
+## Contributing as a maintainer
+
+For information on contributing as a maintainer for this 
+see the [maintainerRole.md](/maintainerRole.md) file for a description 
+of the role. We are looking for more maintainers.
