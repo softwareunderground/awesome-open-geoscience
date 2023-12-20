@@ -26,7 +26,7 @@ the existing one. If you're not sure how to do that,
 [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
 on the different ways you can update your PR so that we can merge it.
 
-## Automation
+## How to fix automation problems
 
 We have an automatic link checker in place to help us detect broken links.
 Your pull request will be checked by our bot that is running on TravisCI.
