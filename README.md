@@ -1,7 +1,7 @@
 # Awesome Open Geoscience
 > Geoscience is [awesome](awesome.md).
 
-[![Awesome](https://raw.githubusercontent.com/softwareunderground/awesome-open-geoscience/master/media/icon/badge.svg)](https://github.com/sindresorhus/awesome) [![.github/workflows/link_checker.yml](https://github.com/softwareunderground/awesome-open-geoscience/actions/workflows/link_checker.yml/badge.svg)](https://github.com/softwareunderground/awesome-open-geoscience/actions/workflows/link_checker.yml) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/softwareunderground/awesome-open-geoscience.svg?label=contributions)](https://github.com/softwareunderground/awesome-open-geoscience/pulls) [![Commits](https://img.shields.io/github/last-commit/softwareunderground/awesome-open-geoscience.svg?label=last%20contribution)](https://github.com/softwareunderground/awesome-open-geoscience/commits/main) [![Chat on slack](https://img.shields.io/badge/slack-join-ff69b4.svg)](https://swung.slack.com/join/shared_invite/enQtNTczNjM4ODMxODMwLTQ3Yjk3MjFmOTJkYzUyZDU3OGI3ZmJhMzIyNzQxYjcyZDM5MWU4OTVmNTBiOTM4Zjg1ZDViOGM3NmQ4OTgzOTk) [![License](https://img.shields.io/github/license/softwareunderground/awesome-open-geoscience.svg)](https://github.com/softwareunderground/awesome-open-geoscience/blob/master/LICENSE)
+[![Awesome](https://raw.githubusercontent.com/softwareunderground/awesome-open-geoscience/master/media/icon/badge.svg)](https://github.com/sindresorhus/awesome) [![.github/workflows/link_checker.yml](https://github.com/softwareunderground/awesome-open-geoscience/actions/workflows/link_checker.yml/badge.svg)](https://github.com/softwareunderground/awesome-open-geoscience/actions/workflows/link_checker.yml) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/softwareunderground/awesome-open-geoscience.svg?label=contributions)](https://github.com/softwareunderground/awesome-open-geoscience/pulls) [![Commits](https://img.shields.io/github/last-commit/softwareunderground/awesome-open-geoscience.svg?label=last%20contribution)](https://github.com/softwareunderground/awesome-open-geoscience/commits/main) [![Chat on Mattermost](https://img.shields.io/badge/mattermost-join-ff69b4.svg)](https://mattermost.softwareunderground.org/signup_user_complete/?id=wxr6ex7gytgrumqsqd8kaehp7h&md=link&sbr=su) [![License](https://img.shields.io/github/license/softwareunderground/awesome-open-geoscience.svg)](https://github.com/softwareunderground/awesome-open-geoscience/blob/master/LICENSE)
 
 Open geoscience is even more awesome, so we made a list. This list is curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. In accordance with the awesome manifesto, we add awesome repositories. We are open to [contributions](contributing.md) of course, this is a community effort after all.
 
@@ -18,7 +18,8 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
     - [Geostatistics](#geostatistics)
     - [Geospatial](#geospatial)
     - [Geochemistry](#geochemistry)
-    - [Geophysics](#geophysics)
+    - [Geodynamics](#geodynamics)
+    - [Magnetotellurics](#magnetotellurics)
     - [Structural Geology](#structural-geology)
     - [Visualization](#visualization)
     - [Platforms](#platforms)
@@ -140,7 +141,9 @@ Awesome software projects sub-categorized by focus.
 - [pyrolite](https://github.com/morganjwilliams/pyrolite) – ![Python](media/icon/python.png) Geochemical transformation and visualisation.
 - [Reaktoro](https://reaktoro.org) – ![C++](media/icon/cplusplus.png) ![Python](media/icon/python.png) Unified framework for modelling chemically reactive systems.
 - [Thermobar](https://github.com/PennyWieser/Thermobar) – ![Python](media/icon/python.png) Thermobarometry, chemometry and mineral equilibrium tool.
-### Geophysics
+### Geodynamics
+- [Underworld](https://github.com/underworldcode/underworld2) - ![Python](media/icon/python.png) Computational tools for the geodynamics community.
+### Magnetotellurics
 - [MATE](https://github.com/sinanozaydin/MATE) - ![Python](media/icon/python.png) A Python program for interpreting magnetotelluric models of the mantle.
 - [MTPy](https://github.com/MTgeophysics/mtpy) - ![Python](media/icon/python.png) A Python Toolbox for magnetotelluric data processing, analysis, modelling and visualization.
 - [Razorback](https://github.com/brgm/razorback) – ![Python](media/icon/python.png) An Python library for magnetotelluric robust processing.
