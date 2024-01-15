@@ -1,0 +1,42 @@
+name: Mainainer Application
+description: Mainainer Application
+title: "[Maintainer]: "
+labels: ["triage"]
+assignees:
+  - awesome
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for volunteering to be a maintainer of this repository!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: Why
+    attributes:
+      label: Why
+      description: Why do you want to be a maintainer?
+      placeholder: Want to learn maintainer skills, Want to keep this list growing, etc.
+      value: "Want to learn maintainer skills."
+    validations:
+      required: true
+  - type: textarea
+    id: participation
+    attributes:
+      label: How have you participated
+      description: How have you participated in this repository, the Software Underground, or other geoscience related communities. Doesn't need to be long or elaborate.
+      render: shell
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

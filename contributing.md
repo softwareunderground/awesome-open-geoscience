@@ -26,7 +26,7 @@ the existing one. If you're not sure how to do that,
 [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
 on the different ways you can update your PR so that we can merge it.
 
-## Automation
+## How to fix automation problems
 
 We have an automatic link checker in place to help us detect broken links.
 Your pull request will be checked by our bot that is running on TravisCI.
@@ -61,3 +61,9 @@ It is fairly common for pull requests to get stopped due to the submitter not un
 ##### Getting TravisCI to Run Again
 If you need TravisCI to run again but can't figure out how. Go to a file that doesn't matter, add an extra line. 
 Go back to that file and then edit away that line. This will trigger the pull request to run TravisCI again.
+
+## Contributing as a maintainer
+
+For information on contributing as a maintainer for this 
+see the [maintainerRole.md](/maintainerRole.md) file for a description 
+of the role. We are looking for more maintainers.
