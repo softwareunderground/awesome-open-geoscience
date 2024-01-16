@@ -118,6 +118,7 @@ Awesome software projects sub-categorized by focus.
 - [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) – ![Julia](media/icon/julia.png) High-performance geostatistics in Julia.
 - [GeoStat-Framework](https://github.com/GeoStat-Framework) – ![Python](media/icon/python.png) Framework for geostatistical simulations.
 - [gstat](https://github.com/r-spatial/gstat) – ![Python](media/icon/r.png) Geostatistical modelling, prediction and simulation.
+- [gstlearn](https://gstlearn.org) – ![Python](media/icon/python.png) ![R](media/icon/r.png) ![C++](media/icon/cplusplus.png) Complete cross-platform library and packages for Geostatistics proposed by MINES PARIS – PSL University.
 - [G2S](https://gaia-unil.github.io/G2S) – ![Python](media/icon/python.png) ![matlab](media/icon/matlab.png) ![R](media/icon/r.png) ![C++](media/icon/cplusplus.png) ![CUDA](media/icon/cuda.png) A free, flexible and multi-language multiple point (MPS) (geo)statistics framework including the state-of-the-art algorithm QuickSampling.
 - [HPGL](https://github.com/hpgl/hpgl) – ![Python](media/icon/python.png) High perfomance geostatistics library.
 - [PyGSLIB](https://opengeostat.github.io/pygslib/index.html) – ![Python](media/icon/python.png) Mineral resource estimations.
