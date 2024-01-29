@@ -145,6 +145,7 @@ Awesome software projects sub-categorized by focus.
 - [pyrolite](https://github.com/morganjwilliams/pyrolite) – ![Python](media/icon/python.png) Geochemical transformation and visualisation.
 - [Reaktoro](https://reaktoro.org) – ![C++](media/icon/cplusplus.png) ![Python](media/icon/python.png) Unified framework for modelling chemically reactive systems.
 - [Thermobar](https://github.com/PennyWieser/Thermobar) – ![Python](media/icon/python.png) Thermobarometry, chemometry and mineral equilibrium tool.
+- [CHNOSZ](https://www.chnosz.net/) – ![R](media/icon/r.png) Thermodynamic calculations and diagrams for geochemistry, R Packages for Geochemistry: CHNOSZ and logKcalc
 ### Geodynamics
 - [Underworld](https://github.com/underworldcode/underworld2) - ![Python](media/icon/python.png) Computational tools for the geodynamics community.
 ### Magnetotellurics
