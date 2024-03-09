@@ -26,6 +26,7 @@ If you are interested in being a maintainer of this repository, leave the [maint
     - [Visualization](#visualization)
     - [Platforms](#platforms)
     - [Natural Language Processing](#natural-language-processing)
+    - [Geochronology](#geochronology)
 - [Data Repositories](#data-repositories)
 - [Tutorials and Cheat Sheets](#tutorials-and-cheat-sheets)
 - [Miscellaneous](#miscellaneous)
@@ -176,6 +177,8 @@ Awesome software projects sub-categorized by focus.
 - [Webviz-subsurface](https://github.com/equinor/webviz-subsurface) – ![Python](media/icon/python.png) Webviz-subsurface contains subsurface specific standard webviz containers, which are used as plugins in webviz-config.
 ### Natural Language Processing
 - [geoVec](https://osf.io/4uyeq/wiki/home) – ![Python](media/icon/python.png) "Word embeddings for application in geosciences: development, evaluation and examples of soil-related concepts" and an [implementation](https://github.com/JustinGOSSES/geoVec-playground).
+### Geochronology
+- [IsoplotR](https://github.com/pvermees/IsoplotR) – ![R](media/icon/r.png) A free and open-source substitute for Kenneth Ludwig's popular _Isoplot_ add-in to Microsoft Excel.
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
