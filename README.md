@@ -179,6 +179,7 @@ Awesome software projects sub-categorized by focus.
 - [geoVec](https://osf.io/4uyeq/wiki/home) – ![Python](media/icon/python.png) "Word embeddings for application in geosciences: development, evaluation and examples of soil-related concepts" and an [implementation](https://github.com/JustinGOSSES/geoVec-playground).
 ### Geochronology
 - [IsoplotR](https://github.com/pvermees/IsoplotR) – ![R](media/icon/r.png) A free and open-source substitute for Kenneth Ludwig's popular _Isoplot_ add-in to Microsoft Excel.
+- [pychron](https://github.com/NMGRL/pychron) – ![Python](media/icon/python.png) Data acquisition and processing framework for Ar-Ar geochronology and noble gas mass spectrometry.
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
