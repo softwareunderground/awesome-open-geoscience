@@ -170,7 +170,7 @@ Awesome software projects sub-categorized by focus.
 - [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.png)](https://pypi.org/project/PVGeo) [![ParaView](media/icon/paraview.png)](https://www.paraview.org) Data and model visualization in ParaView and Visualization Toolkit (VTK) via PyVista.
 ### Platforms
 - [GRASS-GIS](https://grass.osgeo.org) – GIS platform for vector and raster geospatial data management, geoprocessing, spatial modelling and visualization, ![C](media/icon/c.png) ![C++](media/icon/cplusplus.png) source code available at [github](https://github.com/OSGeo/grass).
-- [OpendTect](https://dgbes.com/index.php/software#free) – Seismic interpretation package, ![C++](media/icon/cplusplus.png) source code available at [github](https://github.com/OpendTect/OpendTect).
+- [OpendTect](https://dgbes.com/software/opendtect) – Seismic interpretation package, ![C++](media/icon/cplusplus.png) source code available at [github](https://github.com/OpendTect/OpendTect).
 - [OpenGeode](https://github.com/Geode-solutions/OpenGeode) – ![C++](media/icon/cplusplus.png) ![Python](media/icon/python.png) Representation and manipulation of geological models.
 - [Pangeo](https://pangeo.io) – ![Python](media/icon/python.png) A community platform for Big Data geoscience built on top of the open source scientific python ecosystem.
 - [QGIS](https://qgis.org/en/site) – GIS platform to visualize, manage, edit, analyse data, and compose printable maps.
@@ -189,7 +189,7 @@ Awesome software projects sub-categorized by focus.
 - [Athabasca Oil Sands Well Dataset McMurray/Wabiskaw](https://ags.aer.ca/publication/spe-006) – Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada.
 - [Digital Rocks Portal](https://www.digitalrocksportal.org) – Powerful data portal for images of varied porous micro-structures.
 - [Geoscience Australia Portal](https://portal.ga.gov.au) – Comprehensive map-based Australian data portal across multiple geoscience domains.
-- [GSQ Open Data Portal](https://geoscience.data.qld.gov.au) – Petroleum, coal, and mineral geoscience data from the Queensland resource industry and government, with supporting information from [GSQ GitHub Repository](https://github.com/geological-survey-of-queensland) for Data Models, RDF Vocabularies, and system design.
+- [GSQ Open Data Portal](https://geoscience.data.qld.gov.au/) – Petroleum, coal, and mineral geoscience data from the Queensland resource industry and government, with supporting information from [GSQ GitHub Repository](https://github.com/geological-survey-of-queensland) for Data Models, RDF Vocabularies, and system design. Use of VPN may result in 403 error.
 - [ICGEM](http://icgem.gfz-potsdam.de/home) – Hosts gravity field spherical harmonic models and provides a webservice for generating grids of gravity functionals (geoid, gravity anomaly, vertical derivatives, etc).
 - [NOPIMS](http://www.ga.gov.au/nopims) – Open petroleum geoscience data from Western Australia made available by the Australian Government.
 - [Poseidon NW Australia](https://drive.google.com/drive/folders/0B7brcf-eGK8Cbk9ueHA0QUU4Zjg) – Interpreted 3D seismic (32bit) including reports and well logs.
