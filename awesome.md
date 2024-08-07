@@ -41,7 +41,7 @@ Common licenses for software are [found here](http://choosealicense.com/):
 * [BSD 3-Clause "New" or "Revised" license](https://opensource.org/licenses/BSD-3-Clause)
 * [BSD 2-Clause "Simplified" or "FreeBSD" license](https://opensource.org/licenses/BSD-2-Clause)
 * [GNU General Public License (GPL)](https://opensource.org/licenses/gpl-license)
-* [GNU Library or "Lesser" General Public License (LGPL)](https://opensource.org/licenses/lgpl-license)
+* [GNU Lesser General Public License version 3](https://opensource.org/license/lgpl-3-0)
 * [MIT license](https://opensource.org/licenses/MIT)
 
 ## Non-Software
