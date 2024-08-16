@@ -39,6 +39,7 @@ If you are interested in being a maintainer of this repository, leave the [maint
 - [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) – ![Awesome](media/icon/awesome.png) Awesome list for coastal engineers and scientists.
 - [Awesome Earth Artificial Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) – ![Awesome](media/icon/awesome.png) Awesome list for artificial intelligence use cases in Earth Science maintinaed by ESIP (<a href="https://wiki.esipfed.org/Main_Page">Earth Science Information Partners</a>, which is a earth science informatics community) Machine Learning Cluster.
 - [Awesome Historic(al) Maps](https://github.com/stark1tty/Awesome-Historic_al-Maps) - Awesome list of resources, databases and tools related to Historic Maps.
+- [Awesome Open Hydrology](https://github.com/Open-Environmental-Science/awesome-open-hydrology) - Awesome list of resources and tools related to hydrology
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
@@ -217,6 +218,7 @@ Awesome software projects sub-categorized by focus.
 - [Geophysics Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d70e4b0d158ed9603f5/1350658645407/Cheatsheet_geophysics.pdf) – Cheat Sheet for Geophysics.
 - [Petroleum Science Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed96019e/1323808738753/Cheatsheet_petroleum.pdf) – Cheat Sheet for Petroleum Science.
 - [Rock Physics Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed960042/1374593568367/Cheatsheet_Rock_Physics.pdf) –  Cheat Sheet for Rock Physics.
+- [Project Pythia](https://projectpythia.org/) - An education and training hub for the geoscientific Python community
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
