@@ -39,7 +39,7 @@ If you are interested in being a maintainer of this repository, leave the [maint
 - [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) – ![Awesome](media/icon/awesome.png) Awesome list for coastal engineers and scientists.
 - [Awesome Earth Artificial Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) – ![Awesome](media/icon/awesome.png) Awesome list for artificial intelligence use cases in Earth Science maintinaed by ESIP (<a href="https://wiki.esipfed.org/Main_Page">Earth Science Information Partners</a>, which is a earth science informatics community) Machine Learning Cluster.
 - [Awesome Historic(al) Maps](https://github.com/stark1tty/Awesome-Historic_al-Maps) - Awesome list of resources, databases and tools related to Historic Maps.
-- [Awesome Open Hydrology](https://github.com/Open-Environmental-Science/awesome-open-hydrology) - Awesome list of resources and tools related to hydrology
+- [Awesome Open Hydrology](https://github.com/Open-Environmental-Science/awesome-open-hydrology) - ![Awesome](media/icon/awesome.png) Awesome list of resources and tools related to hydrology
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
