@@ -18,7 +18,7 @@ __Submission type:__
 <!-- If adding a project to the list, make sure it fulfills the following criteria. -->
 
 <!-- Make sure it's "certified awesome"! -->
-- [ ] Project is [`certified awesome`](awesome.md)
+- [ ] Project is [`certified awesome`](../awesome.md)
 
 <!-- General requirements -->
 - [ ] The project is [open-source](https://opensource.org/licenses/alphabetical) and accessible.
