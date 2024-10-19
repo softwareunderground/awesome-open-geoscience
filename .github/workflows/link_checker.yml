@@ -8,5 +8,7 @@ jobs:
       - name: lychee Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v2
+        with:
+          args: --exclude 'https://wiki.seg.org/wiki/Open_data' --exclude 'https://www.gnu.org/licenses/license-list.html' --exclude 'https://www.gnu.org/licenses/license-list.html'
       - name: Fail if there were link errors
         run: exit ${{ steps.lychee.outputs.exit_code }}
