@@ -77,6 +77,7 @@ Awesome software projects sub-categorized by focus.
 ### Well Log
 - [dlisio](https://github.com/equinor/dlisio) – ![Python](media/icon/python.png) Parser for dlis and lis well log files.
 - [lasio](https://github.com/kinverarity1/lasio) – ![Python](media/icon/python.png) Reading and writing well data using Log ASCII Standard (LAS) files.
+- [OpenGeoPlotter](https://github.com/bsomps/OpenGeoPlotter) – ![Python](media/icon/python.png) Create strip logs, drill sections, other plots.
 - [PetroPy](https://github.com/toddheitmann/PetroPy) – ![Python](media/icon/python.png) – Petrophysics package for conventional and unconventional formation evaluation and includes basic well log visualization via matplotlib.
 - [Striplog](https://github.com/agile-geoscience/striplog) – ![Python](media/icon/python.png) Display lithological and stratigraphic logs for wells and outcrop.
 - [Wellioviz](https://github.com/JustinGOSSES/wellioviz) – ![JavaScript](media/icon/javascript.png) – Visualizes well logs using d3.js. Companion to Wellio.js.
@@ -85,6 +86,7 @@ Awesome software projects sub-categorized by focus.
 ### Simulation and Modelling
 - ![Awesome](media/icon/awesome.png) [Basic Model Interface (BMI)](https://github.com/csdms/bmi) – ![C](media/icon/c.png) ![C++](media/icon/cplusplus.png) ![Fortran](media/icon/fortran.png) ![Python](media/icon/python.png) A standardized set of functions for model-model and model-data coupling.
 - [bh_tomo](https://github.com/groupeLIAMG/bh_tomo) – ![matlab](media/icon/matlab.png) Borehole radar and seismic tomography package.
+- [BlenderGeoModeller](https://github.com/bsomps/BlenderGeoModeller) – ![Python](media/icon/python.png) A Blender add-on with a collection of tools for 3-D geological modelling.
 - [Devito](https://www.devitoproject.org) – ![Python](media/icon/python.png) Finite-Difference computation from high-level symbolic problem definitions.
 - [disba](https://github.com/keurfonluu/disba) – ![Python](media/icon/python.png) Numba-accelerated computation of surface wave dispersion.
 - [emsig](https://emsig.xyz) – ![Python](media/icon/python.png) Controlled-source electromagnetic modellers for layered (`empymod`) and three-dimensional (`emg3d`) anisotropic media.
