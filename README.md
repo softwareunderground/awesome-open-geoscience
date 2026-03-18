@@ -214,7 +214,8 @@ Awesome software projects sub-categorized by focus.
 - [Macrostrat](https://macrostrat.org) - A multiscale, harmonized, and globally-defined geologic map dataset and stratigraphic API.
 - [Costa Model](https://researchportal.hw.ac.uk/en/datasets/costa-model-hierarchical-carbonate-reservoir-benchmarking-case-st/) – A hierarchical carbonate reservoir benchmarking case study.
 - [EarthChem](https://www.earthchem.org/) – Community-driven preservation, discovery, access, and visualization of geochemical, geochronological, and petrological data.
-- [Tethys Research Data Repository](https://www.tethys.at/) – Publisher for geoscientific research data. Has comprehensive data about Austria across multiple geoscience disciplines.  
+- [Tethys Research Data Repository](https://www.tethys.at/) – Publisher for geoscientific research data. Has comprehensive data about Austria across multiple geoscience disciplines.
+- [US Water Quality by ZIP Code](https://github.com/artakulov/us-water-quality-data) – Drinking water quality data for 6,300+ US ZIP codes derived from EPA records, with an open API at api.zipcheckup.com. CC BY 4.0.
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
