@@ -167,6 +167,7 @@ Awesome software projects sub-categorized by focus.
 - [OpenStereo](https://github.com/spamlab-iee/os) – ![Python](media/icon/python.png) An open source, cross-platform structural geology analysis software.
 - [Stress_state_plot](https://github.com/mkondratyev85/stress_state_plot) – ![Python](media/icon/python.png) An open source structural geology package for visualisation of a given stess-state via matplotlib.
 - [Romsa-py](https://github.com/bciscato/romsa-py) – ![Python](media/icon/python.png) ROMSA (Right Dihedra Method Stress Analysis) is a high-performance Python tool for determining paleostress orientations from fault-slip data.
+- [superposed-folds](https://github.com/MadsLorentzen/superposed-folds) – ![Python](media/icon/python.png) Interactive Streamlit playground and Python library for superposed folds, implementing the Ramsay & Lisle (2000) plane-strain equations and the Grasemann et al. (2004) classification, ported from Martin Schöpfer's UCD papermodels.
 ### Visualization
 - [cmocean](https://matplotlib.org/cmocean) – ![Python](media/icon/python.png) MatPlotLib collection of perceptual colormaps for oceanography.
 - [Colorcet](https://github.com/holoviz/colorcet)  – ![Python](media/icon/python.png) Perceptual colormaps.
