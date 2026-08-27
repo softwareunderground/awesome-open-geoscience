@@ -137,6 +137,7 @@ Awesome software projects sub-categorized by focus.
 - [SGeMS](http://sgems.sourceforge.net) – ![CUDA](media/icon/cuda.png) Stanford geostatistical modelling software.
 - [bm_geostat_process](https://github.com/pemn/bm_geostat_process) - ![Python](media/icon/python.png) open source workflow for geostatistics block models
 ### Geospatial
+- [AI Segmentation by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Segmentation) – ![Python](media/icon/python.png) QGIS plugin for point-and-click segmentation of buildings, trees and any object in satellite and drone imagery into vector polygons. Free local CPU mode, no cloud needed.
 - [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org) – ![C](media/icon/c.png)  About 80 command-line tools for manipulating geographic and Cartesian data sets.
 - [geo-utils-cpp](https://github.com/gistrec/geo-utils-cpp) – ![C++](media/icon/cplusplus.png) Spherical (lat/lng) geometry: distance, bearing, area, point-in-polygon.
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.png) Jupyter notebook extension for geospatial visualization and analysis developed by NASA.
