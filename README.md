@@ -33,6 +33,7 @@ If you are interested in being a maintainer of this repository, leave the [maint
 - [How to Contribute](#how-to-contribute)
 
 ## Related Awesome
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous penetration testing platform (GPLv3). 50 specialist agents over MCP with proof of exploitation on every finding, runs locally.
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – ![Awesome](media/icon/awesome.png) Awesome list for geospatial, not specific to geoscience but significant overlap.
 - [Awesome GIS](https://github.com/sshuair/awesome-gis) - ![Awesome](media/icon/awesome.png) Awesome list related to all things Geographic Information Systems (GIS).
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) – ![Awesome](media/icon/awesome.png) Awesome list for atmospheric, ocean, climate, and hydrologic science.
