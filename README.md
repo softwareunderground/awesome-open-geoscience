@@ -181,6 +181,7 @@ Awesome software projects sub-categorized by focus.
 - [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.png)](https://pypi.org/project/PVGeo) [![ParaView](media/icon/paraview.png)](https://www.paraview.org) Data and model visualization in ParaView and Visualization Toolkit (VTK) via PyVista.
 - [GeoVista](https://github.com/bjlittle/geovista) – ![Python](media/icon/python.png) Cartographic rendering and mesh analytics powered by PyVista.
 - [Digitize Heatmap](https://github.com/RyanFu008/digitize-heatmap) – Get numerical data from a heatmap from a PDF format.
+- [K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) – ![Python](media/icon/python.png) 3D visualization in Jupyter notebooks: volumes, isosurfaces, point clouds and streamlines from NumPy arrays.
 ### Platforms
 - [GRASS-GIS](https://grass.osgeo.org) – GIS platform for vector and raster geospatial data management, geoprocessing, spatial modelling and visualization, ![C](media/icon/c.png) ![C++](media/icon/cplusplus.png) source code available at [github](https://github.com/OSGeo/grass).
 - [OpendTect](https://dgbes.com/software/opendtect) – Seismic interpretation package, ![C++](media/icon/cplusplus.png) source code available at [github](https://github.com/OpendTect/OpendTect).
