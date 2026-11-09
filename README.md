@@ -218,6 +218,7 @@ Awesome software projects sub-categorized by focus.
 - [Costa Model](https://researchportal.hw.ac.uk/en/datasets/costa-model-hierarchical-carbonate-reservoir-benchmarking-case-st/) – A hierarchical carbonate reservoir benchmarking case study.
 - [EarthChem](https://www.earthchem.org/) – Community-driven preservation, discovery, access, and visualization of geochemical, geochronological, and petrological data.
 - [Tethys Research Data Repository](https://www.tethys.at/) – Publisher for geoscientific research data. Has comprehensive data about Austria across multiple geoscience disciplines.  
+- [Texas Oil & Gas Production by County, 1993–2026 (Royalty Clerk)](https://zenodo.org/records/23818209) – Monthly Railroad Commission of Texas oil and gas production for all 254 Texas counties from January 1993 to August 2026, with the top 100 operators. CC BY-NC 4.0.
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
