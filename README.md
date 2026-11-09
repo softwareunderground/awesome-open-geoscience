@@ -157,6 +157,7 @@ Awesome software projects sub-categorized by focus.
 - [Thermobar](https://github.com/PennyWieser/Thermobar) – ![Python](media/icon/python.png) Thermobarometry, chemometry and mineral equilibrium tool.
 - [CHNOSZ](https://www.chnosz.net/) – ![R](media/icon/r.png) Thermodynamic calculations and diagrams for geochemistry, R Packages for Geochemistry: CHNOSZ and logKcalc
 - [GeoChemical Data toolkit – GCDKit](https://gcdkit.org/) – ![R](media/icon/r.png) System for handling and recalculation of whole-rock analyses from igneous rocks: Standard geochemical calculations and many of the common plots (binary, ternary, spider diagrams).
+- [MineralTrace.jl](https://github.com/Nerolithos/PHREEQC-MineralTrace) – ![Julia](media/icon/julia.png) PHREEQC-based screening of candidate mineral–fluid reaction mechanisms, with evidence constraints, conservation checks and reproducible reports.
 ### Geodynamics
 - [Underworld](https://github.com/underworldcode/underworld2) - ![Python](media/icon/python.png) Computational tools for the geodynamics community.
 ### Magnetotellurics
