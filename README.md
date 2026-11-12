@@ -70,6 +70,7 @@ Awesome software projects sub-categorized by focus.
 - [Seismic Un\*x](https://github.com/JohnWStockwellJr/SeisUnix) – ![C](media/icon/c.png) Seismic data processing suite.
 - [SeismicZFP](https://github.com/equinor/seismic-zfp) – ![Python](media/icon/python.png) Convert SEG-Y/ZGY files to compressed [SGZ files](https://github.com/equinor/seismic-zfp/blob/master/docs/file-specification.md) & retrieve arbitrary sub-volumes from these, fast.
 - [synthoseis](https://github.com/sede-open/synthoseis) – ![Python](media/icon/python.png) Synthoseis is an open-source, Python-based tool used for generating pseudo-random seismic data.
+- [TremorMesh](https://github.com/tylrcc/tremor-mesh) – ![Python](media/icon/python.png) Open-source earthquake early-warning sensor mesh: ESP32 + MEMS nodes run an STA/LTA P-wave detector on-device, and the Python package holds the reference detector, the multi-node consensus engine, and a full-pipeline simulation.
 ### Ground-penetrating radar
 - [gprMax](http://www.gprmax.com) – ![Python](media/icon/python.png) ![CUDA](media/icon/cuda.png) Finite-difference time-domain electromagnetic wave propagation simulator (on CPU and GPU).
 - [GPRPy](https://github.com/NSGeophysics/GPRPy) – ![Python](media/icon/python.png) Multi-format, GUI-based GPR processing and visualization.
