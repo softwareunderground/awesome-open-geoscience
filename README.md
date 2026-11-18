@@ -41,6 +41,7 @@ If you are interested in being a maintainer of this repository, leave the [maint
 - [Awesome Historic(al) Maps](https://github.com/stark1tty/Awesome-Historic_al-Maps) - Awesome list of resources, databases and tools related to Historic Maps.
 - [Awesome Open Hydrology](https://github.com/Open-Environmental-Science/awesome-open-hydrology) - ![Awesome](media/icon/awesome.png) Awesome list of resources and tools related to hydrology
 - [Awesome Geophysics](https://github.com/aradfarahani/awesome-geophysics) - ![Awesome](media/icon/awesome.png) Awesome list of resources and tools related to geophysics
+- [Awesome Mineral Exploration](https://github.com/XploraHub/awesome-mineral-exploration) – ![Awesome](media/icon/awesome.png) Awesome list of open-source software and open data for mineral exploration, sorted by method.
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
@@ -95,6 +96,7 @@ Awesome software projects sub-categorized by focus.
 - [Fatiando a Terra](https://github.com/fatiando) – ![Python](media/icon/python.png) Modelling and inversion in geophysics.
 - [GemPy](https://github.com/cgre-aachen/gempy) – ![Python](media/icon/python.png) 3-D structural geological modelling software with implicit modelling and support for stochastic modelling.
 - [GeoPhyInv](https://github.com/pawbz/GeoPhyInv.jl) – Julia Toolbox for Geophysical Modeling and Inverse Problems.
+- [GroundwaterCast](https://github.com/dominicm2023/groundwatercast-uk) – ![Python](media/icon/python.png) Open, reproducible pipeline publishing daily probabilistic groundwater-level forecasts for 1,300+ monitored boreholes in England, driving per-borehole calibrated Pastas models with ECMWF ensemble rainfall.
 - [HyVR](https://github.com/driftingtides/hyvr) – ![Python](media/icon/python.png) 3-D anisotropic subsurface models based on geological concepts that can be used with groundwater flow simulators (e.g., [ModFlow](#simulation-and-modelling)).
 - [Landlab](https://github.com/landlab/landlab) – ![Python](media/icon/python.png) Simulate surface processes using a large suite of existing interoperable process components (landscape evolution, sediment dynamics, surface hydrology, ecohydrology), exensible by own modules.
 - [LoopStructural](https://github.com/Loop3D/LoopStructural) – ![Python](media/icon/python.png) an open-source 3D structural geological modelling library.
@@ -137,6 +139,7 @@ Awesome software projects sub-categorized by focus.
 - [SGeMS](http://sgems.sourceforge.net) – ![CUDA](media/icon/cuda.png) Stanford geostatistical modelling software.
 - [bm_geostat_process](https://github.com/pemn/bm_geostat_process) - ![Python](media/icon/python.png) open source workflow for geostatistics block models
 ### Geospatial
+- [AI Segmentation by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Segmentation) – ![Python](media/icon/python.png) QGIS plugin for point-and-click segmentation of buildings, trees and any object in satellite and drone imagery into vector polygons. Free local CPU mode, no cloud needed.
 - [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org) – ![C](media/icon/c.png)  About 80 command-line tools for manipulating geographic and Cartesian data sets.
 - [geo-utils-cpp](https://github.com/gistrec/geo-utils-cpp) – ![C++](media/icon/cplusplus.png) Spherical (lat/lng) geometry: distance, bearing, area, point-in-polygon.
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) – ![Python](media/icon/python.png) Jupyter notebook extension for geospatial visualization and analysis developed by NASA.
@@ -181,6 +184,7 @@ Awesome software projects sub-categorized by focus.
 - [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.png)](https://pypi.org/project/PVGeo) [![ParaView](media/icon/paraview.png)](https://www.paraview.org) Data and model visualization in ParaView and Visualization Toolkit (VTK) via PyVista.
 - [GeoVista](https://github.com/bjlittle/geovista) – ![Python](media/icon/python.png) Cartographic rendering and mesh analytics powered by PyVista.
 - [Digitize Heatmap](https://github.com/RyanFu008/digitize-heatmap) – Get numerical data from a heatmap from a PDF format.
+- [K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) – ![Python](media/icon/python.png) 3D visualization in Jupyter notebooks: volumes, isosurfaces, point clouds and streamlines from NumPy arrays.
 ### Platforms
 - [GRASS-GIS](https://grass.osgeo.org) – GIS platform for vector and raster geospatial data management, geoprocessing, spatial modelling and visualization, ![C](media/icon/c.png) ![C++](media/icon/cplusplus.png) source code available at [github](https://github.com/OSGeo/grass).
 - [OpendTect](https://dgbes.com/software/opendtect) – Seismic interpretation package, ![C++](media/icon/cplusplus.png) source code available at [github](https://github.com/OpendTect/OpendTect).
@@ -217,8 +221,10 @@ Awesome software projects sub-categorized by focus.
 - [Macrostrat](https://macrostrat.org) - A multiscale, harmonized, and globally-defined geologic map dataset and stratigraphic API.
 - [Costa Model](https://researchportal.hw.ac.uk/en/datasets/costa-model-hierarchical-carbonate-reservoir-benchmarking-case-st/) – A hierarchical carbonate reservoir benchmarking case study.
 - [EarthChem](https://www.earthchem.org/) – Community-driven preservation, discovery, access, and visualization of geochemical, geochronological, and petrological data.
-- [Tethys Research Data Repository](https://www.tethys.at/) – Publisher for geoscientific research data. Has comprehensive data about Austria across multiple geoscience disciplines.  
+- [Tethys Research Data Repository](https://www.tethys.at/) – Publisher for geoscientific research data. Has comprehensive data about Austria across multiple geoscience disciplines.
+- [Türkiye Deprem Verisi](https://github.com/Ayberkrk/turkiye-deprem-verisi) – Turkey-specific earthquake catalogue and seismic waveform dataset: 84,100 deduplicated events (USGS+EMSC+ISC, 1990-present) and 5,413 real multi-component strong-motion/broadband waveform records with engineering features (PGA/PGV/Sa/Arias/CAV) and site classification (Vs30/NEHRP, 277 stations). Also on [Hugging Face](https://huggingface.co/datasets/Ayberkkr/turkiye-deprem-verisi), archived with a Zenodo DOI ([10.5281/zenodo.22754705](https://doi.org/10.5281/zenodo.22754705)).  
 - [Texas Oil & Gas Production by County, 1993–2026 (Royalty Clerk)](https://zenodo.org/records/23818209) – Monthly Railroad Commission of Texas oil and gas production for all 254 Texas counties from January 1993 to August 2026, with the top 100 operators. CC BY-NC 4.0.
+
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
