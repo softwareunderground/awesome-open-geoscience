@@ -223,6 +223,8 @@ Awesome software projects sub-categorized by focus.
 - [EarthChem](https://www.earthchem.org/) – Community-driven preservation, discovery, access, and visualization of geochemical, geochronological, and petrological data.
 - [Tethys Research Data Repository](https://www.tethys.at/) – Publisher for geoscientific research data. Has comprehensive data about Austria across multiple geoscience disciplines.
 - [Türkiye Deprem Verisi](https://github.com/Ayberkrk/turkiye-deprem-verisi) – Turkey-specific earthquake catalogue and seismic waveform dataset: 84,100 deduplicated events (USGS+EMSC+ISC, 1990-present) and 5,413 real multi-component strong-motion/broadband waveform records with engineering features (PGA/PGV/Sa/Arias/CAV) and site classification (Vs30/NEHRP, 277 stations). Also on [Hugging Face](https://huggingface.co/datasets/Ayberkkr/turkiye-deprem-verisi), archived with a Zenodo DOI ([10.5281/zenodo.22754705](https://doi.org/10.5281/zenodo.22754705)).  
+- [Texas Oil & Gas Production by County, 1993–2026 (Royalty Clerk)](https://zenodo.org/records/23818209) – Monthly Railroad Commission of Texas oil and gas production for all 254 Texas counties from January 1993 to August 2026, with the top 100 operators. CC BY-NC 4.0.
+
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
