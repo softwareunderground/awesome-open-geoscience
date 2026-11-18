@@ -152,6 +152,7 @@ Awesome software projects sub-categorized by focus.
 - [whitebox-tools](https://github.com/jblindsay/whitebox-tools) – ![Python](media/icon/python.png) An advanced geospatial data analysis platform.
 - [gemgis](https://github.com/cgre-aachen/gemgis) – ![Python](media/icon/python.png) Spatial data processing for geomodeling
 - [SamGIS](https://github.com/trincadev/samgis-be) – ![Python](media/icon/python.png) Image Segmentation machine learning based (Segment Anything by Meta - Facebook) applied to GIS and geo data. HuggingFace demo [here](https://huggingface.co/spaces/aletrn/samgis).
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Geospatial live-music venue directory and MCP server with drive-time and route-corridor search across North America.
 ### Geochemistry
 - [GeoPyTool](https://github.com/GeoPyTool/GeoPyTool) – ![Python](media/icon/python.png) Application with geochemical plotting capabilities.
 - [PhreeQC](https://www.usgs.gov/software/phreeqc-version-3) – ![C++](media/icon/cplusplus.png) Reactions in water and between water and rocks and sediments (speciation, batch-reaction, one-dimensional transport, and inverse geochemical calculations).
