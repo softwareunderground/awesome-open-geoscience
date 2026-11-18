@@ -89,6 +89,7 @@ Awesome software projects sub-categorized by focus.
 - ![Awesome](media/icon/awesome.png) [Basic Model Interface (BMI)](https://github.com/csdms/bmi) – ![C](media/icon/c.png) ![C++](media/icon/cplusplus.png) ![Fortran](media/icon/fortran.png) ![Python](media/icon/python.png) A standardized set of functions for model-model and model-data coupling.
 - [bh_tomo](https://github.com/groupeLIAMG/bh_tomo) – ![matlab](media/icon/matlab.png) Borehole radar and seismic tomography package.
 - [BlenderGeoModeller](https://github.com/bsomps/BlenderGeoModeller) – ![Python](media/icon/python.png) A Blender add-on with a collection of tools for 3-D geological modelling.
+- [Detectability](https://github.com/mukremin-nergiz/detectability) – ![Python](media/icon/python.png) Pre-survey check of whether a gravity, magnetic, GPR or resistivity survey can detect a near-surface target: forward models, noise, station spacing and a reproducible script.
 - [Devito](https://www.devitoproject.org) – ![Python](media/icon/python.png) Finite-Difference computation from high-level symbolic problem definitions.
 - [disba](https://github.com/keurfonluu/disba) – ![Python](media/icon/python.png) Numba-accelerated computation of surface wave dispersion.
 - [emsig](https://emsig.xyz) – ![Python](media/icon/python.png) Controlled-source electromagnetic modellers for layered (`empymod`) and three-dimensional (`emg3d`) anisotropic media.
