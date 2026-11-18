@@ -41,6 +41,7 @@ If you are interested in being a maintainer of this repository, leave the [maint
 - [Awesome Historic(al) Maps](https://github.com/stark1tty/Awesome-Historic_al-Maps) - Awesome list of resources, databases and tools related to Historic Maps.
 - [Awesome Open Hydrology](https://github.com/Open-Environmental-Science/awesome-open-hydrology) - ![Awesome](media/icon/awesome.png) Awesome list of resources and tools related to hydrology
 - [Awesome Geophysics](https://github.com/aradfarahani/awesome-geophysics) - ![Awesome](media/icon/awesome.png) Awesome list of resources and tools related to geophysics
+- [Awesome Mineral Exploration](https://github.com/XploraHub/awesome-mineral-exploration) – ![Awesome](media/icon/awesome.png) Awesome list of open-source software and open data for mineral exploration, sorted by method.
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
