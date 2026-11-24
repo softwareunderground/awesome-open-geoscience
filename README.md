@@ -198,6 +198,7 @@ Awesome software projects sub-categorized by focus.
 ### Geochronology
 - [IsoplotR](https://github.com/pvermees/IsoplotR) – ![R](media/icon/r.png) A free and open-source substitute for Kenneth Ludwig's popular _Isoplot_ add-in to Microsoft Excel.
 - [pychron](https://github.com/NMGRL/pychron) – ![Python](media/icon/python.png) Data acquisition and processing framework for Ar-Ar geochronology and noble gas mass spectrometry.
+- [detritalPy](https://github.com/NMGRL/pychron) – ![Python](media/icon/python.png) A Python-based toolset for visualizing and analyzing detrital geo-thermochronologic data.
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
